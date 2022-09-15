@@ -32,4 +32,4 @@ iPhone 13 Pro
 
 ## BundlePhobia
 
-- TODO once published
+https://bundlephobia.com/package/@customerio/devices
