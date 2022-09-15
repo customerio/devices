@@ -21,8 +21,6 @@ Output:
 iPhone 13 Pro
 ``` 
 
-
-
 ## Development
 
 - The data is collected from the following sources:
@@ -33,3 +31,16 @@ iPhone 13 Pro
 ## BundlePhobia
 
 https://bundlephobia.com/package/@customerio/devices
+
+
+## Todo
+
+- [ ] Add some basic tests to validate the android data which is automated
+- [ ] Add workflows
+  - [ ] Lint
+  - [ ] Test
+  - [ ] Build
+  - [ ] Release
+- [ ] Protect main branch from direct commits
+- [ ] Add a PR template
+- [ ] Automate iOS data collection (far fetched)
