@@ -35,6 +35,7 @@ https://bundlephobia.com/package/@customerio/devices
 
 ## Todo
 
+- [ ] Discuss the need of all 32,708 android devices
 - [ ] Add some basic tests to validate the android data which is automated
 - [ ] Add workflows
   - [ ] Lint
