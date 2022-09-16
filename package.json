@@ -16,7 +16,7 @@
     "lint": "eslint . --ext .ts",
     "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write",
     "test": "jest",
-    "size": "size-limit",
+    "size": "npm run build && size-limit",
     "prepare": "husky install"
   },
   "size-limit": [
