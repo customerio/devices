@@ -6,21 +6,8 @@ function deviceList(): Device[] {
 }
 
 /**
- * Get the first matching device's generation (aka marketing name) from the list of devices.
- * If no device is found, returns the given model name.
- *
- * @param identifier
+ * Get all possible ios devices for a given device identifier.
  */
-export const getIosMarketingName = (identifier: string): string => {
-  const device = deviceList().find(
-    (device) => device.identifier === identifier,
-  );
-
-  let marketingName = device?.generation;
-
-  if (!marketingName) {
-    marketingName = identifier;
-  }
-
-  return marketingName;
+export const getIosDevices = (identifier: string): Device[] => {
+  return deviceList().filter((device) => device.identifier === identifier);
 };

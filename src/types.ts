@@ -9,3 +9,8 @@ export interface IosDevice {
   identifier: string;
   generation: string;
 }
+
+export enum OsType {
+  IOS = 'ios',
+  ANDROID = 'android',
+}

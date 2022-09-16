@@ -6,19 +6,8 @@ function deviceList(): Device[] {
 }
 
 /**
- * Get the first matching device's marketing name from the list of devices.
- * If no device is found, returns the given model name.
- *
- * @param model
+ * Get all possible android devices for a given device model.
  */
-export const getAndroidMarketingName = (model: string): string => {
-  const device = deviceList().find((device) => device.model === model);
-
-  let marketingName = device?.marketingName;
-
-  if (!marketingName) {
-    marketingName = model;
-  }
-
-  return marketingName;
+export const getAndroidDevices = (model: string): Device[] => {
+  return deviceList().filter((device) => device.model === model);
 };

@@ -55,7 +55,10 @@ node_modules/
 .env.local
 
 # Build directories
-dist/lib
+dist
 
 # Jetbrains
 **/.idea/**
+
+# Coverage
+coverage

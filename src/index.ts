@@ -1,3 +1,3 @@
-export { getAndroidMarketingName } from './android';
-export { getIosMarketingName } from './ios';
+export { getAndroidDevices } from './android';
+export { getIosDevices } from './ios';
 export { getMarketingName } from './common';
