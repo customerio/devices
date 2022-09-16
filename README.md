@@ -28,19 +28,15 @@ iPhone 13 Pro
 Simple golang script fetches data from https://storage.googleapis.com/play_public/supported_devices.html and generates json file.
 
 ```bash
-go run 
+cd scripts/android
+go run main.go
 ```
 
 TODO
 
 #### How to generate ios devices json?
 
-- Manual 
-
-- The data is collected from the following sources:
-  - Android: https://storage.googleapis.com/play_public/supported_devices.html (Automated)
-  - iOS: https://www.theiphonewiki.com/wiki/Models (Manual)
-    - Apple TV, Watch, iPads, iPhones
+- Manually maintained 🤓 from https://www.theiphonewiki.com/wiki/Models for Apple TV, Watch, iPads and iPhones.
 
 ## Size details
 
