@@ -21,7 +21,7 @@
   },
   "size-limit": [
     {
-      "limit": "11.9 s",
+      "limit": "9.25 s",
       "path": "dist/lib/es5/index.js",
       "import": "{ getMarketingName }"
     }
