@@ -1,7 +1,16 @@
-import devices from '../data/android.json';
+import devicesArray from '../data/android.json';
 import { AndroidDevice as Device } from '../types';
 
 function deviceList(): Device[] {
+  const devices = [];
+  devicesArray.forEach((deviceItem) => {
+    devices.push({
+      retailBranding: deviceItem[0],
+      marketingName: deviceItem[1],
+      device: deviceItem[2],
+      model: deviceItem[3],
+    });
+  });
   return devices;
 }
 

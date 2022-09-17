@@ -50,20 +50,13 @@ func main() {
 
 	log.Println("Fetched", len(data), "devices")
 
-	devices := make([]Device, 0, len(data))
-	for _, row := range data {
-		devices = append(devices, Device{
-			RetailBranding: row[0],
-			MarketingName:  row[1],
-			Device:         row[2],
-			Model:          row[3],
-		})
-	}
-
 	// 3. write csv -> json to the data file
-	if err := utils.WriteJsonToFile(devices, AndroidDataFile); err != nil {
+	if err := utils.WriteJsonToFile(data, AndroidDataFile, "", ""); err != nil {
 		log.Fatal("Error writing to JSON, check out the *.bak file to restore old contents", err)
 	} else {
-		log.Println("Wrote", len(devices), "devices to", AndroidDataFile)
+		log.Println("Wrote", len(data), "devices to", AndroidDataFile)
+		if fi, err := os.Stat(AndroidDataFile); err == nil {
+			log.Println("File size:", fi.Size())
+		}
 	}
 }

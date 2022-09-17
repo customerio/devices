@@ -77,7 +77,7 @@ func CopyFile(src, dst string) (int64, error) {
 	return nBytes, err
 }
 
-func WriteJsonToFile(data interface{}, filename string) error {
+func WriteJsonToFile(data interface{}, filename, prefix, indent string) error {
 	file, err := os.Create(filename)
 	if err != nil {
 		return err
@@ -85,6 +85,6 @@ func WriteJsonToFile(data interface{}, filename string) error {
 	defer file.Close()
 
 	enc := json.NewEncoder(file)
-	enc.SetIndent("", "")
+	enc.SetIndent(prefix, indent)
 	return enc.Encode(data)
 }
