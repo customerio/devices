@@ -1,6 +1,6 @@
 # @customerio/devices
 
-Utility to map device models to marketing friendly device name.
+Utility to map device models to marketing friendly device name. The android list is pretty huge, and we've decided to cater to the most popular brands based on [market share](https://www.appbrain.com/stats/top-manufacturers). If you need a device that isn't in the list, please open an issue or a PR.
 
 ## Installation
 
@@ -48,12 +48,13 @@ $ npm run build && npm run size
 
 ✔ Adding to empty webpack project
 ✔ Running JS in headless Chrome
-
-  Size:         419.8 kB with all dependencies, minified and gzipped
-  Loading time: 8.2 s    on slow 3G
-  Running time: 1.2 s    on Snapdragon 410
-  Total time:   9.4 s
   
+  Time limit:   3 s
+  Size:         90.16 kB with all dependencies, minified and gzipped
+  Loading time: 1.8 s    on slow 3G
+  Running time: 266 ms   on Snapdragon 410
+  Total time:   2.1 s
+
 ```
 
 ## Todo

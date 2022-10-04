@@ -1,6 +1,6 @@
 {
   "name": "@customerio/devices",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Devices util methods to map device model to it's corresponding marketing name",
   "author": "Customer.io",
   "main": "dist/lib/es5/index.js",
@@ -21,7 +21,7 @@
   },
   "size-limit": [
     {
-      "limit": "9.25 s",
+      "limit": "3 s",
       "path": "dist/lib/es5/index.js",
       "import": "{ getMarketingName }"
     }
