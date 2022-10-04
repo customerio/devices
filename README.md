@@ -49,12 +49,12 @@ $ npm run build && npm run size
 ✔ Adding to empty webpack project
 ✔ Running JS in headless Chrome
   
-  Time limit:   9.3 s
-  Size:         338.66 kB with all dependencies, minified and gzipped
-  Loading time: 6.7 s     on slow 3G
-  Running time: 722 ms    on Snapdragon 410
-  Total time:   7.4 s
-  
+  Time limit:   3 s
+  Size:         90.16 kB with all dependencies, minified and gzipped
+  Loading time: 1.8 s    on slow 3G
+  Running time: 266 ms   on Snapdragon 410
+  Total time:   2.1 s
+
 ```
 
 ## Todo
