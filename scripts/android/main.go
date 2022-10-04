@@ -101,7 +101,7 @@ func isRetailsBrandingValid(retailBranding string) bool {
 		"oneplus",
 		"google",
 		"hmd global",
-		"Sony",
+		"sony",
 		"rockchip",
 		"zte",
 		"tct (alcatel)",
