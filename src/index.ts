@@ -1,4 +1,7 @@
-export { getAndroidDevices } from './android';
-export { getIosDevices } from './ios';
+export {
+  getAndroidDevices,
+  getAndroidDevicesFromMarketingName,
+} from './android';
+export { getIosDevices, getIosDevicesFromMarketingName } from './ios';
 export { getMarketingName } from './common';
-export { OsType } from './types';
+export { AndroidDevice, IosDevice, OsType } from './types';

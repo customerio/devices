@@ -11,3 +11,9 @@ function deviceList(): Device[] {
 export const getIosDevices = (identifier: string): Device[] => {
   return deviceList().filter((device) => device.identifier === identifier);
 };
+
+export const getIosDevicesFromMarketingName = (
+  marketingName: string,
+): Device[] => {
+  return deviceList().filter((device) => device.generation === marketingName);
+};

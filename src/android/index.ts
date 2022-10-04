@@ -20,3 +20,11 @@ function deviceList(): Device[] {
 export const getAndroidDevices = (model: string): Device[] => {
   return deviceList().filter((device) => device.model === model);
 };
+
+export const getAndroidDevicesFromMarketingName = (
+  marketingName: string,
+): Device[] => {
+  return deviceList().filter(
+    (device) => device.marketingName === marketingName,
+  );
+};
