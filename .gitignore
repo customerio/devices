@@ -59,6 +59,7 @@ dist
 
 # Jetbrains
 **/.idea/**
+**/.fleet/**
 
 # Coverage
 coverage

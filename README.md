@@ -62,5 +62,4 @@ $ npm run build && npm run size
 - [ ] Protect main branch from direct commits
 - [ ] Add a PR template
 - [ ] Add development instructions
-- [ ] Discuss the need of all 37,708 android devices
 - [ ] Automate iOS data collection (far fetched)
