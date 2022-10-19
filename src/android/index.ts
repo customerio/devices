@@ -18,13 +18,16 @@ function deviceList(): Device[] {
  * Get all possible android devices for a given device model.
  */
 export const getAndroidDevices = (model: string): Device[] => {
-  return deviceList().filter((device) => device.model === model);
+  return deviceList().filter(
+    (device) => device.model.toLowerCase() === model.toLowerCase(),
+  );
 };
 
 export const getAndroidDevicesFromMarketingName = (
   marketingName: string,
 ): Device[] => {
   return deviceList().filter(
-    (device) => device.marketingName === marketingName,
+    (device) =>
+      device.marketingName.toLowerCase() === marketingName.toLowerCase(),
   );
 };

@@ -9,11 +9,15 @@ function deviceList(): Device[] {
  * Get all possible ios devices for a given device identifier.
  */
 export const getIosDevices = (identifier: string): Device[] => {
-  return deviceList().filter((device) => device.identifier === identifier);
+  return deviceList().filter(
+    (device) => device.identifier.toLowerCase() === identifier.toLowerCase(),
+  );
 };
 
 export const getIosDevicesFromMarketingName = (
   marketingName: string,
 ): Device[] => {
-  return deviceList().filter((device) => device.generation === marketingName);
+  return deviceList().filter(
+    (device) => device.generation.toLowerCase() === marketingName.toLowerCase(),
+  );
 };
