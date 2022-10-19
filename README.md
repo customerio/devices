@@ -11,9 +11,9 @@ npm i --save @customerio/devices
 ## Usage
 
 ```ts
-import { getMarketingName, OsType } from '@customerio/devices';
+import { getMarketingName, Platform } from '@customerio/devices';
 
-console.log(getMarketingName('iPhone14,2', OsType.IOS));
+console.log(getMarketingName('iPhone14,2', Platform.IOS));
 ```
 Output:
 
