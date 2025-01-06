@@ -1,23 +1,23 @@
 [
   {
     "identifier": "AppleTV1,1",
-    "generation": "Apple TV (1st generation)"
+    "generation": "Apple TV 1"
   },
   {
     "identifier": "AppleTV2,1",
-    "generation": "Apple TV (2nd generation)"
+    "generation": "Apple TV 2"
   },
   {
     "identifier": "AppleTV3,1",
-    "generation": "Apple TV (3rd generation)"
+    "generation": "Apple TV 3"
   },
   {
     "identifier": "AppleTV3,2",
-    "generation": "Apple TV (3rd generation)"
+    "generation": "Apple TV 3"
   },
   {
     "identifier": "AppleTV5,3",
-    "generation": "Apple TV (4th generation)"
+    "generation": "Apple TV 4"
   },
   {
     "identifier": "AppleTV6,2",
@@ -25,15 +25,19 @@
   },
   {
     "identifier": "AppleTV11,1",
-    "generation": "Apple TV 4K (2nd generation)"
+    "generation": "Apple TV 4K 2"
+  },
+  {
+    "identifier": "AppleTV14,1",
+    "generation": "Apple TV 4K 3"
   },
   {
     "identifier": "Watch1,1",
-    "generation": "Apple Watch (1st generation)"
+    "generation": "Apple Watch"
   },
   {
     "identifier": "Watch1,2",
-    "generation": "Apple Watch (1st generation)"
+    "generation": "Apple Watch"
   },
   {
     "identifier": "Watch2,6",
@@ -148,6 +152,78 @@
     "generation": "Apple Watch Series 7"
   },
   {
+    "identifier": "Watch6,10",
+    "generation": "Apple Watch SE 2"
+  },
+  {
+    "identifier": "Watch6,11",
+    "generation": "Apple Watch SE 2"
+  },
+  {
+    "identifier": "Watch6,12",
+    "generation": "Apple Watch SE 2"
+  },
+  {
+    "identifier": "Watch6,13",
+    "generation": "Apple Watch SE 2"
+  },
+  {
+    "identifier": "Watch6,14",
+    "generation": "Apple Watch Series 8"
+  },
+  {
+    "identifier": "Watch6,15",
+    "generation": "Apple Watch Series 8"
+  },
+  {
+    "identifier": "Watch6,16",
+    "generation": "Apple Watch Series 8"
+  },
+  {
+    "identifier": "Watch6,17",
+    "generation": "Apple Watch Series 8"
+  },
+  {
+    "identifier": "Watch6,18",
+    "generation": "Apple Watch Ultra"
+  },
+  {
+    "identifier": "Watch7,1",
+    "generation": "Apple Watch Series 9"
+  },
+  {
+    "identifier": "Watch7,2",
+    "generation": "Apple Watch Series 9"
+  },
+  {
+    "identifier": "Watch7,3",
+    "generation": "Apple Watch Series 9"
+  },
+  {
+    "identifier": "Watch7,4",
+    "generation": "Apple Watch Series 9"
+  },
+  {
+    "identifier": "Watch7,5",
+    "generation": "Apple Watch Ultra 2"
+  },
+  {
+    "identifier": "Watch7,8",
+    "generation": "Apple Watch Series 10"
+  },
+  {
+    "identifier": "Watch7,9",
+    "generation": "Apple Watch Series 10"
+  },
+  {
+    "identifier": "Watch7,10",
+    "generation": "Apple Watch Series 10"
+  },
+  {
+    "identifier": "Watch7,11",
+    "generation": "Apple Watch Series 10"
+  },
+  {
     "identifier": "iPad1,1",
     "generation": "iPad"
   },
@@ -169,67 +245,75 @@
   },
   {
     "identifier": "iPad3,1",
-    "generation": "iPad (3rd generation)"
+    "generation": "iPad 3"
   },
   {
     "identifier": "iPad3,2",
-    "generation": "iPad (3rd generation)"
+    "generation": "iPad 3"
   },
   {
     "identifier": "iPad3,3",
-    "generation": "iPad (3rd generation)"
+    "generation": "iPad 3"
   },
   {
     "identifier": "iPad3,4",
-    "generation": "iPad (4th generation)"
+    "generation": "iPad 4"
   },
   {
     "identifier": "iPad3,5",
-    "generation": "iPad (4th generation)"
+    "generation": "iPad 4"
   },
   {
     "identifier": "iPad3,6",
-    "generation": "iPad (4th generation)"
+    "generation": "iPad 4"
   },
   {
     "identifier": "iPad6,11",
-    "generation": "iPad (5th generation)"
+    "generation": "iPad 5"
   },
   {
     "identifier": "iPad6,12",
-    "generation": "iPad (5th generation)"
+    "generation": "iPad 5"
   },
   {
     "identifier": "iPad7,5",
-    "generation": "iPad (6th generation)"
+    "generation": "iPad 6"
   },
   {
     "identifier": "iPad7,6",
-    "generation": "iPad (6th generation)"
+    "generation": "iPad 6"
   },
   {
     "identifier": "iPad7,11",
-    "generation": "iPad (7th generation)"
+    "generation": "iPad 7"
   },
   {
     "identifier": "iPad7,12",
-    "generation": "iPad (7th generation)"
+    "generation": "iPad 7"
   },
   {
     "identifier": "iPad11,6",
-    "generation": "iPad (8th generation)"
+    "generation": "iPad 8"
   },
   {
     "identifier": "iPad11,7",
-    "generation": "iPad (8th generation)"
+    "generation": "iPad 8"
   },
   {
     "identifier": "iPad12,1",
-    "generation": "iPad (9th generation)"
+    "generation": "iPad 9"
   },
   {
     "identifier": "iPad12,2",
-    "generation": "iPad (9th generation)"
+    "generation": "iPad 9"
+  },
+  {
+    "identifier": "iPad13,18",
+    "generation": "iPad 10"
+  },
+  {
+    "identifier": "iPad13,19",
+    "generation": "iPad 10"
   },
   {
     "identifier": "iPad4,1",
@@ -253,199 +337,255 @@
   },
   {
     "identifier": "iPad11,3",
-    "generation": "iPad Air (3rd generation)"
+    "generation": "iPad Air 3"
   },
   {
     "identifier": "iPad11,4",
-    "generation": "iPad Air (3rd generation)"
+    "generation": "iPad Air 3"
   },
   {
     "identifier": "iPad13,1",
-    "generation": "iPad Air (4th generation)"
+    "generation": "iPad Air 4"
   },
   {
     "identifier": "iPad13,2",
-    "generation": "iPad Air (4th generation)"
+    "generation": "iPad Air 4"
   },
   {
     "identifier": "iPad13,16",
-    "generation": "iPad Air (5th generation)"
+    "generation": "iPad Air 5"
   },
   {
     "identifier": "iPad13,17",
-    "generation": "iPad Air (5th generation)"
+    "generation": "iPad Air 5"
   },
   {
-    "identifier": "iPad6,7",
-    "generation": "iPad Pro (12.9-inch)"
+    "identifier": "iPad14,8",
+    "generation": "iPad Air 11-inch (M2)"
   },
   {
-    "identifier": "iPad6,8",
-    "generation": "iPad Pro (12.9-inch)"
+    "identifier": "iPad14,9",
+    "generation": "iPad Air 11-inch (M2)"
   },
   {
-    "identifier": "iPad6,3",
-    "generation": "iPad Pro (9.7-inch)"
+    "identifier": "iPad14,10",
+    "generation": "iPad Air 13-inch (M2)"
   },
   {
-    "identifier": "iPad6,4",
-    "generation": "iPad Pro (9.7-inch)"
-  },
-  {
-    "identifier": "iPad7,1",
-    "generation": "iPad Pro (12.9-inch) (2nd generation)"
-  },
-  {
-    "identifier": "iPad7,2",
-    "generation": "iPad Pro (12.9-inch) (2nd generation)"
-  },
-  {
-    "identifier": "iPad7,3",
-    "generation": "iPad Pro (10.5-inch)"
-  },
-  {
-    "identifier": "iPad7,4",
-    "generation": "iPad Pro (10.5-inch)"
-  },
-  {
-    "identifier": "iPad8,1",
-    "generation": "iPad Pro (11-inch)"
-  },
-  {
-    "identifier": "iPad8,2",
-    "generation": "iPad Pro (11-inch)"
-  },
-  {
-    "identifier": "iPad8,3",
-    "generation": "iPad Pro (11-inch)"
-  },
-  {
-    "identifier": "iPad8,4",
-    "generation": "iPad Pro (11-inch)"
-  },
-  {
-    "identifier": "iPad8,5",
-    "generation": "iPad Pro (12.9-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad8,6",
-    "generation": "iPad Pro (12.9-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad8,7",
-    "generation": "iPad Pro (12.9-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad8,8",
-    "generation": "iPad Pro (12.9-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad8,9",
-    "generation": "iPad Pro (11-inch) (2nd generation)"
-  },
-  {
-    "identifier": "iPad8,10",
-    "generation": "iPad Pro (11-inch) (2nd generation)"
-  },
-  {
-    "identifier": "iPad8,11",
-    "generation": "iPad Pro (12.9-inch) (4th generation)"
-  },
-  {
-    "identifier": "iPad8,12",
-    "generation": "iPad Pro (12.9-inch) (4th generation)"
-  },
-  {
-    "identifier": "iPad13,4",
-    "generation": "iPad Pro (11-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad13,5",
-    "generation": "iPad Pro (11-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad13,6",
-    "generation": "iPad Pro (11-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad13,7",
-    "generation": "iPad Pro (11-inch) (3rd generation)"
-  },
-  {
-    "identifier": "iPad13,8",
-    "generation": "iPad Pro (12.9-inch) (5th generation)"
-  },
-  {
-    "identifier": "iPad13,9",
-    "generation": "iPad Pro (12.9-inch) (5th generation)"
-  },
-  {
-    "identifier": "iPad13,10",
-    "generation": "iPad Pro (12.9-inch) (5th generation)"
-  },
-  {
-    "identifier": "iPad13,11",
-    "generation": "iPad Pro (12.9-inch) (5th generation)"
+    "identifier": "iPad14,11",
+    "generation": "iPad Air 13-inch (M2)"
   },
   {
     "identifier": "iPad2,5",
-    "generation": "iPad mini"
+    "generation": "iPad Mini"
   },
   {
     "identifier": "iPad2,6",
-    "generation": "iPad mini"
+    "generation": "iPad Mini"
   },
   {
     "identifier": "iPad2,7",
-    "generation": "iPad mini"
+    "generation": "iPad Mini"
   },
   {
     "identifier": "iPad4,4",
-    "generation": "iPad mini 2"
+    "generation": "iPad Mini 2"
   },
   {
     "identifier": "iPad4,5",
-    "generation": "iPad mini 2"
+    "generation": "iPad Mini 2"
   },
   {
     "identifier": "iPad4,6",
-    "generation": "iPad mini 2"
+    "generation": "iPad Mini 2"
   },
   {
     "identifier": "iPad4,7",
-    "generation": "iPad mini 3"
+    "generation": "iPad Mini 3"
   },
   {
     "identifier": "iPad4,8",
-    "generation": "iPad mini 3"
+    "generation": "iPad Mini 3"
   },
   {
     "identifier": "iPad4,9",
-    "generation": "iPad mini 3"
+    "generation": "iPad Mini 3"
   },
   {
     "identifier": "iPad5,1",
-    "generation": "iPad mini 4"
+    "generation": "iPad Mini 4"
   },
   {
     "identifier": "iPad5,2",
-    "generation": "iPad mini 4"
+    "generation": "iPad Mini 4"
   },
   {
     "identifier": "iPad11,1",
-    "generation": "iPad mini (5th generation)"
+    "generation": "iPad Mini 5"
   },
   {
     "identifier": "iPad11,2",
-    "generation": "iPad mini (5th generation)"
+    "generation": "iPad Mini 5"
   },
   {
     "identifier": "iPad14,1",
-    "generation": "iPad mini (6th generation)"
+    "generation": "iPad Mini 6"
   },
   {
     "identifier": "iPad14,2",
-    "generation": "iPad mini (6th generation)"
+    "generation": "iPad Mini 6"
+  },
+  {
+    "identifier": "iPad16,1",
+    "generation": "iPad Mini (A17 Pro)"
+  },
+  {
+    "identifier": "iPad16,2",
+    "generation": "iPad Mini (A17 Pro)"
+  },
+  {
+    "identifier": "iPad6,3",
+    "generation": "iPad Pro 9.7-inch"
+  },
+  {
+    "identifier": "iPad6,4",
+    "generation": "iPad Pro 9.7-inch"
+  },
+  {
+    "identifier": "iPad7,3",
+    "generation": "iPad Pro 10.5-inch"
+  },
+  {
+    "identifier": "iPad7,4",
+    "generation": "iPad Pro 10.5-inch"
+  },
+  {
+    "identifier": "iPad8,1",
+    "generation": "iPad Pro 11-inch"
+  },
+  {
+    "identifier": "iPad8,2",
+    "generation": "iPad Pro 11-inch"
+  },
+  {
+    "identifier": "iPad8,3",
+    "generation": "iPad Pro 11-inch"
+  },
+  {
+    "identifier": "iPad8,4",
+    "generation": "iPad Pro 11-inch"
+  },
+  {
+    "identifier": "iPad8,9",
+    "generation": "iPad Pro 11-inch 2"
+  },
+  {
+    "identifier": "iPad8,10",
+    "generation": "iPad Pro 11-inch 2"
+  },
+  {
+    "identifier": "iPad13,4",
+    "generation": "iPad Pro 11-inch 3"
+  },
+  {
+    "identifier": "iPad13,5",
+    "generation": "iPad Pro 11-inch 3"
+  },
+  {
+    "identifier": "iPad13,6",
+    "generation": "iPad Pro 11-inch 3"
+  },
+  {
+    "identifier": "iPad13,7",
+    "generation": "iPad Pro 11-inch 3"
+  },
+  {
+    "identifier": "iPad14,3",
+    "generation": "iPad Pro 11-inch (M2)"
+  },
+  {
+    "identifier": "iPad14,4",
+    "generation": "iPad Pro 11-inch (M2)"
+  },
+  {
+    "identifier": "iPad16,3",
+    "generation": "iPad Pro 11-inch (M4)"
+  },
+  {
+    "identifier": "iPad16,4",
+    "generation": "iPad Pro 11-inch (M4)"
+  },
+  {
+    "identifier": "iPad6,7",
+    "generation": "iPad Pro 12.9-inch"
+  },
+  {
+    "identifier": "iPad6,8",
+    "generation": "iPad Pro 12.9-inch"
+  },
+  {
+    "identifier": "iPad7,1",
+    "generation": "iPad Pro 12.9-inch 2"
+  },
+  {
+    "identifier": "iPad7,2",
+    "generation": "iPad Pro 12.9-inch 2"
+  },
+  {
+    "identifier": "iPad8,5",
+    "generation": "iPad Pro 12.9-inch 3"
+  },
+  {
+    "identifier": "iPad8,6",
+    "generation": "iPad Pro 12.9-inch 3"
+  },
+  {
+    "identifier": "iPad8,7",
+    "generation": "iPad Pro 12.9-inch 3"
+  },
+  {
+    "identifier": "iPad8,8",
+    "generation": "iPad Pro 12.9-inch 3"
+  },
+  {
+    "identifier": "iPad8,11",
+    "generation": "iPad Pro 12.9-inch 4"
+  },
+  {
+    "identifier": "iPad8,12",
+    "generation": "iPad Pro 12.9-inch 4"
+  },
+  {
+    "identifier": "iPad13,8",
+    "generation": "iPad Pro 12.9-inch 5"
+  },
+  {
+    "identifier": "iPad13,9",
+    "generation": "iPad Pro 12.9-inch 5"
+  },
+  {
+    "identifier": "iPad13,10",
+    "generation": "iPad Pro 12.9-inch 5"
+  },
+  {
+    "identifier": "iPad13,11",
+    "generation": "iPad Pro 12.9-inch 5"
+  },
+  {
+    "identifier": "iPad14,5",
+    "generation": "iPad Pro 12.9-inch (M2)"
+  },
+  {
+    "identifier": "iPad14,6",
+    "generation": "iPad Pro 12.9-inch (M2)"
+  },
+  {
+    "identifier": "iPad16,5",
+    "generation": "iPad Pro 13-inch (M4)"
+  },
+  {
+    "identifier": "iPad16,6",
+    "generation": "iPad Pro 13-inch (M4)"
   },
   {
     "identifier": "iPhone1,1",
@@ -476,6 +616,14 @@
     "generation": "iPhone 4S"
   },
   {
+    "identifier": "iPhone4,2",
+    "generation": "iPhone 4S"
+  },
+  {
+    "identifier": "iPhone4,3",
+    "generation": "iPhone 4S"
+  },
+  {
     "identifier": "iPhone5,1",
     "generation": "iPhone 5"
   },
@@ -485,19 +633,19 @@
   },
   {
     "identifier": "iPhone5,3",
-    "generation": "iPhone 5c"
+    "generation": "iPhone 5C"
   },
   {
     "identifier": "iPhone5,4",
-    "generation": "iPhone 5c"
+    "generation": "iPhone 5C"
   },
   {
     "identifier": "iPhone6,1",
-    "generation": "iPhone 5s"
+    "generation": "iPhone 5S"
   },
   {
     "identifier": "iPhone6,2",
-    "generation": "iPhone 5s"
+    "generation": "iPhone 5S"
   },
   {
     "identifier": "iPhone7,2",
@@ -509,15 +657,15 @@
   },
   {
     "identifier": "iPhone8,1",
-    "generation": "iPhone 6s"
+    "generation": "iPhone 6S"
   },
   {
     "identifier": "iPhone8,2",
-    "generation": "iPhone 6s Plus"
+    "generation": "iPhone 6S Plus"
   },
   {
     "identifier": "iPhone8,4",
-    "generation": "iPhone SE (1st generation)"
+    "generation": "iPhone SE"
   },
   {
     "identifier": "iPhone9,1",
@@ -560,20 +708,20 @@
     "generation": "iPhone X"
   },
   {
-    "identifier": "iPhone11,8",
-    "generation": "iPhone XR"
-  },
-  {
     "identifier": "iPhone11,2",
-    "generation": "iPhone XS"
-  },
-  {
-    "identifier": "iPhone11,6",
-    "generation": "iPhone XS Max"
+    "generation": "iPhone Xs"
   },
   {
     "identifier": "iPhone11,4",
-    "generation": "iPhone XS Max"
+    "generation": "iPhone Xs Max"
+  },
+  {
+    "identifier": "iPhone11,6",
+    "generation": "iPhone Xs Max"
+  },
+  {
+    "identifier": "iPhone11,8",
+    "generation": "iPhone Xʀ"
   },
   {
     "identifier": "iPhone12,1",
@@ -589,7 +737,7 @@
   },
   {
     "identifier": "iPhone12,8",
-    "generation": "iPhone SE (2nd generation)"
+    "generation": "iPhone SE 2"
   },
   {
     "identifier": "iPhone13,1",
@@ -625,7 +773,7 @@
   },
   {
     "identifier": "iPhone14,6",
-    "generation": "iPhone SE (3rd generation)"
+    "generation": "iPhone SE 3"
   },
   {
     "identifier": "iPhone14,7",
@@ -642,5 +790,37 @@
   {
     "identifier": "iPhone15,3",
     "generation": "iPhone 14 Pro Max"
+  },
+  {
+    "identifier": "iPhone15,4",
+    "generation": "iPhone 15"
+  },
+  {
+    "identifier": "iPhone15,5",
+    "generation": "iPhone 15 Plus"
+  },
+  {
+    "identifier": "iPhone16,1",
+    "generation": "iPhone 15 Pro"
+  },
+  {
+    "identifier": "iPhone16,2",
+    "generation": "iPhone 15 Pro Max"
+  },
+  {
+    "identifier": "iPhone17,3",
+    "generation": "iPhone 16"
+  },
+  {
+    "identifier": "iPhone17,4",
+    "generation": "iPhone 16 Plus"
+  },
+  {
+    "identifier": "iPhone17,1",
+    "generation": "iPhone 16 Pro"
+  },
+  {
+    "identifier": "iPhone17,2",
+    "generation": "iPhone 16 Pro Max"
   }
 ]
