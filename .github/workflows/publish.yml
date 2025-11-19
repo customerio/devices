@@ -29,4 +29,5 @@ jobs:
       - run: npm install
       - run: npm run build
       - run: npm run test
-      - run: npm publish --dry-run --tag 0.0.0-test-oidc --access public
+      - run: npm version 0.0.0-test-oidc --no-git-tag-version
+      - run: npm publish --dry-run --access public
