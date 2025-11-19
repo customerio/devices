@@ -4,11 +4,6 @@ on:
     types:
       - published
 
-  pull_request:
-    types:
-      - opened
-      - synchronize
-
   workflow_dispatch:
 
 jobs:
@@ -29,5 +24,4 @@ jobs:
       - run: npm install
       - run: npm run build
       - run: npm run test
-      - run: npm version 0.0.0-test-oidc --no-git-tag-version
-      - run: npm publish --tag test-oidc --access public
+      - run: npm publish --access public
