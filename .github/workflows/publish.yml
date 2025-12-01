@@ -9,15 +9,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: release
+    permissions:
+      id-token: write
+      contents: read
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 20
           registry-url: https://registry.npmjs.org/
+      - name: Install npm 11.5.1+ for OIDC support
+        run: npm install -g npm@latest
       - run: npm install
       - run: npm run build
       - run: npm run test
       - run: npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
