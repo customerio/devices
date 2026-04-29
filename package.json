@@ -65,5 +65,22 @@
   "homepage": "https://github.com/customerio/devices#readme",
   "lint-staged": {
     "*.ts": "eslint --cache --fix"
+  },
+  "overrides": {
+    "webpack": "5.106.2",
+    "@babel/traverse": "7.29.0",
+    "@babel/runtime": "7.29.2",
+    "@babel/helpers": "7.29.2",
+    "semver": "7.7.4",
+    "braces": "3.0.3",
+    "json5": "2.2.3",
+    "flatted": "3.4.2",
+    "tar-fs": "2.1.4",
+    "micromatch": "4.0.8",
+    "js-yaml": "4.1.1",
+    "word-wrap": "1.2.5",
+    "cross-spawn": "7.0.6",
+    "nanoid": "3.3.11",
+    "ajv": "6.15.0"
   }
 }
