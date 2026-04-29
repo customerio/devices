@@ -65,5 +65,15 @@
   "homepage": "https://github.com/customerio/devices#readme",
   "lint-staged": {
     "*.ts": "eslint --cache --fix"
+  },
+  "overrides": {
+    "serialize-javascript": "7.0.3",
+    "semver": "7.5.2",
+    "yaml": "2.8.3",
+    "picomatch": "4.0.4",
+    "brace-expansion": "2.0.3",
+    "ws": "7.5.10",
+    "minimatch": "8.0.6",
+    "js-yaml": "4.1.1"
   }
 }
