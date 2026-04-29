@@ -73,6 +73,11 @@
     "ws": "8.20.0",
     "yaml": "2.8.3",
     "js-yaml": "4.1.1",
-    "@types/node": "20.x"
+    "@types/node": "20.x",
+    "serialize-javascript": "7.0.3",
+    "semver": "7.5.2",
+    "picomatch": "4.0.4",
+    "brace-expansion": "2.0.3",
+    "minimatch": "8.0.6"
   }
 }
