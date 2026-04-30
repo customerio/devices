@@ -44,7 +44,7 @@
     "prettier": "^2.7.1",
     "size-limit": "^8.1.0",
     "ts-node": "^10.9.1",
-    "typescript": "^4.8.3"
+    "typescript": "4.8.3"
   },
   "files": [
     "dist/**/*",
@@ -65,5 +65,19 @@
   "homepage": "https://github.com/customerio/devices#readme",
   "lint-staged": {
     "*.ts": "eslint --cache --fix"
+  },
+  "overrides": {
+    "webpack": "5.106.2",
+    "micromatch": "4.0.8",
+    "tar-fs": "2.1.4",
+    "ws": "8.20.0",
+    "yaml": "2.8.3",
+    "js-yaml": "4.1.1",
+    "@types/node": "20.x",
+    "serialize-javascript": "7.0.3",
+    "semver": "7.5.2",
+    "picomatch": "4.0.4",
+    "brace-expansion": "2.0.3",
+    "minimatch": "8.0.6"
   }
 }
