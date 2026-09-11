@@ -224,6 +224,26 @@
     "generation": "Apple Watch Series 10"
   },
   {
+    "identifier": "Watch8,2",
+    "generation": "Apple Watch Series 12"
+  },
+  {
+    "identifier": "Watch8,3",
+    "generation": "Apple Watch Series 12"
+  },
+  {
+    "identifier": "Watch8,4",
+    "generation": "Apple Watch Series 12"
+  },
+  {
+    "identifier": "Watch8,5",
+    "generation": "Apple Watch Series 12"
+  },
+  {
+    "identifier": "Watch8,1",
+    "generation": "Apple Watch Ultra 4"
+  },
+  {
     "identifier": "iPad1,1",
     "generation": "iPad"
   },
@@ -822,5 +842,21 @@
   {
     "identifier": "iPhone17,2",
     "generation": "iPhone 16 Pro Max"
+  },
+  {
+    "identifier": "iPhone19,2",
+    "generation": "iPhone 18 Pro"
+  },
+  {
+    "identifier": "iPhone19,3",
+    "generation": "iPhone 18 Pro Max"
+  },
+  {
+    "identifier": "iPhone19,7",
+    "generation": "iPhone 18 Pro Max"
+  },
+  {
+    "identifier": "iPhone19,4",
+    "generation": "iPhone Duo"
   }
 ]

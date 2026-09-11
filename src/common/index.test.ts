@@ -8,6 +8,18 @@ describe('common', () => {
     // case insensitive
     marketingName = getMarketingName('iphone14,3');
     expect(marketingName).toBe('iPhone 13 Pro Max');
+
+    marketingName = getMarketingName('iPhone19,2');
+    expect(marketingName).toBe('iPhone 18 Pro');
+
+    marketingName = getMarketingName('iPhone19,3');
+    expect(marketingName).toBe('iPhone 18 Pro Max');
+
+    marketingName = getMarketingName('iPhone19,7');
+    expect(marketingName).toBe('iPhone 18 Pro Max');
+
+    marketingName = getMarketingName('iPhone19,4');
+    expect(marketingName).toBe('iPhone Duo');
   });
 
   test('android: should get the marketing name', () => {
