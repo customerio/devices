@@ -18,6 +18,8 @@ function deviceList(): Device[] {
  * Get all possible android devices for a given device model.
  */
 export const getAndroidDevices = (model: string): Device[] => {
+  if (!model) return [];
+
   return deviceList().filter(
     (device) => device.model.toLowerCase() === model.toLowerCase(),
   );

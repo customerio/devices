@@ -50,4 +50,9 @@ describe('common', () => {
     const marketingName = getMarketingName('iUNKNOWN');
     expect(marketingName).toBeNull();
   });
+
+  test('should return null for an empty device model', () => {
+    const marketingName = getMarketingName('');
+    expect(marketingName).toBeNull();
+  });
 });
