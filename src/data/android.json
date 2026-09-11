@@ -44,6 +44,12 @@
   [
     "Google",
     "Chromebook Pixel (2015)",
+    "",
+    ""
+  ],
+  [
+    "Google",
+    "Chromebook Pixel (2015)",
     "samus_cheets",
     "Google Chromebook Pixel (2015)"
   ],
@@ -147,6 +153,12 @@
     "Google",
     "Intel Alder Lake-N Chromebook",
     "nissa_cheets",
+    "nirva"
+  ],
+  [
+    "Google",
+    "Intel Alder Lake-N Chromebook",
+    "nissa_cheets",
     "nissa"
   ],
   [
@@ -154,6 +166,12 @@
     "Intel Amber Lake Y Chromebook",
     "rammus_cheets",
     "rammus"
+  ],
+  [
+    "Google",
+    "Intel Apollo Lake Chromebook",
+    "",
+    ""
   ],
   [
     "Google",
@@ -271,6 +289,12 @@
   ],
   [
     "Google",
+    "Mediatek MT8189 Chromebook",
+    "skywalker_cheets",
+    "skywalker"
+  ],
+  [
+    "Google",
     "Mediatek MT8192 Chromebook",
     "asurada_cheets",
     "asurada"
@@ -280,6 +304,12 @@
     "Mediatek MT8195 Chromebook",
     "cherry_cheets",
     "cherry"
+  ],
+  [
+    "Google",
+    "Mediatek MT8196 Chromebook",
+    "rauru_cheets",
+    "rauru"
   ],
   [
     "Google",
@@ -304,6 +334,60 @@
     "Pixel",
     "sailfish",
     "Pixel"
+  ],
+  [
+    "Google",
+    "Pixel 10",
+    "frankel",
+    "Pixel 10"
+  ],
+  [
+    "Google",
+    "Pixel 10 Pro",
+    "blazer",
+    "Pixel 10 Pro"
+  ],
+  [
+    "Google",
+    "Pixel 10 Pro Fold",
+    "rango",
+    "Pixel 10 Pro Fold"
+  ],
+  [
+    "Google",
+    "Pixel 10 Pro XL",
+    "mustang",
+    "Pixel 10 Pro XL"
+  ],
+  [
+    "Google",
+    "Pixel 10a",
+    "stallion",
+    "Pixel 10a"
+  ],
+  [
+    "Google",
+    "Pixel 11",
+    "cubs",
+    "Pixel 11"
+  ],
+  [
+    "Google",
+    "Pixel 11 Pro",
+    "grizzly",
+    "Pixel 11 Pro"
+  ],
+  [
+    "Google",
+    "Pixel 11 Pro Fold",
+    "yogi",
+    "Pixel 11 Pro Fold"
+  ],
+  [
+    "Google",
+    "Pixel 11 Pro XL",
+    "kodiak",
+    "Pixel 11 Pro XL"
   ],
   [
     "Google",
@@ -457,6 +541,12 @@
   ],
   [
     "Google",
+    "Pixel 9a",
+    "tegu",
+    "Pixel 9a"
+  ],
+  [
+    "Google",
     "Pixel C",
     "dragon",
     "Pixel C"
@@ -514,6 +604,54 @@
     "Pixel Watch 2",
     "eos",
     "Google Pixel Watch 2"
+  ],
+  [
+    "Google",
+    "Pixel Watch 4",
+    "kenari_btwifi",
+    "Pixel Watch 4"
+  ],
+  [
+    "Google",
+    "Pixel Watch 4",
+    "kenari_lte",
+    "Pixel Watch 4"
+  ],
+  [
+    "Google",
+    "Pixel Watch 4",
+    "meridian_btwifi",
+    "Pixel Watch 4"
+  ],
+  [
+    "Google",
+    "Pixel Watch 4",
+    "meridian_lte",
+    "Pixel Watch 4"
+  ],
+  [
+    "Google",
+    "Pixel Watch 5",
+    "godric_btwifi",
+    "Pixel Watch 5"
+  ],
+  [
+    "Google",
+    "Pixel Watch 5",
+    "godric_lte",
+    "Pixel Watch 5"
+  ],
+  [
+    "Google",
+    "Pixel Watch 5",
+    "wisteria_btwifi",
+    "Pixel Watch 5"
+  ],
+  [
+    "Google",
+    "Pixel Watch 5",
+    "wisteria_lte",
+    "Pixel Watch 5"
   ],
   [
     "Google",
@@ -622,6 +760,12 @@
     "emulator",
     "emu64xa",
     "sdk_gphone64_x86_64"
+  ],
+  [
+    "Google",
+    "gambit",
+    "gambit",
+    "gambit"
   ],
   [
     "Google",
@@ -3223,7 +3367,7 @@
   ],
   [
     "Huawei",
-    "G9青春版",
+    "G9\u9752\u6625\u7248",
     "HWVNS-Q",
     "HUAWEI VNS-AL00"
   ],
@@ -5257,19 +5401,19 @@
   ],
   [
     "Huawei",
-    "Honor 8A",
+    "Honor\u00a08A",
     "HWJAT-M",
     "JAT-AL00"
   ],
   [
     "Huawei",
-    "Huawei Ascend XT2™",
+    "Huawei Ascend XT2\u2122",
     "HWH1711-Q",
     "H1711"
   ],
   [
     "Huawei",
-    "Huawei Elate™",
+    "Huawei Elate\u2122",
     "HWH1711-Q",
     "H1711z"
   ],
@@ -6691,13 +6835,13 @@
   ],
   [
     "Huawei",
-    "P8 青春版",
+    "P8 \u9752\u6625\u7248",
     "hwALE-H",
     "ALE-TL00"
   ],
   [
     "Huawei",
-    "P8 青春版",
+    "P8 \u9752\u6625\u7248",
     "hwALE-H",
     "ALE-UL00"
   ],
@@ -8215,7 +8359,7 @@
   ],
   [
     "Huawei",
-    "Y6 Ⅱ Compact",
+    "Y6 \u2161 Compact",
     "HWLYO-L6735",
     "HUAWEI LYO-L01"
   ],
@@ -8413,7 +8557,7 @@
   ],
   [
     "Huawei",
-    "Y6ⅡCompact",
+    "Y6\u2161Compact",
     "HWLYO-L6735",
     "HUAWEI LYO-L03"
   ],
@@ -8971,13 +9115,13 @@
   ],
   [
     "Huawei",
-    "nova 青春版本",
+    "nova \u9752\u6625\u7248\u672c",
     "HWWAS-H",
     "WAS-AL00"
   ],
   [
     "Huawei",
-    "nova 青春版本",
+    "nova \u9752\u6625\u7248\u672c",
     "HWWAS-H",
     "WAS-TL10"
   ],
@@ -9037,907 +9181,907 @@
   ],
   [
     "Huawei",
-    "华为G9青春版",
+    "\u534e\u4e3aG9\u9752\u6625\u7248",
     "HWVNS-H",
     "HUAWEI VNS-DL00"
   ],
   [
     "Huawei",
-    "华为G9青春版",
+    "\u534e\u4e3aG9\u9752\u6625\u7248",
     "HWVNS-H",
     "HUAWEI VNS-TL00"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWBZT",
     "BZT-AL00"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWBZT",
     "BZT-AL10"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWBZT",
     "BZT-W09"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWHDL",
     "BZW-AL00"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWHDL",
     "BZW-AL10"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWMON-Q",
     "MON-AL19"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWMON-Q",
     "MON-AL19B"
   ],
   [
     "Huawei",
-    "华为平板 C5",
+    "\u534e\u4e3a\u5e73\u677f C5",
     "HWMON-Q",
     "MON-W19"
   ],
   [
     "Huawei",
-    "华为平板 M5 青春版",
+    "\u534e\u4e3a\u5e73\u677f M5 \u9752\u6625\u7248",
     "HWBAH2",
     "BAH2-AL00"
   ],
   [
     "Huawei",
-    "华为平板 M5 青春版",
+    "\u534e\u4e3a\u5e73\u677f M5 \u9752\u6625\u7248",
     "HWBAH2",
     "BAH2-AL10"
   ],
   [
     "Huawei",
-    "华为平板 M5 青春版",
+    "\u534e\u4e3a\u5e73\u677f M5 \u9752\u6625\u7248",
     "HWBAH2",
     "BAH2-W09"
   ],
   [
     "Huawei",
-    "华为平板M5青春版",
+    "\u534e\u4e3a\u5e73\u677fM5\u9752\u6625\u7248",
     "HWJDN2",
     "JDN2-AL00"
   ],
   [
     "Huawei",
-    "华为平板M5青春版",
+    "\u534e\u4e3a\u5e73\u677fM5\u9752\u6625\u7248",
     "HWJDN2",
     "JDN2-W09"
   ],
   [
     "Huawei",
-    "华为平板T3 8行业专享版",
+    "\u534e\u4e3a\u5e73\u677fT3 8\u884c\u4e1a\u4e13\u4eab\u7248",
     "HWBZK-Q",
     "BZK-L00"
   ],
   [
     "Huawei",
-    "华为平板T3 8行业专享版",
+    "\u534e\u4e3a\u5e73\u677fT3 8\u884c\u4e1a\u4e13\u4eab\u7248",
     "HWBZK-Q",
     "BZK-W00"
   ],
   [
     "Huawei",
-    "华为揽阅M2青春版7.0",
+    "\u534e\u4e3a\u63fd\u9605M2\u9752\u6625\u72487.0",
     "hwple703l",
     "PLE-701L"
   ],
   [
     "Huawei",
-    "华为揽阅M2青春版7.0",
+    "\u534e\u4e3a\u63fd\u9605M2\u9752\u6625\u72487.0",
     "hwple703l",
     "PLE-703L"
   ],
   [
     "Huawei",
-    "华为畅享 8e 青春",
+    "\u534e\u4e3a\u7545\u4eab 8e \u9752\u6625",
     "HWDRA-M",
     "DRA-AL00"
   ],
   [
     "Huawei",
-    "华为畅享 8e 青春",
+    "\u534e\u4e3a\u7545\u4eab 8e \u9752\u6625",
     "HWDRA-M",
     "DRA-TL00"
   ],
   [
     "Huawei",
-    "华为畅享 9S",
+    "\u534e\u4e3a\u7545\u4eab 9S",
     "HWPOT-HF",
     "POT-AL00a"
   ],
   [
     "Huawei",
-    "华为畅享 9S",
+    "\u534e\u4e3a\u7545\u4eab 9S",
     "HWPOT-HF",
     "POT-TL00a"
   ],
   [
     "Huawei",
-    "华为畅享 9e",
+    "\u534e\u4e3a\u7545\u4eab 9e",
     "HWMRD-M",
     "MRD-AL00"
   ],
   [
     "Huawei",
-    "华为畅享 9e",
+    "\u534e\u4e3a\u7545\u4eab 9e",
     "HWMRD-M",
     "MRD-TL00"
   ],
   [
     "Huawei",
-    "华为畅享 MAX",
+    "\u534e\u4e3a\u7545\u4eab MAX",
     "HWARS-Q",
     "ARS-AL00"
   ],
   [
     "Huawei",
-    "华为畅享 MAX",
+    "\u534e\u4e3a\u7545\u4eab MAX",
     "HWARS-Q",
     "ARS-TL00"
   ],
   [
     "Huawei",
-    "华为畅享10 Plus",
+    "\u534e\u4e3a\u7545\u4eab10 Plus",
     "HWSTK-HF",
     "STK-AL00"
   ],
   [
     "Huawei",
-    "华为畅享10 Plus",
+    "\u534e\u4e3a\u7545\u4eab10 Plus",
     "HWSTK-HF",
     "STK-TL00"
   ],
   [
     "Huawei",
-    "华为畅享6",
+    "\u534e\u4e3a\u7545\u4eab6",
     "HWNCE-L6750",
     "NCE-AL00"
   ],
   [
     "Huawei",
-    "华为畅享6",
+    "\u534e\u4e3a\u7545\u4eab6",
     "HWNCE-L6750",
     "NCE-AL10"
   ],
   [
     "Huawei",
-    "华为畅享6",
+    "\u534e\u4e3a\u7545\u4eab6",
     "HWNCE-L6750",
     "NCE-TL10"
   ],
   [
     "Huawei",
-    "华为畅享6S",
+    "\u534e\u4e3a\u7545\u4eab6S",
     "HWDIG-L8940",
     "DIG-AL00"
   ],
   [
     "Huawei",
-    "华为畅享6S",
+    "\u534e\u4e3a\u7545\u4eab6S",
     "HWDIG-L8940",
     "DIG-TL10"
   ],
   [
     "Huawei",
-    "华为畅享7",
+    "\u534e\u4e3a\u7545\u4eab7",
     "HWSLA-Q",
     "SLA-AL00"
   ],
   [
     "Huawei",
-    "华为畅享7",
+    "\u534e\u4e3a\u7545\u4eab7",
     "HWSLA-Q",
     "SLA-TL10"
   ],
   [
     "Huawei",
-    "华为畅享7S",
+    "\u534e\u4e3a\u7545\u4eab7S",
     "HWFIG-H",
     "FIG-AL00"
   ],
   [
     "Huawei",
-    "华为畅享7S",
+    "\u534e\u4e3a\u7545\u4eab7S",
     "HWFIG-H",
     "FIG-AL10"
   ],
   [
     "Huawei",
-    "华为畅享7S",
+    "\u534e\u4e3a\u7545\u4eab7S",
     "HWFIG-H",
     "FIG-TL00"
   ],
   [
     "Huawei",
-    "华为畅享7S",
+    "\u534e\u4e3a\u7545\u4eab7S",
     "HWFIG-H",
     "FIG-TL10"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-AL00"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-AL10"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-AL20"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-TL00"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-TL10"
   ],
   [
     "Huawei",
-    "华为畅享8",
+    "\u534e\u4e3a\u7545\u4eab8",
     "HWLDN-Q",
     "LDN-TL20"
   ],
   [
     "Huawei",
-    "华为畅享8 Plus",
+    "\u534e\u4e3a\u7545\u4eab8 Plus",
     "HWFLA-H",
     "FLA-AL00"
   ],
   [
     "Huawei",
-    "华为畅享8 Plus",
+    "\u534e\u4e3a\u7545\u4eab8 Plus",
     "HWFLA-H",
     "FLA-AL10"
   ],
   [
     "Huawei",
-    "华为畅享8 Plus",
+    "\u534e\u4e3a\u7545\u4eab8 Plus",
     "HWFLA-H",
     "FLA-AL20"
   ],
   [
     "Huawei",
-    "华为畅享8 Plus",
+    "\u534e\u4e3a\u7545\u4eab8 Plus",
     "HWFLA-H",
     "FLA-TL00"
   ],
   [
     "Huawei",
-    "华为畅享8 Plus",
+    "\u534e\u4e3a\u7545\u4eab8 Plus",
     "HWFLA-H",
     "FLA-TL10"
   ],
   [
     "Huawei",
-    "华为畅享8e",
+    "\u534e\u4e3a\u7545\u4eab8e",
     "HWATU-QC",
     "ATU-AL10"
   ],
   [
     "Huawei",
-    "华为畅享8e",
+    "\u534e\u4e3a\u7545\u4eab8e",
     "HWATU-QC",
     "ATU-TL10"
   ],
   [
     "Huawei",
-    "华为畅享9",
+    "\u534e\u4e3a\u7545\u4eab9",
     "HWDUB-Q",
     "DUB-AL00"
   ],
   [
     "Huawei",
-    "华为畅享9",
+    "\u534e\u4e3a\u7545\u4eab9",
     "HWDUB-Q",
     "DUB-AL00a"
   ],
   [
     "Huawei",
-    "华为畅享9",
+    "\u534e\u4e3a\u7545\u4eab9",
     "HWDUB-Q",
     "DUB-AL20"
   ],
   [
     "Huawei",
-    "华为畅享9",
+    "\u534e\u4e3a\u7545\u4eab9",
     "HWDUB-Q",
     "DUB-TL00"
   ],
   [
     "Huawei",
-    "华为畅享9",
+    "\u534e\u4e3a\u7545\u4eab9",
     "HWDUB-Q",
     "DUB-TL00a"
   ],
   [
     "Huawei",
-    "华为畅享9 Plus",
+    "\u534e\u4e3a\u7545\u4eab9 Plus",
     "HWJKM-H",
     "JKM-AL00"
   ],
   [
     "Huawei",
-    "华为畅享9 Plus",
+    "\u534e\u4e3a\u7545\u4eab9 Plus",
     "HWJKM-H",
     "JKM-TL00"
   ],
   [
     "Huawei",
-    "华为畅享9 Plus",
+    "\u534e\u4e3a\u7545\u4eab9 Plus",
     "HWJKM-HM",
     "JKM-AL00a"
   ],
   [
     "Huawei",
-    "华为畅享9 Plus",
+    "\u534e\u4e3a\u7545\u4eab9 Plus",
     "HWJKM-HM",
     "JKM-AL00b"
   ],
   [
     "Huawei",
-    "华为畅享平板",
+    "\u534e\u4e3a\u7545\u4eab\u5e73\u677f",
     "HWAGS2",
     "AGS2-AL00"
   ],
   [
     "Huawei",
-    "荣耀 8X",
+    "\u8363\u8000 8X",
     "HWJSN-H",
     "JSN-AL00"
   ],
   [
     "Huawei",
-    "荣耀 8X",
+    "\u8363\u8000 8X",
     "HWJSN-H",
     "JSN-TL00"
   ],
   [
     "Huawei",
-    "荣耀 8X",
+    "\u8363\u8000 8X",
     "HWJSN-HM",
     "JSN-AL00a"
   ],
   [
     "Huawei",
-    "荣耀 V9 play",
+    "\u8363\u8000 V9 play",
     "HWJMM-Q",
     "JMM-AL00"
   ],
   [
     "Huawei",
-    "荣耀 V9 play",
+    "\u8363\u8000 V9 play",
     "HWJMM-Q",
     "JMM-AL10"
   ],
   [
     "Huawei",
-    "荣耀 V9 play",
+    "\u8363\u8000 V9 play",
     "HWJMM-Q",
     "JMM-TL00"
   ],
   [
     "Huawei",
-    "荣耀 V9 play",
+    "\u8363\u8000 V9 play",
     "HWJMM-Q",
     "JMM-TL10"
   ],
   [
     "Huawei",
-    "荣耀10青春版",
+    "\u8363\u800010\u9752\u6625\u7248",
     "HWHRY-H",
     "HRY-TL00"
   ],
   [
     "Huawei",
-    "荣耀20i",
+    "\u8363\u800020i",
     "HWHRY-H",
     "HRY-AL00T"
   ],
   [
     "Huawei",
-    "荣耀20i",
+    "\u8363\u800020i",
     "HWHRY-HF",
     "HRY-TL00T"
   ],
   [
     "Huawei",
-    "荣耀4A",
+    "\u8363\u80004A",
     "hwSCL-Q",
     "SCL-AL00"
   ],
   [
     "Huawei",
-    "荣耀5X",
+    "\u8363\u80005X",
     "HNKIW-Q",
     "KIW-AL10"
   ],
   [
     "Huawei",
-    "荣耀5X",
+    "\u8363\u80005X",
     "HNKIW-Q",
     "KIW-AL20"
   ],
   [
     "Huawei",
-    "荣耀5X",
+    "\u8363\u80005X",
     "HNKIW-Q",
     "KIW-CL00"
   ],
   [
     "Huawei",
-    "荣耀5X",
+    "\u8363\u80005X",
     "HNKIW-Q",
     "KIW-TL00"
   ],
   [
     "Huawei",
-    "荣耀5X",
+    "\u8363\u80005X",
     "HNKIW-Q",
     "KIW-UL00"
   ],
   [
     "Huawei",
-    "荣耀8X Max",
+    "\u8363\u80008X Max",
     "HWARE-Q",
     "ARE-AL00"
   ],
   [
     "Huawei",
-    "荣耀8X Max",
+    "\u8363\u80008X Max",
     "HWARE-Q",
     "ARE-TL00"
   ],
   [
     "Huawei",
-    "荣耀8X Max",
+    "\u8363\u80008X Max",
     "HWARE-QC",
     "ARE-AL10"
   ],
   [
     "Huawei",
-    "荣耀8青春版",
+    "\u8363\u80008\u9752\u6625\u7248",
     "HWPRA-H",
     "PRA-AL00"
   ],
   [
     "Huawei",
-    "荣耀8青春版",
+    "\u8363\u80008\u9752\u6625\u7248",
     "HWPRA-H",
     "PRA-AL00X"
   ],
   [
     "Huawei",
-    "荣耀8青春版",
+    "\u8363\u80008\u9752\u6625\u7248",
     "HWPRA-H",
     "PRA-TL10"
   ],
   [
     "Huawei",
-    "荣耀9X",
+    "\u8363\u80009X",
     "HWHLK-H",
     "HLK-AL00"
   ],
   [
     "Huawei",
-    "荣耀9i",
+    "\u8363\u80009i",
     "HWLLD-H2",
     "LLD-AL20"
   ],
   [
     "Huawei",
-    "荣耀9i",
+    "\u8363\u80009i",
     "HWLLD-H2",
     "LLD-AL30"
   ],
   [
     "Huawei",
-    "荣耀9青春版",
+    "\u8363\u80009\u9752\u6625\u7248",
     "HWLLD-H",
     "LLD-AL00"
   ],
   [
     "Huawei",
-    "荣耀9青春版",
+    "\u8363\u80009\u9752\u6625\u7248",
     "HWLLD-H",
     "LLD-AL10"
   ],
   [
     "Huawei",
-    "荣耀9青春版",
+    "\u8363\u80009\u9752\u6625\u7248",
     "HWLLD-H",
     "LLD-TL10"
   ],
   [
     "Huawei",
-    "荣耀Note8",
+    "\u8363\u8000Note8",
     "hwedison",
     "EDI-AL10"
   ],
   [
     "Huawei",
-    "荣耀Note8",
+    "\u8363\u8000Note8",
     "hwedison",
     "EDI-DL00"
   ],
   [
     "Huawei",
-    "荣耀Waterplay 8英寸",
+    "\u8363\u8000Waterplay 8\u82f1\u5bf8",
     "HWHDL",
     "HDL-AL09"
   ],
   [
     "Huawei",
-    "荣耀Waterplay 8英寸",
+    "\u8363\u8000Waterplay 8\u82f1\u5bf8",
     "HWHDL",
     "HDL-W09"
   ],
   [
     "Huawei",
-    "荣耀平板5",
+    "\u8363\u8000\u5e73\u677f5",
     "HWAGS2",
     "AGS2-AL00HN"
   ],
   [
     "Huawei",
-    "荣耀平板5",
+    "\u8363\u8000\u5e73\u677f5",
     "HWAGS2",
     "AGS2-W09HN"
   ],
   [
     "Huawei",
-    "荣耀平板5",
+    "\u8363\u8000\u5e73\u677f5",
     "HWJDN2",
     "JDN2-AL00HN"
   ],
   [
     "Huawei",
-    "荣耀平板5",
+    "\u8363\u8000\u5e73\u677f5",
     "HWJDN2",
     "JDN2-W09HN"
   ],
   [
     "Huawei",
-    "荣耀畅享7 Plus",
+    "\u8363\u8000\u7545\u4eab7 Plus",
     "HWTRT-Q",
     "TRT-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅享7 Plus",
+    "\u8363\u8000\u7545\u4eab7 Plus",
     "HWTRT-Q",
     "TRT-AL00A"
   ],
   [
     "Huawei",
-    "荣耀畅享7 Plus",
+    "\u8363\u8000\u7545\u4eab7 Plus",
     "HWTRT-Q",
     "TRT-TL10"
   ],
   [
     "Huawei",
-    "荣耀畅享7 Plus",
+    "\u8363\u8000\u7545\u4eab7 Plus",
     "HWTRT-Q",
     "TRT-TL10A"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-AL20"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-AL30"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-AL40"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩 6X",
+    "\u8363\u8000\u7545\u73a9 6X",
     "HWBLN-H",
     "BLN-TL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩4C",
+    "\u8363\u8000\u7545\u73a94C",
     "hwCHM-H",
     "CHM-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩4C",
+    "\u8363\u8000\u7545\u73a94C",
     "hwCHM-H",
     "CHM-TL00H"
   ],
   [
     "Huawei",
-    "荣耀畅玩4C",
+    "\u8363\u8000\u7545\u73a94C",
     "hwCHM-H",
     "CHM-UL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩4X",
+    "\u8363\u8000\u7545\u73a94X",
     "hnCHE-H",
     "CHE-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩4X",
+    "\u8363\u8000\u7545\u73a94X",
     "hnCHE-H",
     "CHE-TL00H"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HNCAM-H",
     "CAM-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HNCAM-H",
     "CAM-TL00H"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HNCAM-H",
     "CAM-UL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HNCAM-Q",
     "CAM-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HNCAM-Q",
     "CAM-CL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HWCAM-H",
     "CAM-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HWCAM-H",
     "CAM-TL00H"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HWCAM-H",
     "CAM-UL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5A",
+    "\u8363\u8000\u7545\u73a95A",
     "HWCAM-Q",
     "CAM-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5C",
+    "\u8363\u8000\u7545\u73a95C",
     "HNNEM-H",
     "NEM-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩5C",
+    "\u8363\u8000\u7545\u73a95C",
     "HNNEM-H",
     "NEM-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩5C",
+    "\u8363\u8000\u7545\u73a95C",
     "HNNEM-H",
     "NEM-TL00H"
   ],
   [
     "Huawei",
-    "荣耀畅玩5C",
+    "\u8363\u8000\u7545\u73a95C",
     "HNNEM-H",
     "NEM-UL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩6",
+    "\u8363\u8000\u7545\u73a96",
     "HWMYA-L6737",
     "MYA-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩6",
+    "\u8363\u8000\u7545\u73a96",
     "HWMYA-L6737",
     "MYA-TL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩6A",
+    "\u8363\u8000\u7545\u73a96A",
     "HWDLI-Q",
     "DLI-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩7",
+    "\u8363\u8000\u7545\u73a97",
     "HWDUA-M",
     "DUA-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩7",
+    "\u8363\u8000\u7545\u73a97",
     "HWDUA-M",
     "DUA-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩7X",
+    "\u8363\u8000\u7545\u73a97X",
     "HWBND-H",
     "BND-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩7X",
+    "\u8363\u8000\u7545\u73a97X",
     "HWBND-H",
     "BND-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩7X",
+    "\u8363\u8000\u7545\u73a97X",
     "HWBND-H",
     "BND-TL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩8",
+    "\u8363\u8000\u7545\u73a98",
     "HWKSA-M",
     "KSA-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩8",
+    "\u8363\u8000\u7545\u73a98",
     "HWKSA-M",
     "KSA-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩8A",
+    "\u8363\u8000\u7545\u73a98A",
     "HWJAT-M",
     "JAT-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩8A",
+    "\u8363\u8000\u7545\u73a98A",
     "HWJAT-M",
     "JAT-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩8C",
+    "\u8363\u8000\u7545\u73a98C",
     "HWBKK-Q",
     "BKK-AL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩8C",
+    "\u8363\u8000\u7545\u73a98C",
     "HWBKK-Q",
     "BKK-AL10"
   ],
   [
     "Huawei",
-    "荣耀畅玩8C",
+    "\u8363\u8000\u7545\u73a98C",
     "HWBKK-Q",
     "BKK-TL00"
   ],
   [
     "Huawei",
-    "荣耀畅玩平板2 9.6",
+    "\u8363\u8000\u7545\u73a9\u5e73\u677f2 9.6",
     "HWBZA-Q",
     "BZA-L00"
   ],
   [
     "Huawei",
-    "荣耀畅玩平板2 9.6",
+    "\u8363\u8000\u7545\u73a9\u5e73\u677f2 9.6",
     "HWBZA-Q",
     "BZA-W00"
   ],
   [
     "Huawei",
-    "麦芒 8",
+    "\u9ea6\u8292 8",
     "HWPOT-H",
     "POT-AL00"
   ],
   [
     "Huawei",
-    "麦芒 8",
+    "\u9ea6\u8292 8",
     "HWPOT-HF",
     "POT-AL10"
   ],
   [
     "Huawei",
-    "麦芒4",
+    "\u9ea6\u82924",
     "hwRIO-AL00",
     "HUAWEI RIO-AL00"
   ],
   [
     "Huawei",
-    "麦芒5",
+    "\u9ea6\u82925",
     "HWMLA",
     "HUAWEI MLA-AL00"
   ],
   [
     "Huawei",
-    "麦芒5",
+    "\u9ea6\u82925",
     "HWMLA",
     "HUAWEI MLA-AL10"
   ],
   [
     "Huawei",
-    "麦芒5",
+    "\u9ea6\u82925",
     "HWMLA",
     "MLA-AL00"
   ],
   [
     "Huawei",
-    "麦芒5",
+    "\u9ea6\u82925",
     "HWMLA",
     "MLA-AL10"
   ],
@@ -9976,6 +10120,24 @@
     "GT 20 Pro",
     "Infinix-X6871",
     "Infinix X6871"
+  ],
+  [
+    "Infinix",
+    "GT 30",
+    "Infinix-X6876",
+    "Infinix X6876"
+  ],
+  [
+    "Infinix",
+    "GT 30 Pro",
+    "Infinix-X6873",
+    "Infinix X6873"
+  ],
+  [
+    "Infinix",
+    "GT 50 Pro",
+    "Infinix-X6891",
+    "Infinix X6891"
   ],
   [
     "Infinix",
@@ -10252,6 +10414,42 @@
     "HOT 6 Pro",
     "Infinix-X608",
     "Infinix X608"
+  ],
+  [
+    "Infinix",
+    "HOT 60 5G",
+    "Infinix-X6726",
+    "Infinix X6726"
+  ],
+  [
+    "Infinix",
+    "HOT 60 5G",
+    "Infinix-X6726B",
+    "Infinix X6726B"
+  ],
+  [
+    "Infinix",
+    "HOT 60 Pro+",
+    "Infinix-X6886",
+    "Infinix X6886"
+  ],
+  [
+    "Infinix",
+    "HOT 60i",
+    "Infinix-X6728",
+    "Infinix X6728"
+  ],
+  [
+    "Infinix",
+    "HOT 60i 5G",
+    "Infinix-X6730",
+    "Infinix X6730"
+  ],
+  [
+    "Infinix",
+    "HOT 60i 5G",
+    "Infinix-X6730B",
+    "Infinix X6730B"
   ],
   [
     "Infinix",
@@ -10573,6 +10771,24 @@
   ],
   [
     "Infinix",
+    "Infinix HOT 60 Pro",
+    "Infinix-X6885",
+    "Infinix X6885"
+  ],
+  [
+    "Infinix",
+    "Infinix HOT 60i",
+    "Infinix-X6728",
+    "Infinix X6728"
+  ],
+  [
+    "Infinix",
+    "Infinix HOT 60i",
+    "Infinix-X6728B",
+    "Infinix X6728B"
+  ],
+  [
+    "Infinix",
     "Infinix HOT 6X",
     "Infinix-X623",
     "Infinix X623"
@@ -10594,6 +10810,24 @@
     "Infinix HOT 7 pro",
     "Infinix-X625C",
     "Infinix X625C"
+  ],
+  [
+    "Infinix",
+    "Infinix HOT 70",
+    "Infinix-X6895",
+    "Infinix X6895"
+  ],
+  [
+    "Infinix",
+    "Infinix HOT 70",
+    "Infinix-X6895B",
+    "Infinix X6895B"
+  ],
+  [
+    "Infinix",
+    "Infinix HOT 70 Pro 5G",
+    "Infinix-X6896",
+    "Infinix X6896"
   ],
   [
     "Infinix",
@@ -10771,6 +11005,24 @@
   ],
   [
     "Infinix",
+    "Infinix NOTE 50S 5G",
+    "Infinix-X6870",
+    "Infinix X6870"
+  ],
+  [
+    "Infinix",
+    "Infinix NOTE 60",
+    "Infinix-X6879",
+    "Infinix X6879"
+  ],
+  [
+    "Infinix",
+    "Infinix NOTE 60 Ultra",
+    "Infinix-X6877",
+    "Infinix X6877"
+  ],
+  [
+    "Infinix",
     "Infinix NOTE 7 Lite",
     "Infinix-X656",
     "Infinix X656"
@@ -10786,6 +11038,24 @@
     "Infinix Note 5",
     "Infinix-X604_sprout",
     "Infinix X604B"
+  ],
+  [
+    "Infinix",
+    "Infinix SMART 10",
+    "Infinix-X6725",
+    "Infinix X6725"
+  ],
+  [
+    "Infinix",
+    "Infinix SMART 10",
+    "Infinix-X6725D",
+    "Infinix X6725D"
+  ],
+  [
+    "Infinix",
+    "Infinix SMART 10 HD",
+    "Infinix-X6525D",
+    "Infinix X6525D"
   ],
   [
     "Infinix",
@@ -10855,6 +11125,12 @@
   ],
   [
     "Infinix",
+    "Infinix TV",
+    "beomil",
+    "Infinix TV"
+  ],
+  [
+    "Infinix",
     "Infinix X5010",
     "Infinix-X5010",
     "Infinix X5010"
@@ -10882,6 +11158,24 @@
     "Infinix X572",
     "Infinix-X572",
     "Infinix X572"
+  ],
+  [
+    "Infinix",
+    "Infinix XPAD 30 pro",
+    "Infinix-X1103",
+    "Infinix X1103"
+  ],
+  [
+    "Infinix",
+    "Infinix XPAD 30 pro",
+    "Infinix-X1103B",
+    "Infinix X1103B"
+  ],
+  [
+    "Infinix",
+    "Infinix XPAD Edge",
+    "Infinix-X1302",
+    "Infinix X1302"
   ],
   [
     "Infinix",
@@ -10918,6 +11212,12 @@
     "Infinix ZERO 8i",
     "Infinix-X687B",
     "Infinix X687B"
+  ],
+  [
+    "Infinix",
+    "Infinix ZERO Flip",
+    "Infinix-X6962",
+    "Infinix X6962"
   ],
   [
     "Infinix",
@@ -11077,6 +11377,42 @@
   ],
   [
     "Infinix",
+    "NOTE 50",
+    "Infinix-X6858",
+    "Infinix X6858"
+  ],
+  [
+    "Infinix",
+    "NOTE 50 Pro",
+    "Infinix-X6855",
+    "Infinix X6855"
+  ],
+  [
+    "Infinix",
+    "NOTE 50 Pro+ 5G",
+    "Infinix-X6856",
+    "Infinix X6856"
+  ],
+  [
+    "Infinix",
+    "NOTE 50X 5G",
+    "Infinix-X6857",
+    "Infinix X6857"
+  ],
+  [
+    "Infinix",
+    "NOTE 50X 5G",
+    "Infinix-X6857B",
+    "Infinix X6857B"
+  ],
+  [
+    "Infinix",
+    "NOTE 60 Pro",
+    "Infinix-X6878",
+    "Infinix X6878"
+  ],
+  [
+    "Infinix",
     "NOTE 7",
     "Infinix-X690",
     "Infinix X690"
@@ -11110,6 +11446,12 @@
     "NOTE 8i",
     "Infinix-X683B",
     "Infinix X683B"
+  ],
+  [
+    "Infinix",
+    "NOTE Edge",
+    "Infinix-X6887",
+    "Infinix X6887"
   ],
   [
     "Infinix",
@@ -11185,19 +11527,19 @@
   ],
   [
     "Infinix",
-    "S5 Pro",
+    "S5\u00a0Pro",
     "Infinix-X660",
     "Infinix X660"
   ],
   [
     "Infinix",
-    "S5 Pro",
+    "S5\u00a0Pro",
     "Infinix-X660B",
     "Infinix X660B"
   ],
   [
     "Infinix",
-    "S5 Pro",
+    "S5\u00a0Pro",
     "Infinix-X660C",
     "Infinix X660C"
   ],
@@ -11212,6 +11554,30 @@
     "SMART",
     "Infinix-X657B",
     "Infinix X657B"
+  ],
+  [
+    "Infinix",
+    "SMART 10 PLUS",
+    "Infinix-X6725B",
+    "Infinix X6725B"
+  ],
+  [
+    "Infinix",
+    "SMART 10 PLUS",
+    "Infinix-X6725C",
+    "Infinix X6725C"
+  ],
+  [
+    "Infinix",
+    "SMART 20",
+    "Infinix-X6840",
+    "Infinix X6840"
+  ],
+  [
+    "Infinix",
+    "SMART 20",
+    "Infinix-X6840B",
+    "Infinix X6840B"
   ],
   [
     "Infinix",
@@ -11302,6 +11668,12 @@
     "SMART HD",
     "Infinix-X612B",
     "Infinix X612B"
+  ],
+  [
+    "Infinix",
+    "SMART Series",
+    "Infinix-X6725",
+    "Infinix X6725"
   ],
   [
     "Infinix",
@@ -11641,6 +12013,30 @@
   ],
   [
     "Infinix",
+    "XPAD 20",
+    "Infinix-X1102",
+    "Infinix X1102"
+  ],
+  [
+    "Infinix",
+    "XPAD 20 Pro",
+    "Infinix-X1201",
+    "Infinix X1201"
+  ],
+  [
+    "Infinix",
+    "XPAD 30",
+    "Infinix-X1102D",
+    "Infinix X1102D"
+  ],
+  [
+    "Infinix",
+    "XPAD 30E",
+    "Infinix-X1102B",
+    "Infinix X1102B"
+  ],
+  [
+    "Infinix",
     "ZERO 30 5G",
     "Infinix-X6731",
     "Infinix X6731"
@@ -11662,12 +12058,6 @@
     "ZERO 5G 2023",
     "Infinix-X6815D",
     "Infinix X6815D"
-  ],
-  [
-    "Infinix",
-    "ZERO Flip",
-    "Infinix-X6962",
-    "Infinix X6962"
   ],
   [
     "Infinix",
@@ -11959,6 +12349,12 @@
   ],
   [
     "Itel",
+    "A50",
+    "itel-A667L",
+    "itel A667L"
+  ],
+  [
+    "Itel",
     "A51",
     "itel_A51",
     "itel A51"
@@ -11968,6 +12364,12 @@
     "A512W",
     "itel-A512W",
     "itel A512W"
+  ],
+  [
+    "Itel",
+    "A515W",
+    "itel-A515W",
+    "itel A515W"
   ],
   [
     "Itel",
@@ -12022,6 +12424,18 @@
     "A70",
     "itel-A665L",
     "itel A665L"
+  ],
+  [
+    "Itel",
+    "A90",
+    "itel-A6610L",
+    "itel A6610L"
+  ],
+  [
+    "Itel",
+    "City100",
+    "itel-C671L",
+    "itel C671L"
   ],
   [
     "Itel",
@@ -12109,9 +12523,27 @@
   ],
   [
     "Itel",
+    "P10006L-OP",
+    "itel-P10006L",
+    "itel P10006L"
+  ],
+  [
+    "Itel",
     "P11",
     "itel_P11",
     "itel P11"
+  ],
+  [
+    "Itel",
+    "P11025G-IN",
+    "itel-P11025G",
+    "itel P11025G"
+  ],
+  [
+    "Itel",
+    "P1102GT-OP",
+    "itel-P1102GT",
+    "itel P1102GT"
   ],
   [
     "Itel",
@@ -12130,6 +12562,12 @@
     "P13 Plus",
     "itel-P13-Plus",
     "itel P13 Plus"
+  ],
+  [
+    "Itel",
+    "P13001L",
+    "itel-P13001L",
+    "itel P13001L"
   ],
   [
     "Itel",
@@ -12181,7 +12619,7 @@
   ],
   [
     "Itel",
-    "P37 Pro（Vision2 Plus）",
+    "P37 Pro\uff08Vision2 Plus\uff09",
     "itel-P681LM",
     "itel P681LM"
   ],
@@ -12208,6 +12646,12 @@
     "P65",
     "itel-P671LN",
     "itel P671LN"
+  ],
+  [
+    "Itel",
+    "POWER 80",
+    "itel-P685L",
+    "itel P685L"
   ],
   [
     "Itel",
@@ -12673,6 +13117,24 @@
   ],
   [
     "Itel",
+    "itel A06",
+    "itel-A669W",
+    "itel A669W"
+  ],
+  [
+    "Itel",
+    "itel A100",
+    "itel-A673L",
+    "itel A673L"
+  ],
+  [
+    "Itel",
+    "itel A100C",
+    "itel-A6611L",
+    "itel A6611L"
+  ],
+  [
+    "Itel",
     "itel A11",
     "itel_A11",
     "itel A11"
@@ -12766,6 +13228,18 @@
     "itel A20",
     "itel-A20",
     "itel A20"
+  ],
+  [
+    "Itel",
+    "itel A200",
+    "itel-A675L",
+    "itel A675L"
+  ],
+  [
+    "Itel",
+    "itel A200+",
+    "itel-A676L",
+    "itel A676L"
   ],
   [
     "Itel",
@@ -13087,6 +13561,18 @@
   ],
   [
     "Itel",
+    "itel A90",
+    "itel-A6610L",
+    "itel A6610L"
+  ],
+  [
+    "Itel",
+    "itel A95 5G",
+    "itel-A671N",
+    "itel A671N"
+  ],
+  [
+    "Itel",
     "itel AC12",
     "itel-A14",
     "itel A14"
@@ -13153,6 +13639,42 @@
   ],
   [
     "Itel",
+    "itel CITY 200",
+    "itel-C681L",
+    "itel C681L"
+  ],
+  [
+    "Itel",
+    "itel CITY 200+",
+    "itel-C672L",
+    "itel C672L"
+  ],
+  [
+    "Itel",
+    "itel CITY 200/200s",
+    "itel-C681LN",
+    "itel C681LN"
+  ],
+  [
+    "Itel",
+    "itel CITY 200s",
+    "itel-C681LN",
+    "itel C681LN"
+  ],
+  [
+    "Itel",
+    "itel CITY 300 5G",
+    "itel-C672N",
+    "itel C672N"
+  ],
+  [
+    "Itel",
+    "itel City100",
+    "itel-C671L",
+    "itel C671L"
+  ],
+  [
+    "Itel",
     "itel KidPad 1",
     "Itel-W7001",
     "Itel W7001"
@@ -13207,7 +13729,7 @@
   ],
   [
     "Itel",
-    "itel P38 Pro(Vision 3 Plus)",
+    "itel P38 Pro(Vision\u00a03\u00a0Plus)",
     "itel-P682L",
     "itel P682L"
   ],
@@ -13321,7 +13843,7 @@
   ],
   [
     "Itel",
-    "itel S16 Pro（Vision 2）",
+    "itel S16 Pro\uff08Vision 2\uff09",
     "itel-L6503",
     "itel L6503"
   ],
@@ -13384,6 +13906,24 @@
     "itel S32LTE",
     "itel-S32LTE",
     "itel S32LTE"
+  ],
+  [
+    "Itel",
+    "itel Super 26 Ultra",
+    "itel-S688LN",
+    "itel S688LN"
+  ],
+  [
+    "Itel",
+    "itel TV",
+    "beomil",
+    "itel TV"
+  ],
+  [
+    "Itel",
+    "itel TV",
+    "eleonas",
+    "itel TV"
   ],
   [
     "Itel",
@@ -13495,6 +14035,24 @@
   ],
   [
     "Itel",
+    "itel VistaTab 11",
+    "itel-P10005L",
+    "itel P10005L"
+  ],
+  [
+    "Itel",
+    "itel VistaTab 30S",
+    "itel-P11002L",
+    "itel P11002L"
+  ],
+  [
+    "Itel",
+    "itel VistaTab go",
+    "itel-P08003L",
+    "itel P08003L"
+  ],
+  [
+    "Itel",
     "itel W4001",
     "itel-W4001",
     "itel W4001"
@@ -13582,6 +14140,12 @@
     "itel-A510W",
     "itel-A510W",
     "itel A510W"
+  ],
+  [
+    "Itel",
+    "itel-A669L",
+    "itel-A669L",
+    "itel A669L"
   ],
   [
     "Itel",
@@ -14575,19 +15139,19 @@
   ],
   [
     "LGE",
-    "G PADⅢ 10.1",
+    "G PAD\u2162 10.1",
     "th10",
     "LG-X760"
   ],
   [
     "LGE",
-    "G PADⅢ 10.1",
+    "G PAD\u2162 10.1",
     "th10",
     "LG-X760E"
   ],
   [
     "LGE",
-    "G PADⅢ 10.1",
+    "G PAD\u2162 10.1",
     "th10",
     "LG-X760W"
   ],
@@ -14719,19 +15283,19 @@
   ],
   [
     "LGE",
-    "G Pad Ⅱ 10.1",
+    "G Pad \u2161 10.1",
     "t1lte",
     "LGUK932"
   ],
   [
     "LGE",
-    "G Pad Ⅱ 10.1 FHD 4G LTE",
+    "G Pad \u2161 10.1 FHD 4G LTE",
     "t1lte",
     "LG-V935"
   ],
   [
     "LGE",
-    "G Pad Ⅱ 10.1 FHD 4G LTE",
+    "G Pad \u2161 10.1 FHD 4G LTE",
     "t1lte",
     "LG-V935T"
   ],
@@ -16051,13 +16615,13 @@
   ],
   [
     "LGE",
-    "LG G Pad F™ 8.0 2nd Gen",
+    "LG G Pad F\u2122 8.0 2nd Gen",
     "t8lte",
     "LG-AK495"
   ],
   [
     "LGE",
-    "LG G Pad F™ 8.0 2nd Gen",
+    "LG G Pad F\u2122 8.0 2nd Gen",
     "t8lte",
     "LG-UK495"
   ],
@@ -16153,13 +16717,13 @@
   ],
   [
     "LGE",
-    "LG G Pad X® II 10.1",
+    "LG G Pad X\u00ae II 10.1",
     "b5",
     "LGUK750"
   ],
   [
     "LGE",
-    "LG G Pad™ X 8.0",
+    "LG G Pad\u2122 X 8.0",
     "b3",
     "LG-V520"
   ],
@@ -16855,25 +17419,25 @@
   ],
   [
     "LGE",
-    "LG G8 ThinQ™",
+    "LG G8 ThinQ\u2122",
     "alphaamz",
     "LM-G820"
   ],
   [
     "LGE",
-    "LG G8 ThinQ™",
+    "LG G8 ThinQ\u2122",
     "alphalm",
     "LM-G820"
   ],
   [
     "LGE",
-    "LG G8 ThinQ™",
+    "LG G8 ThinQ\u2122",
     "alphaplus",
     "LM-G820N"
   ],
   [
     "LGE",
-    "LG GRACE™ LTE",
+    "LG GRACE\u2122 LTE",
     "lv517",
     "LGL59BL"
   ],
@@ -17449,7 +18013,7 @@
   ],
   [
     "LGE",
-    "LG LEON™ LTE",
+    "LG LEON\u2122 LTE",
     "c50",
     "LG-H345"
   ],
@@ -17563,7 +18127,7 @@
   ],
   [
     "LGE",
-    "LG Mach™",
+    "LG Mach\u2122",
     "l2s",
     "LG-LS860"
   ],
@@ -17647,7 +18211,7 @@
   ],
   [
     "LGE",
-    "LG Optimus ELITE™",
+    "LG Optimus ELITE\u2122",
     "m3s",
     "LG-VM696"
   ],
@@ -19069,7 +19633,7 @@
   ],
   [
     "LGE",
-    "LG Tribute 2™",
+    "LG Tribute 2\u2122",
     "c50",
     "LGLS665"
   ],
@@ -22573,6 +23137,12 @@
   ],
   [
     "Motorola",
+    "Flipkart India Private Limited",
+    "landen",
+    "MOT41F"
+  ],
+  [
+    "Motorola",
     "FlipkartTV",
     "SW4H",
     "FlipkartTV"
@@ -22732,6 +23302,24 @@
     "Lenovo XT2091-7",
     "cebu",
     "Lenovo XT2091-7"
+  ],
+  [
+    "Motorola",
+    "MOTOROLA",
+    "elliniko",
+    "4K SMART TV"
+  ],
+  [
+    "Motorola",
+    "MOTOROLA",
+    "elliniko",
+    "MOTOROLA GOOGLE TV 4K"
+  ],
+  [
+    "Motorola",
+    "MOTOROLA",
+    "jagalchi",
+    "MOTOROLA GOOGLE TV"
   ],
   [
     "Motorola",
@@ -23876,6 +24464,18 @@
   [
     "Motorola",
     "Motorola",
+    "khardi",
+    "MOTOROLA GOOGLE TV 4K"
+  ],
+  [
+    "Motorola",
+    "Motorola",
+    "khardi",
+    "MOTOROLA GOOGLE TV 4K N"
+  ],
+  [
+    "Motorola",
+    "Motorola",
     "lavender",
     "MOTOROLA GOOGLE TV 4K"
   ],
@@ -23900,6 +24500,12 @@
   [
     "Motorola",
     "Motorola",
+    "templeton",
+    "4K SMART TV"
+  ],
+  [
+    "Motorola",
+    "Motorola",
     "zhongshan",
     "CSV4K"
   ],
@@ -23920,6 +24526,30 @@
     "Motorola Defy 2",
     "BM2S1E",
     "Defy 2"
+  ],
+  [
+    "Motorola",
+    "Motorola TV",
+    "beomil",
+    "Motorola TV"
+  ],
+  [
+    "Motorola",
+    "Motorola TV",
+    "eleonas",
+    "Motorola TV"
+  ],
+  [
+    "Motorola",
+    "Motorola TV",
+    "katehaki",
+    "Motorola TV"
+  ],
+  [
+    "Motorola",
+    "Motorola TV FF",
+    "eleonas",
+    "Motorola TV FF"
   ],
   [
     "Motorola",
@@ -24229,7 +24859,7 @@
   ],
   [
     "Motorola",
-    "moto X30 屏下摄像版",
+    "moto X30 \u5c4f\u4e0b\u6444\u50cf\u7248",
     "hiphid",
     "XT2201-6"
   ],
@@ -24238,6 +24868,18 @@
     "moto X40",
     "rtwo",
     "XT2301-5"
+  ],
+  [
+    "Motorola",
+    "moto X70 Air",
+    "roadstr",
+    "XT2601-1"
+  ],
+  [
+    "Motorola",
+    "moto X70 Pro",
+    "vantage",
+    "XT2603-1"
   ],
   [
     "Motorola",
@@ -24559,15 +25201,39 @@
   ],
   [
     "Motorola",
-    "moto e⁶ plus",
+    "moto e\u2076 plus",
     "pokerp",
     "moto e(6) plus"
   ],
   [
     "Motorola",
-    "moto e⁶ˢ",
+    "moto e\u2076\u02e2",
     "pokerp",
     "moto e(6s)"
+  ],
+  [
+    "Motorola",
+    "moto g - 2025",
+    "kansas",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g - 2025",
+    "kansas",
+    "moto g play - 2024"
+  ],
+  [
+    "Motorola",
+    "moto g - 2026",
+    "utah",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g - 2026",
+    "utah",
+    "moto g - 2026"
   ],
   [
     "Motorola",
@@ -24631,6 +25297,36 @@
   ],
   [
     "Motorola",
+    "moto g max",
+    "naples",
+    "moto g max"
+  ],
+  [
+    "Motorola",
+    "moto g max",
+    "naples",
+    "moto g67"
+  ],
+  [
+    "Motorola",
+    "moto g max",
+    "naples",
+    "moto g87"
+  ],
+  [
+    "Motorola",
+    "moto g max",
+    "venice",
+    "moto g max"
+  ],
+  [
+    "Motorola",
+    "moto g max",
+    "venice",
+    "moto g57"
+  ],
+  [
+    "Motorola",
     "moto g play (2021)",
     "guamna",
     "moto g play (2021)"
@@ -24652,6 +25348,18 @@
     "moto g play - 2024",
     "fogona",
     "motorola edge 40 pro"
+  ],
+  [
+    "Motorola",
+    "moto g play - 2026",
+    "nevada",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g play - 2026",
+    "nevada",
+    "moto g play - 2026"
   ],
   [
     "Motorola",
@@ -24682,6 +25390,30 @@
     "moto g power (XT2041DL)",
     "sofia",
     "moto g power (XT2041DL)"
+  ],
+  [
+    "Motorola",
+    "moto g power - 2025",
+    "vegas",
+    "moto g power - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g power - 2025",
+    "vegas",
+    "moto g power 5G - 2024"
+  ],
+  [
+    "Motorola",
+    "moto g power - 2026",
+    "vegas26",
+    "moto g power - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g power - 2026",
+    "vegas26",
+    "moto g power - 2026"
   ],
   [
     "Motorola",
@@ -24775,6 +25507,18 @@
   ],
   [
     "Motorola",
+    "moto g stylus - 2026",
+    "lamy",
+    "moto g stylus - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g stylus - 2026",
+    "lamy",
+    "moto g stylus - 2026"
+  ],
+  [
+    "Motorola",
     "moto g stylus 5G",
     "denver",
     "moto g stylus (2021)"
@@ -24820,6 +25564,18 @@
     "moto g stylus 5G - 2024",
     "boston",
     "moto g stylus 5G - 2024"
+  ],
+  [
+    "Motorola",
+    "moto g stylus 5G - 2025",
+    "mona",
+    "moto g stylus - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g stylus 5G - 2025",
+    "mona",
+    "motorola edge 50 fusion"
   ],
   [
     "Motorola",
@@ -25189,6 +25945,30 @@
   ],
   [
     "Motorola",
+    "moto g06",
+    "lagos",
+    "moto g05"
+  ],
+  [
+    "Motorola",
+    "moto g06",
+    "lagos",
+    "moto g06"
+  ],
+  [
+    "Motorola",
+    "moto g06 power",
+    "lagos",
+    "moto g05"
+  ],
+  [
+    "Motorola",
+    "moto g06 power",
+    "lagos",
+    "moto g06 power"
+  ],
+  [
+    "Motorola",
     "moto g10 power",
     "capri",
     "moto g(10) power"
@@ -25333,6 +26113,36 @@
   ],
   [
     "Motorola",
+    "moto g37",
+    "sydnyl",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g37",
+    "sydnyl",
+    "moto g37"
+  ],
+  [
+    "Motorola",
+    "moto g37 M-51G",
+    "M-51G",
+    "M-51G"
+  ],
+  [
+    "Motorola",
+    "moto g37 power",
+    "sydnyl",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g37 power",
+    "sydnyl",
+    "moto g37 power"
+  ],
+  [
+    "Motorola",
     "moto g40 fusion",
     "hanoip",
     "moto g(40) fusion"
@@ -25372,6 +26182,18 @@
     "moto g45 5G",
     "fogos",
     "moto g45 5G"
+  ],
+  [
+    "Motorola",
+    "moto g47",
+    "sydnyl",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g47",
+    "sydnyl",
+    "moto g47"
   ],
   [
     "Motorola",
@@ -25483,6 +26305,42 @@
   ],
   [
     "Motorola",
+    "moto g56 5G",
+    "bogota",
+    "moto g54 5G"
+  ],
+  [
+    "Motorola",
+    "moto g56 5G",
+    "bogota",
+    "moto g56 5G"
+  ],
+  [
+    "Motorola",
+    "moto g57",
+    "mumba",
+    "moto g57"
+  ],
+  [
+    "Motorola",
+    "moto g57",
+    "mumba",
+    "motorola edge 60 stylus"
+  ],
+  [
+    "Motorola",
+    "moto g57 power",
+    "mumba",
+    "moto g57 power"
+  ],
+  [
+    "Motorola",
+    "moto g57 power",
+    "mumba",
+    "motorola edge 60 stylus"
+  ],
+  [
+    "Motorola",
     "moto g6 play",
     "jeter",
     "Moto G Play"
@@ -25543,6 +26401,66 @@
   ],
   [
     "Motorola",
+    "moto g66j 5G",
+    "bogota",
+    "moto g54 5G"
+  ],
+  [
+    "Motorola",
+    "moto g66j 5G",
+    "bogota",
+    "moto g64 5G"
+  ],
+  [
+    "Motorola",
+    "moto g66j 5G",
+    "bogota",
+    "moto g66j 5G"
+  ],
+  [
+    "Motorola",
+    "moto g66y 5G",
+    "bogota",
+    "moto g64 5G"
+  ],
+  [
+    "Motorola",
+    "moto g66y 5G",
+    "bogota",
+    "moto g66y 5G"
+  ],
+  [
+    "Motorola",
+    "moto g67",
+    "naples",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g67",
+    "naples",
+    "moto g67"
+  ],
+  [
+    "Motorola",
+    "moto g67 power 5G",
+    "portov",
+    "XT2533-4"
+  ],
+  [
+    "Motorola",
+    "moto g67 power 5G",
+    "portov",
+    "moto g67 power 5G"
+  ],
+  [
+    "Motorola",
+    "moto g67 power 5G",
+    "portov",
+    "motorola edge 60 stylus"
+  ],
+  [
+    "Motorola",
     "moto g71 5G",
     "corfur",
     "moto g(50)"
@@ -25582,6 +26500,30 @@
     "moto g75 5G",
     "sorap",
     "moto g75 5G"
+  ],
+  [
+    "Motorola",
+    "moto g77",
+    "naples",
+    "moto g - 2025"
+  ],
+  [
+    "Motorola",
+    "moto g77",
+    "naples",
+    "moto g77"
+  ],
+  [
+    "Motorola",
+    "moto g77 power",
+    "sydney",
+    "moto g47"
+  ],
+  [
+    "Motorola",
+    "moto g77 power",
+    "sydney",
+    "moto g77 power"
   ],
   [
     "Motorola",
@@ -25639,6 +26581,60 @@
   ],
   [
     "Motorola",
+    "moto g86 5G",
+    "nice",
+    "moto g86 5G"
+  ],
+  [
+    "Motorola",
+    "moto g86 5G",
+    "nice",
+    "motorola edge 50 neo"
+  ],
+  [
+    "Motorola",
+    "moto g86 power 5G",
+    "nice",
+    "moto g86 power 5G"
+  ],
+  [
+    "Motorola",
+    "moto g86 power 5G",
+    "nice",
+    "motorola edge 50 neo"
+  ],
+  [
+    "Motorola",
+    "moto g87",
+    "naples",
+    "moto g max"
+  ],
+  [
+    "Motorola",
+    "moto g87",
+    "naples",
+    "moto g67"
+  ],
+  [
+    "Motorola",
+    "moto g87",
+    "naples",
+    "moto g87"
+  ],
+  [
+    "Motorola",
+    "moto g96 5G",
+    "cuscoi",
+    "moto g96 5G"
+  ],
+  [
+    "Motorola",
+    "moto g96 5G",
+    "cuscoi",
+    "motorola edge 50 fusion"
+  ],
+  [
+    "Motorola",
     "moto p30",
     "robusta",
     "XT1943-1"
@@ -25648,6 +26644,30 @@
     "moto p30 play",
     "deen",
     "XT1941-2"
+  ],
+  [
+    "Motorola",
+    "moto pad 60 neo",
+    "XT2575-1",
+    "XT2575-1"
+  ],
+  [
+    "Motorola",
+    "moto pad 60 neo",
+    "XT2575-3",
+    "XT2575-3"
+  ],
+  [
+    "Motorola",
+    "moto pad 70 groove",
+    "XT2675-1",
+    "XT2675-1"
+  ],
+  [
+    "Motorola",
+    "moto pad \u2013 2026",
+    "XT2575-4",
+    "XT2575-4"
   ],
   [
     "Motorola",
@@ -25669,9 +26689,21 @@
   ],
   [
     "Motorola",
+    "moto razr 70 ultra",
+    "lhotse",
+    "XT2655-4"
+  ],
+  [
+    "Motorola",
     "moto tab g20",
     "mototabg20",
     "moto tab g20"
+  ],
+  [
+    "Motorola",
+    "moto watch ultra",
+    "atlas",
+    "moto watch ultra"
   ],
   [
     "Motorola",
@@ -25726,6 +26758,18 @@
     "motorola edge (2022)",
     "tesla",
     "motorola edge (2022)"
+  ],
+  [
+    "Motorola",
+    "motorola edge - 2026",
+    "masera",
+    "motorola edge - 2026"
+  ],
+  [
+    "Motorola",
+    "motorola edge - 2026",
+    "masera",
+    "motorola edge 60 fusion"
   ],
   [
     "Motorola",
@@ -25798,6 +26842,18 @@
     "motorola edge 2024",
     "avatrn",
     "motorola edge 2024"
+  ],
+  [
+    "Motorola",
+    "motorola edge 2025",
+    "oulu",
+    "motorola edge 2025"
+  ],
+  [
+    "Motorola",
+    "motorola edge 2025",
+    "oulu",
+    "motorola edge 50 neo"
   ],
   [
     "Motorola",
@@ -25975,6 +27031,138 @@
   ],
   [
     "Motorola",
+    "motorola edge 60",
+    "scout",
+    "motorola edge 50 neo"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60",
+    "scout",
+    "motorola edge 60"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 fusion",
+    "scout",
+    "motorola edge 50 neo"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 fusion",
+    "scout",
+    "motorola edge 60 fusion"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 neo",
+    "vienna",
+    "motorola edge 50 neo"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 neo",
+    "vienna",
+    "motorola edge 60 neo"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 pro",
+    "cybert",
+    "moto g play - 2024"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 pro",
+    "cybert",
+    "motorola edge 60 pro"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 stylus",
+    "monai",
+    "motorola edge 50 fusion"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60 stylus",
+    "monai",
+    "motorola edge 60 stylus"
+  ],
+  [
+    "Motorola",
+    "motorola edge 60s pro",
+    "cybert",
+    "motorola edge 60s pro"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70",
+    "roadstr",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70",
+    "roadstr",
+    "motorola edge 70"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 fusion",
+    "marvel",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 fusion",
+    "marvel",
+    "motorola edge 70 fusion"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 fusion +",
+    "marvel",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 fusion +",
+    "marvel",
+    "motorola edge 70 fusion plus"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 max",
+    "avr",
+    "motorola edge 70 max"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 pro",
+    "merc",
+    "motorola edge 2025"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 pro",
+    "merc",
+    "motorola edge 70 pro"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 pro+",
+    "merc",
+    "motorola edge 2025"
+  ],
+  [
+    "Motorola",
+    "motorola edge 70 pro+",
+    "merc",
+    "motorola edge 70 pro+"
+  ],
+  [
+    "Motorola",
     "motorola edge S30",
     "xpeng",
     "XT2175-2"
@@ -26023,7 +27211,7 @@
   ],
   [
     "Motorola",
-    "motorola edge 轻奢版",
+    "motorola edge \u8f7b\u5962\u7248",
     "berlin",
     "XT2143-1"
   ],
@@ -26215,6 +27403,30 @@
   ],
   [
     "Motorola",
+    "motorola razr 2025",
+    "aito",
+    "motorola razr 2024"
+  ],
+  [
+    "Motorola",
+    "motorola razr 2025",
+    "aito",
+    "motorola razr 2025"
+  ],
+  [
+    "Motorola",
+    "motorola razr 2026",
+    "volcano",
+    "motorola razr 2025"
+  ],
+  [
+    "Motorola",
+    "motorola razr 2026",
+    "volcano",
+    "motorola razr 2026"
+  ],
+  [
+    "Motorola",
     "motorola razr 40",
     "lynkco",
     "motorola razr 2022"
@@ -26293,6 +27505,126 @@
   ],
   [
     "Motorola",
+    "motorola razr 60",
+    "aito",
+    "motorola razr 50"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60",
+    "aito",
+    "motorola razr 60"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60 ultra",
+    "leap",
+    "XT2551-3"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60 ultra",
+    "leap",
+    "motorola razr 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60 ultra",
+    "leap",
+    "motorola razr 60 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60d M-51F",
+    "M-51F",
+    "M-51E"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60d M-51F",
+    "M-51F",
+    "M-51F"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60s",
+    "aito",
+    "motorola razr 50s"
+  ],
+  [
+    "Motorola",
+    "motorola razr 60s",
+    "aito",
+    "motorola razr 60s"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70",
+    "volcano",
+    "motorola razr 2026"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70",
+    "volcano",
+    "motorola razr 50"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70",
+    "volcano",
+    "motorola razr 70"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70 plus",
+    "eiger",
+    "motorola razr 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70 plus",
+    "eiger",
+    "motorola razr 70 plus"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70 ultra",
+    "lhotse",
+    "motorola razr 60 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr 70 ultra",
+    "lhotse",
+    "motorola razr 70 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr fold",
+    "blanc",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr fold",
+    "blanc",
+    "motorola razr fold"
+  ],
+  [
+    "Motorola",
+    "motorola razr fold 2026",
+    "blanc",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr fold 2026",
+    "blanc",
+    "motorola razr fold 2026"
+  ],
+  [
+    "Motorola",
     "motorola razr plus 2023",
     "zeekr",
     "motorola razr 2022"
@@ -26314,6 +27646,66 @@
     "motorola razr plus 2024",
     "arcfox",
     "motorola razr plus 2024"
+  ],
+  [
+    "Motorola",
+    "motorola razr plus 2025",
+    "arcfox",
+    "motorola razr plus 2024"
+  ],
+  [
+    "Motorola",
+    "motorola razr plus 2025",
+    "arcfox",
+    "motorola razr plus 2025"
+  ],
+  [
+    "Motorola",
+    "motorola razr plus 2026",
+    "eiger",
+    "motorola razr 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr plus 2026",
+    "eiger",
+    "motorola razr plus 2026"
+  ],
+  [
+    "Motorola",
+    "motorola razr ultra 2025",
+    "leap",
+    "motorola razr 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr ultra 2025",
+    "leap",
+    "motorola razr ultra 2025"
+  ],
+  [
+    "Motorola",
+    "motorola razr ultra 2026",
+    "lhotse",
+    "motorola razr 60 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola razr ultra 2026",
+    "lhotse",
+    "motorola razr ultra 2026"
+  ],
+  [
+    "Motorola",
+    "motorola signature",
+    "vantage",
+    "motorola edge 50 ultra"
+  ],
+  [
+    "Motorola",
+    "motorola signature",
+    "vantage",
+    "motorola signature"
   ],
   [
     "OnePlus",
@@ -26362,6 +27754,18 @@
     "N1 Pro",
     "songni",
     "H80A"
+  ],
+  [
+    "OnePlus",
+    "Nord CE5",
+    "OP613BL1",
+    "CPH2717"
+  ],
+  [
+    "OnePlus",
+    "Nord CE5",
+    "OP613BL1",
+    "CPH2719"
   ],
   [
     "OnePlus",
@@ -26467,7 +27871,7 @@
   ],
   [
     "OnePlus",
-    "OnePlus 11 5G 中国版",
+    "OnePlus 11 5G \u4e2d\u56fd\u7248",
     "OP591BL1",
     "PHB110"
   ],
@@ -26524,6 +27928,102 @@
     "OnePlus 13",
     "OP5D0DL1",
     "PJZ110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13",
+    "OP5D55L1",
+    "CPH2649"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13",
+    "OP5D55L1",
+    "CPH2653"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13",
+    "OP5D55L1",
+    "CPH2655"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13R",
+    "OP5D3BL1",
+    "CPH2645"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13R",
+    "OP5D3BL1",
+    "CPH2647"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13R",
+    "OP5D3BL1",
+    "CPH2691"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13T",
+    "OP60F5L1",
+    "PKX110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 13s",
+    "OP612BL1",
+    "CPH2723"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15",
+    "OP60FFL1",
+    "PLK110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15",
+    "OP611FL1",
+    "CPH2745"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15",
+    "OP611FL1",
+    "CPH2747"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15",
+    "OP611FL1",
+    "CPH2749"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15R",
+    "OP612DL1",
+    "CPH2767"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15R",
+    "OP612DL1",
+    "CPH2769"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15R",
+    "OP612DL1",
+    "CPH2771"
+  ],
+  [
+    "OnePlus",
+    "OnePlus 15T",
+    "OP64DDL1",
+    "PLZ110"
   ],
   [
     "OnePlus",
@@ -26875,9 +28375,51 @@
   ],
   [
     "OnePlus",
-    "OnePlus Ace 竞速版",
+    "OnePlus Ace 5 \u7ade\u901f\u7248",
+    "OP60F9L1",
+    "PLF110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Ace 5 \u81f3\u5c0a\u7248",
+    "OP60EDL1",
+    "PLC110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Ace 6",
+    "OP6113L1",
+    "PLQ110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Ace 6 \u81f3\u5c0a\u7248",
+    "OP64D7L1",
+    "PMB110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Ace \u7ade\u901f\u7248",
     "OP5911",
     "PGZ110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus N6",
+    "OP68DD",
+    "CPH2955"
+  ],
+  [
+    "OnePlus",
+    "OnePlus N6 Lite",
+    "OP68FB",
+    "CPH2993"
+  ],
+  [
+    "OnePlus",
+    "OnePlus N6x",
+    "OP68DD",
+    "CPH2971"
   ],
   [
     "OnePlus",
@@ -26926,6 +28468,30 @@
     "OnePlus Nord 4",
     "OP5E93L1",
     "CPH2663"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord 5",
+    "OP6131L1",
+    "CPH2707"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord 5",
+    "OP6131L1",
+    "CPH2709"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord 6",
+    "OP6135L1",
+    "CPH2793"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord 6",
+    "OP6135L1",
+    "CPH2795"
   ],
   [
     "OnePlus",
@@ -26980,6 +28546,30 @@
     "OnePlus Nord CE4 Lite 5G",
     "OP5D49L1",
     "CPH2619"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord CE4 Lite 5G",
+    "OP5D49L1",
+    "CPH2621"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord CE6",
+    "OP6505L1",
+    "CPH2805"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord CE6",
+    "OP6505L1",
+    "CPH2807"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Nord CE6 Lite",
+    "OP68D9L1",
+    "CPH2943"
   ],
   [
     "OnePlus",
@@ -27115,9 +28705,45 @@
   ],
   [
     "OnePlus",
+    "OnePlus Pad",
+    "OP615AL1",
+    "OPD2407"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Pad 4",
+    "OP657AL1",
+    "OPD2514"
+  ],
+  [
+    "OnePlus",
     "OnePlus Pad Go",
     "OP5DA6L1",
     "OPD2304"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Pad Lite",
+    "OP6194L1",
+    "OPD2480"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Pad Lite",
+    "OP6195L1",
+    "OPD2481"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Turbo 6",
+    "OP60F0L1",
+    "PLU110"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Turbo 6V",
+    "OP64D3L1",
+    "PLY110"
   ],
   [
     "OnePlus",
@@ -27130,6 +28756,18 @@
     "OnePlus Watch 2R",
     "OPWWE234",
     "OPWWE234"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Watch 3",
+    "OPWWE251",
+    "OPWWE251"
+  ],
+  [
+    "OnePlus",
+    "OnePlus Watch 4",
+    "OPWWE261",
+    "OPWWE261"
   ],
   [
     "OnePlus",
@@ -27193,12 +28831,6 @@
   ],
   [
     "OnePlus",
-    "Oneplus Nord CE4 Lite 5G",
-    "OP5D49L1",
-    "CPH2621"
-  ],
-  [
-    "OnePlus",
     "Oneplus Pad2",
     "OP5DAAL1",
     "OPD2403"
@@ -27223,6 +28855,24 @@
   ],
   [
     "OnePlus",
+    "Pad 3",
+    "OP6190L1",
+    "OPD2415"
+  ],
+  [
+    "OnePlus",
+    "Pad Go 2",
+    "OP6575L1",
+    "OPD2504"
+  ],
+  [
+    "OnePlus",
+    "Pad Go 2",
+    "OP6575L1",
+    "OPD2505"
+  ],
+  [
+    "OnePlus",
     "X",
     "OnePlus",
     "ONE E1003"
@@ -27235,7 +28885,43 @@
   ],
   [
     "OnePlus",
-    "一加平板Pro",
+    "\u4e00\u52a0 Ace 6T",
+    "OP6117L1",
+    "PLR110"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0 Turbo 6X",
+    "OP68F7L1",
+    "PYS110"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0 Turbo 6X Pro",
+    "OP68E3L1",
+    "PYR110"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0\u5e73\u677f 2",
+    "OP6543L1",
+    "OPD2508"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0\u5e73\u677f 2 Pro",
+    "OP615EL1",
+    "OPD2413"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0\u5e73\u677f 3 Pro",
+    "OP6547L1",
+    "OPD2513"
+  ],
+  [
+    "OnePlus",
+    "\u4e00\u52a0\u5e73\u677fPro",
     "OP5D77L1",
     "OPD2404"
   ],
@@ -27319,13 +29005,13 @@
   ],
   [
     "Oppo",
-    "A11 中国版",
+    "A11 \u4e2d\u56fd\u7248",
     "OP4A4D",
     "PCHM10"
   ],
   [
     "Oppo",
-    "A11 中国版",
+    "A11 \u4e2d\u56fd\u7248",
     "OP4A4D",
     "PCHT10"
   ],
@@ -27337,7 +29023,7 @@
   ],
   [
     "Oppo",
-    "A11n中国版",
+    "A11n\u4e2d\u56fd\u7248",
     "OP4A54",
     "PCHM00"
   ],
@@ -27355,13 +29041,13 @@
   ],
   [
     "Oppo",
-    "A11x 中国版",
+    "A11x \u4e2d\u56fd\u7248",
     "OP4A54",
     "PCHM30"
   ],
   [
     "Oppo",
-    "A11x 中国版",
+    "A11x \u4e2d\u56fd\u7248",
     "OP4A54",
     "PCHT30"
   ],
@@ -27463,9 +29149,9 @@
   ],
   [
     "Oppo",
-    "A3 Pro 5G",
-    "OP59FB",
-    "PJY110"
+    "A3 5G/A3i Plus 5G",
+    "OP5A33",
+    "PKA110"
   ],
   [
     "Oppo",
@@ -27499,7 +29185,7 @@
   ],
   [
     "Oppo",
-    "A32 中国版",
+    "A32 \u4e2d\u56fd\u7248",
     "OP4E35",
     "PDVM00"
   ],
@@ -27691,19 +29377,19 @@
   ],
   [
     "Oppo",
-    "A3中国版",
+    "A3\u4e2d\u56fd\u7248",
     "PADM00",
     "PADM00"
   ],
   [
     "Oppo",
-    "A3中国版",
+    "A3\u4e2d\u56fd\u7248",
     "PADT00",
     "PADT00"
   ],
   [
     "Oppo",
-    "A3活力版 5G",
+    "A3\u6d3b\u529b\u7248 5G",
     "OP5A47",
     "PKD110"
   ],
@@ -27769,9 +29455,51 @@
   ],
   [
     "Oppo",
+    "A5 5G",
+    "OP5EF7L1",
+    "A502OP"
+  ],
+  [
+    "Oppo",
+    "A5 5G",
+    "OP5EF7L1",
+    "CPH2735"
+  ],
+  [
+    "Oppo",
+    "A5 5G",
+    "OP5EF7L1",
+    "CPH2751"
+  ],
+  [
+    "Oppo",
+    "A5 Pro",
+    "OP5ED9L1",
+    "CPH2711"
+  ],
+  [
+    "Oppo",
     "A5 Pro 5G",
     "OP5DF3",
     "PKP110"
+  ],
+  [
+    "Oppo",
+    "A5 Pro 5G",
+    "OP5EBBL1",
+    "CPH2695"
+  ],
+  [
+    "Oppo",
+    "A5 \u6d3b\u529b\u7248 5G/K13x 5G",
+    "OP5DFB",
+    "PKV110"
+  ],
+  [
+    "Oppo",
+    "A5/A5m",
+    "OP5EEDL1",
+    "CPH2727"
   ],
   [
     "Oppo",
@@ -27823,13 +29551,13 @@
   ],
   [
     "Oppo",
-    "A52 中国版",
+    "A52 \u4e2d\u56fd\u7248",
     "OP4AE7",
     "PDAM10"
   ],
   [
     "Oppo",
-    "A52 中国版",
+    "A52 \u4e2d\u56fd\u7248",
     "OP4AE7",
     "PDAT10"
   ],
@@ -27955,18 +29683,6 @@
   ],
   [
     "Oppo",
-    "A57",
-    "OP571F",
-    "CPH2387"
-  ],
-  [
-    "Oppo",
-    "A57",
-    "OP571F",
-    "CPH2407"
-  ],
-  [
-    "Oppo",
     "A57s/A77",
     "OP5353L1",
     "CPH2385"
@@ -28033,6 +29749,78 @@
   ],
   [
     "Oppo",
+    "A5i Pro",
+    "OP5EEDL1",
+    "CPH2755"
+  ],
+  [
+    "Oppo",
+    "A5i Pro 5G",
+    "OP5EF7L1",
+    "CPH2821"
+  ],
+  [
+    "Oppo",
+    "A5m",
+    "OP5EEDL1",
+    "CPH2759"
+  ],
+  [
+    "Oppo",
+    "A5x",
+    "OP5EEDL1",
+    "CPH2725"
+  ],
+  [
+    "Oppo",
+    "A5x 5G",
+    "OP5EF7L1",
+    "CPH2733"
+  ],
+  [
+    "Oppo",
+    "A6",
+    "OP62A3L1",
+    "CPH2817"
+  ],
+  [
+    "Oppo",
+    "A6 5G",
+    "OP5E1C",
+    "PLS120"
+  ],
+  [
+    "Oppo",
+    "A6 5G",
+    "OP5F2BL1",
+    "CPH2785"
+  ],
+  [
+    "Oppo",
+    "A6 5G",
+    "OP5F2BL1",
+    "CPH2831"
+  ],
+  [
+    "Oppo",
+    "A6 Pro",
+    "OP6285L1",
+    "CPH2799"
+  ],
+  [
+    "Oppo",
+    "A6 Pro 5G",
+    "OP5DE3",
+    "PLN110"
+  ],
+  [
+    "Oppo",
+    "A6 Pro 5G",
+    "OP5F2BL1",
+    "CPH2827"
+  ],
+  [
+    "Oppo",
     "A60",
     "OP5AE7L1",
     "CPH2631"
@@ -28048,6 +29836,90 @@
     "A60 5G",
     "OP5EA7L1",
     "CPH2683"
+  ],
+  [
+    "Oppo",
+    "A6c",
+    "OP61C7L1",
+    "PMC110"
+  ],
+  [
+    "Oppo",
+    "A6c",
+    "OP632F",
+    "CPH2895"
+  ],
+  [
+    "Oppo",
+    "A6k",
+    "OP62A3L1",
+    "CPH2891"
+  ],
+  [
+    "Oppo",
+    "A6s",
+    "OP62A3L1",
+    "CPH2815"
+  ],
+  [
+    "Oppo",
+    "A6s 5G",
+    "OP5F2BL1",
+    "CPH2789"
+  ],
+  [
+    "Oppo",
+    "A6s 5G",
+    "OP5F2BL1",
+    "CPH2889"
+  ],
+  [
+    "Oppo",
+    "A6s Pro 5G",
+    "OP61DFL1",
+    "PMT110"
+  ],
+  [
+    "Oppo",
+    "A6t",
+    "OP62A3L1",
+    "CPH2847"
+  ],
+  [
+    "Oppo",
+    "A6t 5G",
+    "OP5F2BL1",
+    "CPH2853"
+  ],
+  [
+    "Oppo",
+    "A6t Pro",
+    "OP62A3L1",
+    "CPH2849"
+  ],
+  [
+    "Oppo",
+    "A6t Pro 5G",
+    "OP5F2BL1",
+    "CPH2851"
+  ],
+  [
+    "Oppo",
+    "A6x",
+    "OP62A3L1",
+    "CPH2819"
+  ],
+  [
+    "Oppo",
+    "A6x 5G",
+    "OP5F2BL1",
+    "CPH2783"
+  ],
+  [
+    "Oppo",
+    "A6x 5G",
+    "OP5F2BL1",
+    "CPH2823"
   ],
   [
     "Oppo",
@@ -28072,6 +29944,24 @@
     "A7",
     "PBFT00",
     "PBFT00"
+  ],
+  [
+    "Oppo",
+    "A7 Pro 5G",
+    "OP620BL1",
+    "PYE110"
+  ],
+  [
+    "Oppo",
+    "A7 Pro 5G",
+    "OP620BL1",
+    "PYE130"
+  ],
+  [
+    "Oppo",
+    "A7 Pro Max 5G",
+    "OP620DL1",
+    "PYC110"
   ],
   [
     "Oppo",
@@ -28201,13 +30091,13 @@
   ],
   [
     "Oppo",
-    "A7x 中国版",
+    "A7x \u4e2d\u56fd\u7248",
     "PBBM00",
     "PBBM00"
   ],
   [
     "Oppo",
-    "A7x 中国版",
+    "A7x \u4e2d\u56fd\u7248",
     "PBBT00",
     "PBBT00"
   ],
@@ -28243,13 +30133,13 @@
   ],
   [
     "Oppo",
-    "A9 中国版",
+    "A9 \u4e2d\u56fd\u7248",
     "OP46F1",
     "PCAM10"
   ],
   [
     "Oppo",
-    "A9 中国版",
+    "A9 \u4e2d\u56fd\u7248",
     "OP46F1",
     "PCAT10"
   ],
@@ -28327,7 +30217,13 @@
   ],
   [
     "Oppo",
-    "A系列",
+    "A\u7cfb\u5217",
+    "OP5A0D",
+    "PJS110"
+  ],
+  [
+    "Oppo",
+    "A\u7cfb\u5217",
     "OP5A0D",
     "PJU110"
   ],
@@ -28957,6 +30853,36 @@
   ],
   [
     "Oppo",
+    "F29 Pro 5G",
+    "OP5ECFL1",
+    "CPH2705"
+  ],
+  [
+    "Oppo",
+    "F31 Pro 5G",
+    "OP5F19L1",
+    "CPH2763"
+  ],
+  [
+    "Oppo",
+    "F31 Pro+ 5G",
+    "OP5F15L1",
+    "CPH2757"
+  ],
+  [
+    "Oppo",
+    "F33 5G",
+    "OP5E1BL1",
+    "CPH2777"
+  ],
+  [
+    "Oppo",
+    "F33 Pro 5G",
+    "OP62CBL1",
+    "CPH2835"
+  ],
+  [
+    "Oppo",
     "F7",
     "CPH1819",
     "CPH1819"
@@ -29005,7 +30931,7 @@
   ],
   [
     "Oppo",
-    "Find N2 Flip 中国版",
+    "Find N2 Flip \u4e2d\u56fd\u7248",
     "OP5605",
     "PGT110"
   ],
@@ -29035,6 +30961,42 @@
   ],
   [
     "Oppo",
+    "Find N5",
+    "OP5DC1L1",
+    "PKH110"
+  ],
+  [
+    "Oppo",
+    "Find N5",
+    "OP5E89L1",
+    "CPH2671"
+  ],
+  [
+    "Oppo",
+    "Find N5 \u536b\u661f\u901a\u4fe1\u7248",
+    "OP5DC1L1",
+    "PKH120"
+  ],
+  [
+    "Oppo",
+    "Find N6",
+    "OP61A9L1",
+    "PLP110"
+  ],
+  [
+    "Oppo",
+    "Find N6",
+    "OP6271L1",
+    "CPH2765"
+  ],
+  [
+    "Oppo",
+    "Find N6 \u536b\u661f\u901a\u4fe1\u7248",
+    "OP61A9L1",
+    "PLP120"
+  ],
+  [
+    "Oppo",
     "Find X",
     "CPH1871",
     "CPH1871"
@@ -29059,7 +31021,7 @@
   ],
   [
     "Oppo",
-    "Find X 兰博基尼",
+    "Find X \u5170\u535a\u57fa\u5c3c",
     "PAHM00",
     "PAHM00"
   ],
@@ -29095,19 +31057,19 @@
   ],
   [
     "Oppo",
-    "Find X2 Pro 中国版",
+    "Find X2 Pro \u4e2d\u56fd\u7248",
     "OP4A7A",
     "PDEM30"
   ],
   [
     "Oppo",
-    "Find X2 中国版",
+    "Find X2 \u4e2d\u56fd\u7248",
     "OP4A77",
     "PDEM10"
   ],
   [
     "Oppo",
-    "Find X2 中国版",
+    "Find X2 \u4e2d\u56fd\u7248",
     "OP4A77",
     "PDET10"
   ],
@@ -29125,13 +31087,13 @@
   ],
   [
     "Oppo",
-    "Find X3 Pro 中国版",
+    "Find X3 Pro \u4e2d\u56fd\u7248",
     "OP4E3F",
     "PEEM00"
   ],
   [
     "Oppo",
-    "Find X3 中国版",
+    "Find X3 \u4e2d\u56fd\u7248",
     "OP4E5D",
     "PEDM00"
   ],
@@ -29173,7 +31135,7 @@
   ],
   [
     "Oppo",
-    "Find X7 Ultra 卫星通信版",
+    "Find X7 Ultra \u536b\u661f\u901a\u4fe1\u7248",
     "OP5660L1",
     "PHY120"
   ],
@@ -29203,9 +31165,99 @@
   ],
   [
     "Oppo",
-    "Find X8 Pro 卫星通信版",
+    "Find X8 Pro \u536b\u661f\u901a\u4fe1\u7248",
     "OP5A41L1",
     "PKC130"
+  ],
+  [
+    "Oppo",
+    "Find X8 Ultra",
+    "OP5DD3L1",
+    "PKJ110"
+  ],
+  [
+    "Oppo",
+    "Find X8 Ultra \u536b\u661f\u901a\u4fe1\u7248",
+    "OP5DD2L1",
+    "PKU110"
+  ],
+  [
+    "Oppo",
+    "Find X8s",
+    "OP5DCBL1",
+    "PKT110"
+  ],
+  [
+    "Oppo",
+    "Find X8s+",
+    "OP5DCDL1",
+    "PLB110"
+  ],
+  [
+    "Oppo",
+    "Find X9",
+    "OP5E17L1",
+    "PLJ110"
+  ],
+  [
+    "Oppo",
+    "Find X9",
+    "OP5E8BL1",
+    "CPH2797"
+  ],
+  [
+    "Oppo",
+    "Find X9",
+    "OP5E8BL1",
+    "OPG07"
+  ],
+  [
+    "Oppo",
+    "Find X9 Pro",
+    "OP5E11L1",
+    "PLG110"
+  ],
+  [
+    "Oppo",
+    "Find X9 Pro",
+    "OP5E8EL1",
+    "CPH2791"
+  ],
+  [
+    "Oppo",
+    "Find X9 Pro \u536b\u661f\u901a\u4fe1\u7248",
+    "OP5E11L1",
+    "PLG120"
+  ],
+  [
+    "Oppo",
+    "Find X9 Ultra",
+    "OP61BDL1",
+    "PMA110"
+  ],
+  [
+    "Oppo",
+    "Find X9 Ultra",
+    "OP627CL1",
+    "CPH2841"
+  ],
+  [
+    "Oppo",
+    "Find X9 Ultra \u536b\u661f\u901a\u4fe1\u7248",
+    "OP61BDL1",
+    "PMA120"
+  ],
+  [
+    "Oppo",
+    "Find X9s",
+    "OP6275L1",
+    "CPH2873"
+  ],
+  [
+    "Oppo",
+    "Find X9s Pro",
+    "OP61C1L1",
+    "PME110"
   ],
   [
     "Oppo",
@@ -29239,6 +31291,12 @@
   ],
   [
     "Oppo",
+    "K12s 5G",
+    "OP5E01L1",
+    "PLD110"
+  ],
+  [
+    "Oppo",
     "K12x 5G",
     "OP5A1F",
     "PJT110"
@@ -29248,6 +31306,72 @@
     "K12x 5G",
     "OP5B05L1",
     "CPH2667"
+  ],
+  [
+    "Oppo",
+    "K13 5G",
+    "OP5EE3L1",
+    "CPH2729"
+  ],
+  [
+    "Oppo",
+    "K13 Turbo 5G",
+    "OP5E05L1",
+    "PLM110"
+  ],
+  [
+    "Oppo",
+    "K13 Turbo 5G",
+    "OP5EE9L1",
+    "CPH2761"
+  ],
+  [
+    "Oppo",
+    "K13 Turbo Pro 5G",
+    "OP5E03L1",
+    "PLE110"
+  ],
+  [
+    "Oppo",
+    "K13 Turbo Pro 5G",
+    "OP5EE7L1",
+    "CPH2731"
+  ],
+  [
+    "Oppo",
+    "K13x 5G",
+    "OP5EF7L1",
+    "CPH2753"
+  ],
+  [
+    "Oppo",
+    "K14 5G",
+    "OP5F2BL1",
+    "CPH2869"
+  ],
+  [
+    "Oppo",
+    "K14 Lite",
+    "OP632F",
+    "CPH3007"
+  ],
+  [
+    "Oppo",
+    "K14x 5G",
+    "OP5F2BL1",
+    "CPH2871"
+  ],
+  [
+    "Oppo",
+    "K15 Pro",
+    "OP61E9L1",
+    "PMH110"
+  ],
+  [
+    "Oppo",
+    "K15 Pro+",
+    "OP61E5L1",
+    "PMG110"
   ],
   [
     "Oppo",
@@ -29275,7 +31399,7 @@
   ],
   [
     "Oppo",
-    "K7x 中国版",
+    "K7x \u4e2d\u56fd\u7248",
     "OP4E7F",
     "PERM00"
   ],
@@ -29365,6 +31489,12 @@
   ],
   [
     "Oppo",
+    "OPPO A3 Pro 5G/OPPO A5 Plus 5G",
+    "OP59FB",
+    "PJY110"
+  ],
+  [
+    "Oppo",
     "OPPO A33",
     "OP4EEA",
     "CPH2137"
@@ -29380,6 +31510,12 @@
     "OPPO A38",
     "OP5759L1",
     "CPH2579"
+  ],
+  [
+    "Oppo",
+    "OPPO A5 5G",
+    "OP5DF7",
+    "PKQ110"
   ],
   [
     "Oppo",
@@ -29413,9 +31549,33 @@
   ],
   [
     "Oppo",
+    "OPPO A5i",
+    "OP5B16L1",
+    "CPH2773"
+  ],
+  [
+    "Oppo",
+    "OPPO A5x 5G",
+    "OP5DF5L1",
+    "PKW110"
+  ],
+  [
+    "Oppo",
+    "OPPO A6 Pro 5G",
+    "OP5E1BL1",
+    "CPH2781"
+  ],
+  [
+    "Oppo",
     "OPPO A60 5G/ A3 5G",
     "OP5EA7L1",
     "CPH2683"
+  ],
+  [
+    "Oppo",
+    "OPPO A6i 5G",
+    "OP5DF5L1",
+    "PKW120"
   ],
   [
     "Oppo",
@@ -29443,6 +31603,18 @@
   ],
   [
     "Oppo",
+    "OPPO F29 5G",
+    "OP5ED7L1",
+    "CPH2721"
+  ],
+  [
+    "Oppo",
+    "OPPO F31 5G",
+    "OP5E1BL1",
+    "CPH2781"
+  ],
+  [
+    "Oppo",
     "OPPO K11 5G",
     "OP591D",
     "PJC110"
@@ -29452,6 +31624,12 @@
     "OPPO K11x 5G",
     "OP5925",
     "PHF110"
+  ],
+  [
+    "Oppo",
+    "OPPO K15",
+    "OP61FDL1",
+    "PYD110"
   ],
   [
     "Oppo",
@@ -29473,9 +31651,39 @@
   ],
   [
     "Oppo",
+    "OPPO Pad 3",
+    "OP6159L1",
+    "OPD2405"
+  ],
+  [
+    "Oppo",
+    "OPPO Pad 3",
+    "OP618BL1",
+    "OPD2406"
+  ],
+  [
+    "Oppo",
     "OPPO Pad 3 Pro",
     "OP5D76L1",
     "OPD2401"
+  ],
+  [
+    "Oppo",
+    "OPPO Pad 3 Pro",
+    "OP5DA8L1",
+    "OPD2402"
+  ],
+  [
+    "Oppo",
+    "OPPO Pad 5",
+    "OP6542L1",
+    "OPD2506"
+  ],
+  [
+    "Oppo",
+    "OPPO Pad 6",
+    "OP6929L1",
+    "OPD2601"
   ],
   [
     "Oppo",
@@ -29638,6 +31846,30 @@
     "OPPO Watch X",
     "OWWE231",
     "OWWE231"
+  ],
+  [
+    "Oppo",
+    "OPPO Watch X2",
+    "OWWE251",
+    "OWWE251"
+  ],
+  [
+    "Oppo",
+    "OPPO Watch X2 Mini",
+    "OWWE242",
+    "OWWE242"
+  ],
+  [
+    "Oppo",
+    "OPPO Watch X3",
+    "OWWE261",
+    "OWWE261"
+  ],
+  [
+    "Oppo",
+    "OnePlus Watch 3 43mm",
+    "OPWE242",
+    "OPWE242"
   ],
   [
     "Oppo",
@@ -29839,6 +32071,102 @@
   ],
   [
     "Oppo",
+    "PLL110",
+    "OP5DE2L1",
+    "PLL110"
+  ],
+  [
+    "Oppo",
+    "PLT120",
+    "OP5E1EL1",
+    "PLT120"
+  ],
+  [
+    "Oppo",
+    "PLT130",
+    "OP5E1EL1",
+    "PLT130"
+  ],
+  [
+    "Oppo",
+    "PLT140",
+    "OP5E1EL1",
+    "PLT140"
+  ],
+  [
+    "Oppo",
+    "PLT150",
+    "OP5E1EL1",
+    "PLT150"
+  ],
+  [
+    "Oppo",
+    "PMM110",
+    "OP61F3L1",
+    "PMM110"
+  ],
+  [
+    "Oppo",
+    "Pad 4 Pro",
+    "OP615CL1",
+    "OPD2409"
+  ],
+  [
+    "Oppo",
+    "Pad 5",
+    "OP6573L1",
+    "OPD2502"
+  ],
+  [
+    "Oppo",
+    "Pad 5",
+    "OP6573L1",
+    "OPD2503"
+  ],
+  [
+    "Oppo",
+    "Pad 5 Pro",
+    "OP6546L1",
+    "OPD2511"
+  ],
+  [
+    "Oppo",
+    "Pad Air5",
+    "OP6541L1",
+    "OPD2501"
+  ],
+  [
+    "Oppo",
+    "Pad Air5",
+    "OP6541L1",
+    "OPD2510"
+  ],
+  [
+    "Oppo",
+    "Pad Mini",
+    "OP6548L1",
+    "OPD2515"
+  ],
+  [
+    "Oppo",
+    "Pad SE",
+    "OP6160L1",
+    "OPD2417"
+  ],
+  [
+    "Oppo",
+    "Pad SE",
+    "OP6192L1",
+    "OPD2419"
+  ],
+  [
+    "Oppo",
+    "Pad SE",
+    "OP6193L1",
+    "OPD2420"
+  ],
+  [
+    "Oppo",
     "R1001",
     "OPPO72_13076",
     "R1001"
@@ -29947,25 +32275,25 @@
   ],
   [
     "Oppo",
-    "R15 中国版",
+    "R15 \u4e2d\u56fd\u7248",
     "PACM00",
     "PACM00"
   ],
   [
     "Oppo",
-    "R15 中国版",
+    "R15 \u4e2d\u56fd\u7248",
     "PACT00",
     "PACT00"
   ],
   [
     "Oppo",
-    "R15 梦境版",
+    "R15 \u68a6\u5883\u7248",
     "PAAM00",
     "PAAM00"
   ],
   [
     "Oppo",
-    "R15 梦境版",
+    "R15 \u68a6\u5883\u7248",
     "PAAT00",
     "PAAT00"
   ],
@@ -30643,13 +32971,13 @@
   ],
   [
     "Oppo",
-    "Reno 10倍变焦版",
+    "Reno 10\u500d\u53d8\u7126\u7248",
     "OP46C3",
     "PCCM00"
   ],
   [
     "Oppo",
-    "Reno 10倍变焦版",
+    "Reno 10\u500d\u53d8\u7126\u7248",
     "OP46C3",
     "PCCT00"
   ],
@@ -30673,7 +33001,7 @@
   ],
   [
     "Oppo",
-    "Reno 2 中国版",
+    "Reno 2 \u4e2d\u56fd\u7248",
     "OP4A57",
     "PCKM00"
   ],
@@ -30715,25 +33043,25 @@
   ],
   [
     "Oppo",
-    "Reno Z 中国版",
+    "Reno Z \u4e2d\u56fd\u7248",
     "OP4699",
     "PCDM10"
   ],
   [
     "Oppo",
-    "Reno Z 中国版",
+    "Reno Z \u4e2d\u56fd\u7248",
     "OP4699",
     "PCDT10"
   ],
   [
     "Oppo",
-    "Reno 标准版",
+    "Reno \u6807\u51c6\u7248",
     "OP46B1",
     "PCAM00"
   ],
   [
     "Oppo",
-    "Reno 标准版",
+    "Reno \u6807\u51c6\u7248",
     "OP46B1",
     "PCAT00"
   ],
@@ -30853,9 +33181,33 @@
   ],
   [
     "Oppo",
+    "Reno13 A",
+    "OP5EC7L1",
+    "A501OP"
+  ],
+  [
+    "Oppo",
+    "Reno13 A",
+    "OP5EC7L1",
+    "OPG05"
+  ],
+  [
+    "Oppo",
     "Reno13 F",
     "OP5ECBL1",
     "CPH2701"
+  ],
+  [
+    "Oppo",
+    "Reno13 F 5G",
+    "OP5EC7L1",
+    "CPH2699"
+  ],
+  [
+    "Oppo",
+    "Reno13 F 5G / Reno13 A",
+    "OP5EC7L1",
+    "CPH2699"
   ],
   [
     "Oppo",
@@ -30871,6 +33223,168 @@
   ],
   [
     "Oppo",
+    "Reno14",
+    "OP5E0BL1",
+    "PLA110"
+  ],
+  [
+    "Oppo",
+    "Reno14 5G",
+    "OP5F02L1",
+    "CPH2737"
+  ],
+  [
+    "Oppo",
+    "Reno14 F 5G",
+    "OP5F0FL1",
+    "CPH2743"
+  ],
+  [
+    "Oppo",
+    "Reno14 F 5G/Reno14 FS 5G",
+    "OP5F0FL1",
+    "CPH2743"
+  ],
+  [
+    "Oppo",
+    "Reno14 Pro",
+    "OP5E07L1",
+    "PKZ110"
+  ],
+  [
+    "Oppo",
+    "Reno14 Pro 5G",
+    "OP5F05L1",
+    "CPH2739"
+  ],
+  [
+    "Oppo",
+    "Reno15",
+    "OP61B7L1",
+    "PLW110"
+  ],
+  [
+    "Oppo",
+    "Reno15 5G",
+    "OP62B1L1",
+    "CPH2825"
+  ],
+  [
+    "Oppo",
+    "Reno15 A",
+    "OP628FL1",
+    "A601OP"
+  ],
+  [
+    "Oppo",
+    "Reno15 A",
+    "OP628FL1",
+    "OPG08"
+  ],
+  [
+    "Oppo",
+    "Reno15 C 5G",
+    "OP628FL1",
+    "CPH2801"
+  ],
+  [
+    "Oppo",
+    "Reno15 F 5G",
+    "OP628FL1",
+    "CPH2801"
+  ],
+  [
+    "Oppo",
+    "Reno15 F 5G/Reno15 A",
+    "OP628FL1",
+    "CPH2801"
+  ],
+  [
+    "Oppo",
+    "Reno15 FS 5G/Reno15 F 5G",
+    "OP628FL1",
+    "CPH2801"
+  ],
+  [
+    "Oppo",
+    "Reno15 Pro",
+    "OP61B3L1",
+    "PLV110"
+  ],
+  [
+    "Oppo",
+    "Reno15 Pro 5G",
+    "OP6293L1",
+    "CPH2811"
+  ],
+  [
+    "Oppo",
+    "Reno15 Pro 5G",
+    "OP629AL1",
+    "CPH2813"
+  ],
+  [
+    "Oppo",
+    "Reno15 Pro Max 5G",
+    "OP6293L1",
+    "CPH2811"
+  ],
+  [
+    "Oppo",
+    "Reno15 Pro Mini 5G",
+    "OP629AL1",
+    "CPH2813"
+  ],
+  [
+    "Oppo",
+    "Reno15c",
+    "OP61BBL1",
+    "PMD110"
+  ],
+  [
+    "Oppo",
+    "Reno16 5G",
+    "OP6307L1",
+    "CPH2865"
+  ],
+  [
+    "Oppo",
+    "Reno16 F 5G",
+    "OP62F3L1",
+    "CPH2859"
+  ],
+  [
+    "Oppo",
+    "Reno16 F 5G",
+    "OP62F3L1",
+    "CPH2967"
+  ],
+  [
+    "Oppo",
+    "Reno16 FS 5G/Reno16 F 5G",
+    "OP62F3L1",
+    "CPH2859"
+  ],
+  [
+    "Oppo",
+    "Reno16 Pro",
+    "OP61EFL1",
+    "PMK110"
+  ],
+  [
+    "Oppo",
+    "Reno16 Pro 5G",
+    "OP62FDL1",
+    "CPH2863"
+  ],
+  [
+    "Oppo",
+    "Reno16c 5G",
+    "OP62F3L1",
+    "CPH2859"
+  ],
+  [
+    "Oppo",
     "Reno2 Z",
     "OP4B65L1",
     "CPH1945"
@@ -30883,7 +33397,7 @@
   ],
   [
     "Oppo",
-    "Reno2 Z 中国版",
+    "Reno2 Z \u4e2d\u56fd\u7248",
     "OP4A43",
     "PCKM80"
   ],
@@ -30901,7 +33415,7 @@
   ],
   [
     "Oppo",
-    "Reno3 5G 中国版",
+    "Reno3 5G \u4e2d\u56fd\u7248",
     "OP4ADD",
     "PDCM00"
   ],
@@ -30943,13 +33457,13 @@
   ],
   [
     "Oppo",
-    "Reno3 Pro 5G中国版",
+    "Reno3 Pro 5G\u4e2d\u56fd\u7248",
     "OP4A9D",
     "PCRM00"
   ],
   [
     "Oppo",
-    "Reno3 元气版 5G",
+    "Reno3 \u5143\u6c14\u7248 5G",
     "OP4AB5",
     "PCLM50"
   ],
@@ -30991,19 +33505,19 @@
   ],
   [
     "Oppo",
-    "Reno4 Pro 中国版",
+    "Reno4 Pro \u4e2d\u56fd\u7248",
     "OP4AF7",
     "PDNM00"
   ],
   [
     "Oppo",
-    "Reno4 中国版",
+    "Reno4 \u4e2d\u56fd\u7248",
     "OP4A47",
     "PDPM00"
   ],
   [
     "Oppo",
-    "Reno4 中国版",
+    "Reno4 \u4e2d\u56fd\u7248",
     "OP4A47",
     "PDPT00"
   ],
@@ -31051,7 +33565,7 @@
   ],
   [
     "Oppo",
-    "Reno7 中国版",
+    "Reno7 \u4e2d\u56fd\u7248",
     "OP5227",
     "PFJM10"
   ],
@@ -31291,6 +33805,12 @@
   ],
   [
     "Oppo",
+    "realme C51",
+    "RE58BC",
+    "RMX3830"
+  ],
+  [
+    "Oppo",
     "realme U1",
     "RMX1831",
     "RMX1831"
@@ -31513,7 +34033,7 @@
   ],
   [
     "Realme",
-    "realme 8Pro\t",
+    "realme 8Pro",
     "RMX3081L1",
     "RMX3081"
   ],
@@ -31663,7 +34183,7 @@
   ],
   [
     "Realme",
-    "realme GT Master Edition\t",
+    "realme GT Master Edition",
     "RE54ABL1",
     "RMX3363"
   ],
@@ -31885,43 +34405,43 @@
   ],
   [
     "Realme",
-    "realme 7i",
+    "realme\u00a07i",
     "RE50C1",
     "RMX2103"
   ],
   [
     "Realme",
-    "realme 7i",
+    "realme\u00a07i",
     "RE50C1",
     "RMX2104"
   ],
   [
     "Realme",
-    "真我 X7 pro至尊版",
+    "\u771f\u6211 X7 pro\u81f3\u5c0a\u7248",
     "RMX3116CN",
     "RMX3116"
   ],
   [
     "Realme",
-    "真我GT",
+    "\u771f\u6211GT",
     "RMX2202CN",
     "RMX2202"
   ],
   [
     "Realme",
-    "真我GT Neo 闪速版",
+    "\u771f\u6211GT Neo \u95ea\u901f\u7248",
     "RE5469",
     "RMX3350"
   ],
   [
     "Realme",
-    "真我GT Neo2T\t",
+    "\u771f\u6211GT Neo2T",
     "RE5469",
     "RMX3357"
   ],
   [
     "Realme",
-    "真我V11s 5G",
+    "\u771f\u6211V11s 5G",
     "RE5485",
     "RMX3125"
   ],
@@ -32209,12 +34729,6 @@
   ],
   [
     "Samsung",
-    "\t Galaxy A7(2016)",
-    "a7xltechn",
-    "SM-A710XZ"
-  ],
-  [
-    "Samsung",
     "Absolute",
     "GT-B9120",
     "GT-B9120"
@@ -32270,6 +34784,12 @@
   [
     "Samsung",
     "Chromebook Plus",
+    "",
+    ""
+  ],
+  [
+    "Samsung",
+    "Chromebook Plus",
     "kevin_cheets",
     "Samsung Chromebook Plus"
   ],
@@ -32290,6 +34810,12 @@
     "Chromebook Plus (V2)",
     "nautilus_cheets",
     "nautilus"
+  ],
+  [
+    "Samsung",
+    "Chromebook Pro",
+    "",
+    ""
   ],
   [
     "Samsung",
@@ -32707,6 +35233,78 @@
   ],
   [
     "Samsung",
+    "Galaxy A06 5G",
+    "a06x",
+    "SM-A066B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A06 5G",
+    "a06x",
+    "SM-A066E"
+  ],
+  [
+    "Samsung",
+    "Galaxy A06 5G",
+    "a06x",
+    "SM-A066M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07",
+    "a07",
+    "SM-A075F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07",
+    "a07",
+    "SM-A075M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07 5G",
+    "a07x",
+    "SM-A076B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07 5G",
+    "a07x",
+    "SM-A076E"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07 5G",
+    "a07x",
+    "SM-A076M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07s",
+    "a07ve",
+    "SM-A077F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A07s",
+    "a07ve",
+    "SM-A077M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A08",
+    "a08",
+    "SM-A085F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A08",
+    "a08",
+    "SM-A085M"
+  ],
+  [
+    "Samsung",
     "Galaxy A10",
     "a10",
     "SM-A105F"
@@ -33117,6 +35715,12 @@
     "Samsung",
     "Galaxy A16",
     "a16",
+    "SM-A165M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A16",
+    "a16",
     "SM-A165N"
   ],
   [
@@ -33172,6 +35776,72 @@
     "Galaxy A16 5G",
     "a16xm",
     "SM-A166P"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17",
+    "a17",
+    "SM-A175F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17",
+    "a17",
+    "SM-A175N"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-A1760"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-A176B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-A176U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-A176U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-A176W"
+  ],
+  [
+    "Samsung",
+    "Galaxy A17 5G",
+    "a17x",
+    "SM-S176V"
+  ],
+  [
+    "Samsung",
+    "Galaxy A18",
+    "a18",
+    "SM-A185F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A18",
+    "a18",
+    "SM-A185N"
+  ],
+  [
+    "Samsung",
+    "Galaxy A18",
+    "a18m",
+    "SM-A185G"
   ],
   [
     "Samsung",
@@ -33488,6 +36158,36 @@
   [
     "Samsung",
     "Galaxy A25 5G",
+    "SC-53F",
+    "SC-53F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A25 5G",
+    "SCG33",
+    "SCG33"
+  ],
+  [
+    "Samsung",
+    "Galaxy A25 5G",
+    "a25ex",
+    "SM-A253C"
+  ],
+  [
+    "Samsung",
+    "Galaxy A25 5G",
+    "a25ex",
+    "SM-A253Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy A25 5G",
+    "a25ex",
+    "SM-A253Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy A25 5G",
     "a25x",
     "SM-A2560"
   ],
@@ -33526,6 +36226,66 @@
     "Galaxy A25 5G",
     "a25x",
     "SM-S256VL"
+  ],
+  [
+    "Samsung",
+    "Galaxy A26 5G",
+    "a26x",
+    "SM-A266B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A26 5G",
+    "a26x",
+    "SM-A266U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A26 5G",
+    "a26x",
+    "SM-A266U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A26 5G",
+    "a26x",
+    "SM-S266V"
+  ],
+  [
+    "Samsung",
+    "Galaxy A26 5G",
+    "a26xs",
+    "SM-A266M"
+  ],
+  [
+    "Samsung",
+    "Galaxy A27 5G",
+    "a27xq",
+    "SM-A2760"
+  ],
+  [
+    "Samsung",
+    "Galaxy A27 5G",
+    "a27xq",
+    "SM-A276B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A27 5G",
+    "a27xq",
+    "SM-A276U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A27 5G",
+    "a27xq",
+    "SM-A276U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A27 5G",
+    "a27xq",
+    "SM-S276V"
   ],
   [
     "Samsung",
@@ -33946,6 +36706,108 @@
     "Galaxy A35 5G",
     "a35x",
     "SM-S356V"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "SC-54F",
+    "SC-54F"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A3660"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366E"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366N"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-A366W"
+  ],
+  [
+    "Samsung",
+    "Galaxy A36 5G",
+    "a36xq",
+    "SM-S366V"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A3760"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A376B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A376E"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A376U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A376U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-A376W"
+  ],
+  [
+    "Samsung",
+    "Galaxy A37 5G",
+    "a37x",
+    "SM-S376V"
   ],
   [
     "Samsung",
@@ -34645,6 +37507,84 @@
   ],
   [
     "Samsung",
+    "Galaxy A56 5G",
+    "a56x",
+    "SM-A5660"
+  ],
+  [
+    "Samsung",
+    "Galaxy A56 5G",
+    "a56x",
+    "SM-A566B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A56 5G",
+    "a56x",
+    "SM-A566E"
+  ],
+  [
+    "Samsung",
+    "Galaxy A56 5G",
+    "a56x",
+    "SM-A566U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A56 5G",
+    "a56x",
+    "SM-A566W"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "SC-54G",
+    "SC-54G"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A5760"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576B"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576U"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576W"
+  ],
+  [
+    "Samsung",
+    "Galaxy A57 5G",
+    "a57x",
+    "SM-A576Z"
+  ],
+  [
+    "Samsung",
     "Galaxy A6",
     "a6elteaio",
     "SM-A600AZ"
@@ -34900,6 +37840,12 @@
     "Galaxy A7(2016)",
     "a7xltechn",
     "SM-A7100"
+  ],
+  [
+    "Samsung",
+    "Galaxy A7(2016)",
+    "a7xltechn",
+    "SM-A710XZ"
   ],
   [
     "Samsung",
@@ -35917,6 +38863,18 @@
   ],
   [
     "Samsung",
+    "Galaxy Buddy4",
+    "a16x",
+    "SM-A166L"
+  ],
+  [
+    "Samsung",
+    "Galaxy Buddy5",
+    "a17x",
+    "SM-A176L"
+  ],
+  [
+    "Samsung",
     "Galaxy C5",
     "c5ltechn",
     "SM-C5000"
@@ -36637,6 +39595,24 @@
   ],
   [
     "Samsung",
+    "Galaxy F06 5G",
+    "a06x",
+    "SM-E066B"
+  ],
+  [
+    "Samsung",
+    "Galaxy F07",
+    "a07",
+    "SM-E075F"
+  ],
+  [
+    "Samsung",
+    "Galaxy F08",
+    "a08",
+    "SM-E085F"
+  ],
+  [
+    "Samsung",
     "Galaxy F12",
     "f12",
     "SM-F127G"
@@ -36667,6 +39643,18 @@
   ],
   [
     "Samsung",
+    "Galaxy F16 5G",
+    "m16xm",
+    "SM-E166P"
+  ],
+  [
+    "Samsung",
+    "Galaxy F17 5G",
+    "a17x",
+    "SM-E176B"
+  ],
+  [
+    "Samsung",
     "Galaxy F22",
     "f22",
     "SM-E225F"
@@ -36682,6 +39670,12 @@
     "Galaxy F34 5G",
     "m34x",
     "SM-E346B"
+  ],
+  [
+    "Samsung",
+    "Galaxy F36 5G",
+    "m36x",
+    "SM-E366B"
   ],
   [
     "Samsung",
@@ -36715,9 +39709,21 @@
   ],
   [
     "Samsung",
+    "Galaxy F56 5G",
+    "m56x",
+    "SM-E566B"
+  ],
+  [
+    "Samsung",
     "Galaxy F62",
     "f62",
     "SM-E625F"
+  ],
+  [
+    "Samsung",
+    "Galaxy F70e 5G",
+    "a07x",
+    "SM-E076B"
   ],
   [
     "Samsung",
@@ -38071,7 +41077,7 @@
   ],
   [
     "Samsung",
-    "Galaxy J3 Pro 增强版",
+    "Galaxy J3 Pro \u589e\u5f3a\u7248",
     "j3xpro6mltechn",
     "SM-J3119S"
   ],
@@ -38534,6 +41540,12 @@
   [
     "Samsung",
     "Galaxy J7",
+    "",
+    ""
+  ],
+  [
+    "Samsung",
+    "Galaxy J7",
     "j75ltektt",
     "SM-J700K"
   ],
@@ -38911,6 +41923,18 @@
   ],
   [
     "Samsung",
+    "Galaxy Jump4",
+    "m36x",
+    "SM-M366K"
+  ],
+  [
+    "Samsung",
+    "Galaxy Jump5",
+    "a27xq",
+    "SM-A276K"
+  ],
+  [
+    "Samsung",
     "Galaxy K",
     "SHW-M130K",
     "SHW-M130K"
@@ -39037,6 +42061,24 @@
   ],
   [
     "Samsung",
+    "Galaxy M06 5G",
+    "a06x",
+    "SM-M066B"
+  ],
+  [
+    "Samsung",
+    "Galaxy M07",
+    "a07",
+    "SM-M075F"
+  ],
+  [
+    "Samsung",
+    "Galaxy M08",
+    "a08",
+    "SM-M085F"
+  ],
+  [
+    "Samsung",
     "Galaxy M10",
     "m10lte",
     "SM-M105F"
@@ -39136,6 +42178,24 @@
     "Galaxy M15 5G",
     "m15x",
     "SM-M156B"
+  ],
+  [
+    "Samsung",
+    "Galaxy M16 5G",
+    "m16xm",
+    "SM-M166P"
+  ],
+  [
+    "Samsung",
+    "Galaxy M17 5G",
+    "a17x",
+    "SM-M176B"
+  ],
+  [
+    "Samsung",
+    "Galaxy M17e 5G",
+    "a07x",
+    "SM-M076B"
   ],
   [
     "Samsung",
@@ -39295,6 +42355,12 @@
   ],
   [
     "Samsung",
+    "Galaxy M36 5G",
+    "m36x",
+    "SM-M366B"
+  ],
+  [
+    "Samsung",
     "Galaxy M40",
     "m40",
     "SM-M405F"
@@ -39352,6 +42418,12 @@
     "Galaxy M55s 5G",
     "m55xq",
     "SM-M558B"
+  ],
+  [
+    "Samsung",
+    "Galaxy M56 5G",
+    "m56x",
+    "SM-M566B"
   ],
   [
     "Samsung",
@@ -39862,6 +42934,12 @@
     "Galaxy Note 10.1",
     "p4notewifiww",
     "GT-N8010"
+  ],
+  [
+    "Samsung",
+    "Galaxy Note 10.1 2014 Edition",
+    "",
+    ""
   ],
   [
     "Samsung",
@@ -41257,19 +44335,19 @@
   ],
   [
     "Samsung",
-    "Galaxy On5 2016 时尚版",
+    "Galaxy On5 2016 \u65f6\u5c1a\u7248",
     "on5xfltechn",
     "SM-G5520"
   ],
   [
     "Samsung",
-    "Galaxy On5 2016 时尚版",
+    "Galaxy On5 2016 \u65f6\u5c1a\u7248",
     "on5xfltechn",
     "SM-G5528"
   ],
   [
     "Samsung",
-    "Galaxy On5 2016 青春版",
+    "Galaxy On5 2016 \u9752\u6625\u7248",
     "on5xlltechn",
     "SM-G5510"
   ],
@@ -41719,6 +44797,18 @@
   ],
   [
     "Samsung",
+    "Galaxy Quantum6",
+    "a56x",
+    "SM-A566S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Quantum7",
+    "a57x",
+    "SM-A576S"
+  ],
+  [
+    "Samsung",
     "Galaxy R-Style",
     "jaguark",
     "SHV-E170K"
@@ -42043,7 +45133,7 @@
   ],
   [
     "Samsung",
-    "Galaxy S 轻奢版",
+    "Galaxy S \u8f7b\u5962\u7248",
     "dreamliteqltechn",
     "SM-G8750"
   ],
@@ -42861,6 +45951,12 @@
     "Samsung",
     "Galaxy S21+ 5G",
     "t2q",
+    "SM-G996U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S21+ 5G",
+    "t2q",
     "SM-G996U1"
   ],
   [
@@ -43239,6 +46335,12 @@
     "Samsung",
     "Galaxy S24",
     "e1q",
+    "SM-S921E"
+  ],
+  [
+    "Samsung",
+    "Galaxy S24",
+    "e1q",
     "SM-S921Q"
   ],
   [
@@ -43408,6 +46510,456 @@
     "Galaxy S24+",
     "e2s",
     "SM-S926N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "SC-51F",
+    "SC-51F"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "SCG31",
+    "SCG31"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S9310"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25",
+    "pa1q",
+    "SM-S931Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S9370"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S937B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S937N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S937U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S937U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Edge",
+    "psq",
+    "SM-S937W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 FE",
+    "r13s",
+    "SM-S731B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 FE",
+    "r13s",
+    "SM-S731N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 FE",
+    "r13s",
+    "SM-S731U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 FE",
+    "r13s",
+    "SM-S731U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 FE",
+    "r13s",
+    "SM-S731W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "SC-52F",
+    "SC-52F"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "SCG32",
+    "SCG32"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S9380"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25 Ultra",
+    "pa3q",
+    "SM-S938Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S9360"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S936B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S936N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S936U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S936U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S25+",
+    "pa2q",
+    "SM-S936W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SC-51G"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SCG36"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S9420"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942C"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1q",
+    "SM-S942Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1s",
+    "SM-S942B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26",
+    "m1s",
+    "SM-S942N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 FE",
+    "r14s",
+    "SM-S741B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 FE",
+    "r14s",
+    "SM-S741N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 FE",
+    "r14s",
+    "SM-S741U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 FE",
+    "r14s",
+    "SM-S741U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 FE",
+    "r14s",
+    "SM-S741W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SC-53G"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SCG37"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S9480"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948C"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948N"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26 Ultra",
+    "m3q",
+    "SM-S948Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SC-52G"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SCG38"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S9470"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947C"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947U"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947W"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2q",
+    "SM-S947Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2s",
+    "SM-S947B"
+  ],
+  [
+    "Samsung",
+    "Galaxy S26+",
+    "m2s",
+    "SM-S947N"
   ],
   [
     "Samsung",
@@ -46297,6 +49849,78 @@
   ],
   [
     "Samsung",
+    "Galaxy Tab A11",
+    "gta11",
+    "SM-X135F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11",
+    "gta11",
+    "SM-X135G"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11",
+    "gta11",
+    "SM-X135N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11",
+    "gta11wifi",
+    "SM-X130"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11",
+    "gta11wifi",
+    "SM-X133"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+",
+    "gta11pwifi",
+    "SM-X230"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X236B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X236C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X236N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X238Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X238U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A11+ 5G",
+    "gta11p",
+    "SM-X238U1"
+  ],
+  [
+    "Samsung",
     "Galaxy Tab A6",
     "gtexswifi",
     "SM-T280"
@@ -46430,6 +50054,12 @@
   [
     "Samsung",
     "Galaxy Tab A9",
+    "gta9",
+    "SM-X117U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A9",
     "gta9wifi",
     "SM-X110"
   ],
@@ -46438,6 +50068,12 @@
     "Galaxy Tab A9+",
     "gta9pwifi",
     "SM-X210"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A9+",
+    "gta9pwifi",
+    "SM-X210R"
   ],
   [
     "Samsung",
@@ -46456,6 +50092,12 @@
     "Galaxy Tab A9+ 5G",
     "gta9p",
     "SM-X216N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab A9+ 5G",
+    "gta9p",
+    "SM-X216R"
   ],
   [
     "Samsung",
@@ -46612,6 +50254,30 @@
     "Galaxy Tab Active5 5G",
     "gtactive5",
     "SM-X308U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab Active5 Pro",
+    "gtact5prowifi",
+    "SM-X350"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab Active5 Pro 5G",
+    "gtact5pro",
+    "SM-X356B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab Active5 Pro 5G",
+    "gtact5pro",
+    "SM-X356N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab Active5 Pro 5G",
+    "gtact5pro",
+    "SM-X358U"
   ],
   [
     "Samsung",
@@ -46861,6 +50527,84 @@
   ],
   [
     "Samsung",
+    "Galaxy Tab S10 FE",
+    "gts10fewifi",
+    "SM-X520"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE 5G",
+    "gts10fe",
+    "SM-X526B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE 5G",
+    "gts10fe",
+    "SM-X526C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE 5G",
+    "gts10fe",
+    "SM-X526E"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE 5G",
+    "gts10fe",
+    "SM-X526N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE 5G",
+    "gts10fe",
+    "SM-X528U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE+",
+    "gts10fepwifi",
+    "SM-X620"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE+ 5G",
+    "gts10fep",
+    "SM-X626B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE+ 5G",
+    "gts10fep",
+    "SM-X626C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 FE+ 5G",
+    "gts10fep",
+    "SM-X626N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 Lite",
+    "gts10litewifi",
+    "SM-X400"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 Lite 5G",
+    "gts10lite",
+    "SM-X406B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S10 Lite 5G",
+    "gts10lite",
+    "SM-X406N"
+  ],
+  [
+    "Samsung",
     "Galaxy Tab S10 Ultra",
     "gts10uwifi",
     "SM-X920"
@@ -46906,6 +50650,102 @@
     "Galaxy Tab S10+ 5G",
     "gts10p",
     "SM-X828U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11",
+    "gts11wifi",
+    "SM-X730"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 5G",
+    "gts11",
+    "SM-X736B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 5G",
+    "gts11",
+    "SM-X736C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 5G",
+    "gts11",
+    "SM-X736N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 Ultra",
+    "gts11uwifi",
+    "SM-X930"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 Ultra 5G",
+    "gts11u",
+    "SM-X936B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 Ultra 5G",
+    "gts11u",
+    "SM-X936C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S11 Ultra 5G",
+    "gts11u",
+    "SM-X936N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12 Ultra",
+    "gts12uwifi",
+    "SM-X940"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12 Ultra 5G",
+    "gts12u",
+    "SM-X946B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12 Ultra 5G",
+    "gts12u",
+    "SM-X946N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12+",
+    "gts12pwifi",
+    "SM-X840"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12+ 5G",
+    "gts12p",
+    "SM-X846B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12+ 5G",
+    "gts12p",
+    "SM-X846E"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12+ 5G",
+    "gts12p",
+    "SM-X846N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Tab S12+ 5G",
+    "gts12p",
+    "SM-X848U"
   ],
   [
     "Samsung",
@@ -48811,6 +52651,36 @@
   ],
   [
     "Samsung",
+    "Galaxy Watch Ultra2",
+    "projectv2bl",
+    "SM-L710"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch Ultra2",
+    "projectv2ul",
+    "SM-L7150"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch Ultra2",
+    "projectv2ul",
+    "SM-L715F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch Ultra2",
+    "projectv2ul",
+    "SM-L715N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch Ultra2",
+    "projectv2ul",
+    "SM-L715U"
+  ],
+  [
+    "Samsung",
     "Galaxy Watch4",
     "freshbl",
     "SM-R870"
@@ -49153,6 +53023,144 @@
   ],
   [
     "Samsung",
+    "Galaxy Watch8",
+    "fresh8bl",
+    "SM-L330"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8bs",
+    "SM-L320"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8ul",
+    "SM-L3350"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8ul",
+    "SM-L335F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8ul",
+    "SM-L335N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8ul",
+    "SM-L335U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8us",
+    "SM-L325F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8us",
+    "SM-L325N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8",
+    "fresh8us",
+    "SM-L325U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8 Classic",
+    "wise8bs",
+    "SM-L500"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8 Classic",
+    "wise8us",
+    "SM-L5050"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8 Classic",
+    "wise8us",
+    "SM-L505F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8 Classic",
+    "wise8us",
+    "SM-L505N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch8 Classic",
+    "wise8us",
+    "SM-L505U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9bl",
+    "SM-L350"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9bs",
+    "SM-L340"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9ul",
+    "SM-L3550"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9ul",
+    "SM-L355F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9ul",
+    "SM-L355N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9ul",
+    "SM-L355U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9us",
+    "SM-L345F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9us",
+    "SM-L345N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Watch9",
+    "fresh9us",
+    "SM-L345U"
+  ],
+  [
+    "Samsung",
     "Galaxy Wide",
     "on7nlteskt",
     "SM-G600S"
@@ -49186,6 +53194,18 @@
     "Galaxy Wide7",
     "m15x",
     "SM-M156S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Wide8",
+    "m16x",
+    "SM-M166S"
+  ],
+  [
+    "Samsung",
+    "Galaxy Wide9",
+    "a17x",
+    "SM-M176S"
   ],
   [
     "Samsung",
@@ -49348,6 +53368,48 @@
     "Galaxy XCover7",
     "xcover7",
     "SM-G556B"
+  ],
+  [
+    "Samsung",
+    "Galaxy XCover7 Pro",
+    "xcover7pro",
+    "SM-G766B"
+  ],
+  [
+    "Samsung",
+    "Galaxy XCover7 Pro",
+    "xcover7pro",
+    "SM-G766N"
+  ],
+  [
+    "Samsung",
+    "Galaxy XCover7 Pro",
+    "xcover7pro",
+    "SM-G766U"
+  ],
+  [
+    "Samsung",
+    "Galaxy XCover7 Pro",
+    "xcover7pro",
+    "SM-G766U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy XCover7 Pro",
+    "xcover7pro",
+    "SM-G766W"
+  ],
+  [
+    "Samsung",
+    "Galaxy XR",
+    "xrvst2",
+    "SM-I610"
+  ],
+  [
+    "Samsung",
+    "Galaxy XR",
+    "xrvst2",
+    "SM-I610H"
   ],
   [
     "Samsung",
@@ -49921,6 +53983,162 @@
   ],
   [
     "Samsung",
+    "Galaxy Z Flip7",
+    "SC-55F",
+    "SC-55F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "SCG35",
+    "SCG35"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F7660"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7",
+    "b7s",
+    "SM-F766Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7 FE",
+    "b7r",
+    "SM-F7610"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7 FE",
+    "b7r",
+    "SM-F761B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7 FE",
+    "b7r",
+    "SM-F761N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7 FE",
+    "b7r",
+    "SM-F761U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip7 FE",
+    "b7r",
+    "SM-F761U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SC-55G"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SCG40"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F7760"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8q",
+    "SM-F776Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8s",
+    "SM-F776B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Flip8",
+    "b8s",
+    "SM-F776N"
+  ],
+  [
+    "Samsung",
     "Galaxy Z Fold Special Edition",
     "q6aq",
     "SM-F958N"
@@ -50170,6 +54388,222 @@
     "Galaxy Z Fold6",
     "q6q",
     "SM-F956W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "SC-56F",
+    "SC-56F"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "SCG34",
+    "SCG34"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F9660"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold7",
+    "q7q",
+    "SM-F966Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SC-57G"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SCG41"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F9710"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8",
+    "h8q",
+    "SM-F971Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SC-56G"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SCG39"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F9760"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976C"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976Q"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976U"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976U1"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976W"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z Fold8 Ultra",
+    "q8q",
+    "SM-F976Z"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z TriFold",
+    "q7mq",
+    "SM-F9680"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z TriFold",
+    "q7mq",
+    "SM-F968B"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z TriFold",
+    "q7mq",
+    "SM-F968N"
+  ],
+  [
+    "Samsung",
+    "Galaxy Z TriFold",
+    "q7mq",
+    "SM-F968U1"
   ],
   [
     "Samsung",
@@ -50485,55 +54919,73 @@
   ],
   [
     "Samsung",
+    "WAF-S",
+    "SAMSUNG_INTERACTIVE_DISPLAY",
+    "WAF-S"
+  ],
+  [
+    "Samsung",
+    "WAFX-P",
+    "SAMSUNG_INTERACTIVE_DISPLAY",
+    "WAFX-P"
+  ],
+  [
+    "Samsung",
     "olleh",
     "ik1",
     "SMT-E5015"
   ],
   [
     "Samsung",
-    "三星 W21 5G",
+    "\u4e09\u661f W21 5G",
     "victory",
     "SM-W2021"
   ],
   [
     "Samsung",
-    "三星W20",
+    "\u4e09\u661fW20",
     "zodiac",
     "SM-W2020"
   ],
   [
     "Samsung",
-    "三星W22 5G",
+    "\u4e09\u661fW22 5G",
     "v2q",
     "SM-W2022"
   ],
   [
     "Samsung",
-    "心系天下 三星 W23",
+    "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W23",
     "v4q",
     "SM-W9023"
   ],
   [
     "Samsung",
-    "心系天下 三星 W23 Flip",
+    "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W23 Flip",
     "e4q",
     "SM-W7023"
   ],
   [
     "Samsung",
-    "心系天下 三星 W25",
+    "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W25",
     "q6aq",
     "SM-W9025"
   ],
   [
     "Samsung",
-    "心系天下 三星 W25 Flip",
+    "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W25 Flip",
     "b6q",
     "SM-W7025"
   ],
   [
     "Samsung",
-    "领世旗舰8",
+    "\u5fc3\u7cfb\u5929\u4e0b \u4e09\u661f W26",
+    "q7q",
+    "SM-W9026"
+  ],
+  [
+    "Samsung",
+    "\u9886\u4e16\u65d7\u82308",
     "venenoltechn",
     "SM-G9298"
   ],
@@ -50647,6 +55099,18 @@
   ],
   [
     "Sony",
+    "BRAVIA AE3",
+    "BRAVIA_AE3",
+    "BRAVIA 4K AE3"
+  ],
+  [
+    "Sony",
+    "BRAVIA DE1",
+    "hoshioki",
+    "BRAVIA DE1"
+  ],
+  [
+    "Sony",
     "BRAVIA Smart Stick",
     "NSZGU1",
     "NSZ-GU1"
@@ -50698,6 +55162,18 @@
     "BRAVIA_BF1",
     "BRAVIA_BF1",
     "BRAVIA BF1"
+  ],
+  [
+    "Sony",
+    "BRAVIA_BF1_4K_A",
+    "BRAVIA_BF1",
+    "BRAVIA BF1"
+  ],
+  [
+    "Sony",
+    "BRAVIA_CT1",
+    "BRAVIA_CT1",
+    "BRAVIA CT1"
   ],
   [
     "Sony",
@@ -50864,8 +55340,8 @@
   [
     "Sony",
     "Smartphone Z Ultra Google Play edition",
-    "C6806",
-    "C6806"
+    "",
+    ""
   ],
   [
     "Sony",
@@ -51145,6 +55621,78 @@
   ],
   [
     "Sony",
+    "Xperia 1 VII",
+    "SO-51F",
+    "SO-51F"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VII",
+    "XQ-FS",
+    "A501SO"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VII",
+    "XQ-FS",
+    "SOG15"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VII",
+    "XQ-FS",
+    "XQ-FS44"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VII",
+    "XQ-FS",
+    "XQ-FS54"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VII",
+    "XQ-FS",
+    "XQ-FS72"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "A601SO"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "SO-51G"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "SOG17"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "XQ-GE44"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "XQ-GE54"
+  ],
+  [
+    "Sony",
+    "Xperia 1 VIII",
+    "XQ-GE",
+    "XQ-GE74"
+  ],
+  [
+    "Sony",
     "Xperia 10",
     "I3113",
     "I3113"
@@ -51364,6 +55912,54 @@
     "Xperia 10 VI",
     "XQ-ES72",
     "XQ-ES72"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "SO-52F",
+    "SO-52F"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "XQ-FE",
+    "A502SO"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "XQ-FE",
+    "SOG16"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "XQ-FE",
+    "XQ-FE44"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "XQ-FE",
+    "XQ-FE54"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VII",
+    "XQ-FE",
+    "XQ-FE72"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VIII",
+    "XQ-GH",
+    "XQ-GH54"
+  ],
+  [
+    "Sony",
+    "Xperia 10 VIII",
+    "XQ-GH",
+    "XQ-GH74"
   ],
   [
     "Sony",
@@ -51692,6 +56288,12 @@
   [
     "Sony",
     "Xperia E",
+    "",
+    ""
+  ],
+  [
+    "Sony",
+    "Xperia E",
     "C1504",
     "C1504"
   ],
@@ -51850,6 +56452,12 @@
     "Xperia J1 Compact",
     "D5788",
     "D5788"
+  ],
+  [
+    "Sony",
+    "Xperia L",
+    "",
+    ""
   ],
   [
     "Sony",
@@ -52868,6 +57476,12 @@
   [
     "Sony",
     "Xperia Z Ultra",
+    "",
+    ""
+  ],
+  [
+    "Sony",
+    "Xperia Z Ultra",
     "C6802",
     "C6802"
   ],
@@ -52906,6 +57520,12 @@
     "Xperia Z Ultra",
     "XL39h",
     "XL39h"
+  ],
+  [
+    "Sony",
+    "Xperia Z1",
+    "",
+    ""
   ],
   [
     "Sony",
@@ -53354,6 +57974,12 @@
   [
     "Sony",
     "Xperia ZR",
+    "",
+    ""
+  ],
+  [
+    "Sony",
+    "Xperia ZR",
     "C5306",
     "C5306"
   ],
@@ -53461,109 +58087,109 @@
   ],
   [
     "Sony",
-    "Xperia™ C4",
+    "Xperia\u2122 C4",
     "E5303",
     "E5303"
   ],
   [
     "Sony",
-    "Xperia™ C4",
+    "Xperia\u2122 C4",
     "E5306",
     "E5306"
   ],
   [
     "Sony",
-    "Xperia™ C4",
+    "Xperia\u2122 C4",
     "E5353",
     "E5353"
   ],
   [
     "Sony",
-    "Xperia™ C4 Dual",
+    "Xperia\u2122 C4 Dual",
     "E5333",
     "E5333"
   ],
   [
     "Sony",
-    "Xperia™ C4 Dual",
+    "Xperia\u2122 C4 Dual",
     "E5343",
     "E5343"
   ],
   [
     "Sony",
-    "Xperia™ C4 Dual",
+    "Xperia\u2122 C4 Dual",
     "E5363",
     "E5363"
   ],
   [
     "Sony",
-    "Xperia™ E4",
+    "Xperia\u2122 E4",
     "E2104",
     "E2104"
   ],
   [
     "Sony",
-    "Xperia™ E4",
+    "Xperia\u2122 E4",
     "E2105",
     "E2105"
   ],
   [
     "Sony",
-    "Xperia™ E4 Dual",
+    "Xperia\u2122 E4 Dual",
     "E2115",
     "E2115"
   ],
   [
     "Sony",
-    "Xperia™ E4 Dual",
+    "Xperia\u2122 E4 Dual",
     "E2124",
     "E2124"
   ],
   [
     "Sony",
-    "Xperia™ E4g",
+    "Xperia\u2122 E4g",
     "E2003",
     "E2003"
   ],
   [
     "Sony",
-    "Xperia™ E4g",
+    "Xperia\u2122 E4g",
     "E2006",
     "E2006"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua",
+    "Xperia\u2122 M4 Aqua",
     "E2303",
     "E2303"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua",
+    "Xperia\u2122 M4 Aqua",
     "E2306",
     "E2306"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua",
+    "Xperia\u2122 M4 Aqua",
     "E2353",
     "E2353"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua Dual",
+    "Xperia\u2122 M4 Aqua Dual",
     "E2312",
     "E2312"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua Dual",
+    "Xperia\u2122 M4 Aqua Dual",
     "E2333",
     "E2333"
   ],
   [
     "Sony",
-    "Xperia™ M4 Aqua Dual",
+    "Xperia\u2122 M4 Aqua Dual",
     "E2363",
     "E2363"
   ],
@@ -54172,18 +58798,6 @@
     "",
     "one_touch_996_gsm",
     "Orange_infinity_996"
-  ],
-  [
-    "TCT (Alcatel)",
-    "\t ALCATEL ONETOUCH PIXI 3 (3.5)",
-    "PIXI3_35",
-    "SoshPhone_mini"
-  ],
-  [
-    "TCT (Alcatel)",
-    "\t ALCATEL ONETOUCH PIXI 3 (4.5)",
-    "PIXI3_45_4G",
-    "5017X"
   ],
   [
     "TCT (Alcatel)",
@@ -55273,13 +59887,13 @@
   ],
   [
     "TCT (Alcatel)",
-    "A3 10''",
+    "A3 10\\'\\'",
     "Pixi5-10_4G",
     "9026T"
   ],
   [
     "TCT (Alcatel)",
-    "A3 10''",
+    "A3 10\\'\\'",
     "Pixi5-10_4G",
     "9026X"
   ],
@@ -56684,6 +61298,12 @@
   [
     "TCT (Alcatel)",
     "ALCATEL ONETOUCH PIXI 3 (3.5)",
+    "",
+    ""
+  ],
+  [
+    "TCT (Alcatel)",
+    "ALCATEL ONETOUCH PIXI 3 (3.5)",
     "PIXI3_35",
     "4009A"
   ],
@@ -56731,6 +61351,12 @@
   ],
   [
     "TCT (Alcatel)",
+    "ALCATEL ONETOUCH PIXI 3 (3.5)",
+    "PIXI3_35",
+    "SoshPhone_mini"
+  ],
+  [
+    "TCT (Alcatel)",
     "ALCATEL ONETOUCH PIXI 3 (4.5)",
     "PIXI3_45_4G",
     "5017A"
@@ -56746,6 +61372,12 @@
     "ALCATEL ONETOUCH PIXI 3 (4.5)",
     "PIXI3_45_4G",
     "5017E"
+  ],
+  [
+    "TCT (Alcatel)",
+    "ALCATEL ONETOUCH PIXI 3 (4.5)",
+    "PIXI3_45_4G",
+    "5017X"
   ],
   [
     "TCT (Alcatel)",
@@ -56809,7 +61441,7 @@
   ],
   [
     "TCT (Alcatel)",
-    "ALCATEL ONETOUCH PIXI™ 3 (4.5)",
+    "ALCATEL ONETOUCH PIXI\u2122 3 (4.5)",
     "PIXI3_45_4G",
     "5017O"
   ],
@@ -57165,6 +61797,18 @@
     "TCT (Alcatel)",
     "Alcatel 1",
     "Macau",
+    "5033D"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033D_EEA"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
     "5033EP"
   ],
   [
@@ -57183,7 +61827,43 @@
     "TCT (Alcatel)",
     "Alcatel 1",
     "Macau",
+    "5033F_EEA"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033F_RU"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033M"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
     "5033MP"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033Q"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033Y"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1",
+    "Macau",
+    "5033Y_EEA"
   ],
   [
     "TCT (Alcatel)",
@@ -57313,6 +61993,12 @@
   ],
   [
     "TCT (Alcatel)",
+    "Alcatel 1 SE Lite",
+    "Corolla",
+    "5064A"
+  ],
+  [
+    "TCT (Alcatel)",
     "Alcatel 1A",
     "Seoul",
     "5002F_RU"
@@ -57334,6 +62020,12 @@
     "Alcatel 1B",
     "Kona",
     "5031G"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1B",
+    "Kona",
+    "5031J"
   ],
   [
     "TCT (Alcatel)",
@@ -57556,6 +62248,30 @@
     "Alcatel 1L PLUS",
     "Wright_Pro",
     "4063F"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1L Pro",
+    "Jakarta_Mini",
+    "4065D"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1L Pro",
+    "Jakarta_Mini",
+    "4065D_EEA"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1L Pro",
+    "Jakarta_Mini",
+    "4065D_RU"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 1L Pro",
+    "Jakarta_Mini",
+    "4065F"
   ],
   [
     "TCT (Alcatel)",
@@ -58016,6 +62732,12 @@
   [
     "TCT (Alcatel)",
     "Alcatel 3",
+    "DahliaPro",
+    "T451A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 3",
     "Dive_73",
     "Orange Dive 73"
   ],
@@ -58156,6 +62878,12 @@
     "Alcatel 3L",
     "Benz",
     "HEYOU50"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel 3L",
+    "Dahlia",
+    "T450A"
   ],
   [
     "TCT (Alcatel)",
@@ -58531,6 +63259,72 @@
   ],
   [
     "TCT (Alcatel)",
+    "Alcatel A11",
+    "Vanilla",
+    "T452A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A11",
+    "Vanilla",
+    "T452B"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A11",
+    "Vanilla",
+    "T452M"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A11 SE",
+    "Vanilla",
+    "T452Q"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A31 Prime",
+    "DahliaMax",
+    "T451A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A31 Pro",
+    "DahliaMax",
+    "T451A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A33",
+    "Dahlia",
+    "T450A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A33",
+    "DahliaPro",
+    "T451A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A62",
+    "A01",
+    "A601N"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel A62",
+    "A01",
+    "A601Q"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel AXEL\u2122",
+    "Dubai_Plus_ATT",
+    "Alcatel_5004R"
+  ],
+  [
+    "TCT (Alcatel)",
     "Alcatel JOY TAB",
     "EasyTAB8MPCS",
     "9029Z"
@@ -58543,19 +63337,19 @@
   ],
   [
     "TCT (Alcatel)",
-    "Alcatel LUMOS™",
+    "Alcatel LUMOS\u2122",
     "Dubai_Plus_ATT",
     "Alcatel_5004C"
   ],
   [
     "TCT (Alcatel)",
-    "Alcatel ONYX™",
+    "Alcatel ONYX\u2122",
     "Edison_CKT",
     "5008R"
   ],
   [
     "TCT (Alcatel)",
-    "Alcatel ONYX™",
+    "Alcatel ONYX\u2122",
     "Edison_CKT",
     "Alcatel_5008R"
   ],
@@ -58576,6 +63370,24 @@
     "Alcatel U3",
     "PIXI4-4C_GO",
     "4034L_EEA"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel V3 Classic",
+    "Aster",
+    "T519H"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel V3 Pro",
+    "Aster_Pro",
+    "T521D"
+  ],
+  [
+    "TCT (Alcatel)",
+    "Alcatel V3 Ultra",
+    "Goldfinch_NP_Pro",
+    "T803D"
   ],
   [
     "TCT (Alcatel)",
@@ -58771,6 +63583,18 @@
   ],
   [
     "TCT (Alcatel)",
+    "GL TCL",
+    "Titan_Vis_5G",
+    "9194T"
+  ],
+  [
+    "TCT (Alcatel)",
+    "GL TCL",
+    "Titan_Vis_Wifi",
+    "9494G"
+  ],
+  [
+    "TCT (Alcatel)",
     "Go PLAY",
     "alto5_sporty",
     "7048A"
@@ -58933,7 +63757,7 @@
   ],
   [
     "TCT (Alcatel)",
-    "INSIGHT™",
+    "INSIGHT\u2122",
     "FERMI_ATT",
     "Alcatel_5005R"
   ],
@@ -59080,6 +63904,12 @@
     "Moov2",
     "move_2_gsm",
     "move 2"
+  ],
+  [
+    "TCT (Alcatel)",
+    "NA",
+    "Bremen_NA_OM",
+    "T768O"
   ],
   [
     "TCT (Alcatel)",
@@ -59899,7 +64729,7 @@
   ],
   [
     "TCT (Alcatel)",
-    "PIXI™4",
+    "PIXI\u21224",
     "Pixi445CAN",
     "4060S"
   ],
@@ -60398,6 +65228,12 @@
   [
     "TCT (Alcatel)",
     "TBD",
+    "Jetta_ATT",
+    "4188C"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TBD",
     "Seoul_ATT",
     "Alcatel_5002C"
   ],
@@ -60412,6 +65248,30 @@
     "TBD",
     "Seoul_TF",
     "A507DL"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TBD",
+    "Transformer2",
+    "9199G"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL 10 5G UW",
+    "Seattle_VZW",
+    "T790S"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL 30 Z",
+    "Jetta_ATT",
+    "4188R"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL 30 Z",
+    "Jetta_TF",
+    "T602DL"
   ],
   [
     "TCT (Alcatel)",
@@ -60433,9 +65293,21 @@
   ],
   [
     "TCT (Alcatel)",
+    "TCL 305i",
+    "Corolla",
+    "5164A"
+  ],
+  [
+    "TCT (Alcatel)",
     "TCL 30E",
     "Cruze",
     "6127A"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL 30V 5G",
+    "Irvine_VZW",
+    "T781SPP"
   ],
   [
     "TCT (Alcatel)",
@@ -60769,6 +65641,12 @@
   ],
   [
     "TCT (Alcatel)",
+    "TCL NXTPAPER PRO 12 5G",
+    "Titan_Vis_5G",
+    "9194T"
+  ],
+  [
+    "TCT (Alcatel)",
     "TCL P301C",
     "Cooper_40",
     "TCL P301C"
@@ -60985,6 +65863,12 @@
   ],
   [
     "TCT (Alcatel)",
+    "TCL Stylus 5G",
+    "Challenger_TMO",
+    "T779W"
+  ],
+  [
+    "TCT (Alcatel)",
     "TCL T500L",
     "evoque_cn",
     "TCL T500L"
@@ -61030,6 +65914,18 @@
     "TCL i718M",
     "EOS_Plus",
     "TCL i709M"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL \u968f\u5b66\u5802 L10",
+    "Odin2",
+    "9080X"
+  ],
+  [
+    "TCT (Alcatel)",
+    "TCL \u968f\u5b66\u5802 S8 4G",
+    "Da_Vinci_4G",
+    "9288M"
   ],
   [
     "TCT (Alcatel)",
@@ -61297,13 +66193,13 @@
   ],
   [
     "TCT (Alcatel)",
-    "U50™",
+    "U50\u2122",
     "BUZZ6T4GTELUS",
     "5044G"
   ],
   [
     "TCT (Alcatel)",
-    "U50™",
+    "U50\u2122",
     "BUZZ6T4GTELUS",
     "5044S"
   ],
@@ -61507,6 +66403,12 @@
   ],
   [
     "TCT (Alcatel)",
+    "alcatel 3T8 WIFI",
+    "Apollo_8_4G",
+    "9032"
+  ],
+  [
+    "TCT (Alcatel)",
     "alcatel PIXI 4 (5.5)",
     "PIXI4_55_3G",
     "5012D"
@@ -61624,6 +66526,12 @@
     "tbd",
     "Apollo_8_4G_TMO",
     "9032Z"
+  ],
+  [
+    "TCT (Alcatel)",
+    "tbd",
+    "Cruze_Lite_TF",
+    "T603DL"
   ],
   [
     "TCT (Alcatel)",
@@ -62089,7 +66997,7 @@
   ],
   [
     "Tecno",
-    "DroiPad 10 ProⅡ",
+    "DroiPad 10 Pro\u2161",
     "DP10APro",
     "DP10APro"
   ],
@@ -62137,7 +67045,7 @@
   ],
   [
     "Tecno",
-    "DroiPad 8Ⅱ",
+    "DroiPad 8\u2161",
     "DP8D",
     "DP8D"
   ],
@@ -62356,12 +67264,6 @@
     "PHANTOM V Flip 5G",
     "TECNO-AD11",
     "TECNO AD11"
-  ],
-  [
-    "Tecno",
-    "PHANTOM V Fold",
-    "TECNO-AD10",
-    "TECNO AD10"
   ],
   [
     "Tecno",
@@ -62953,6 +67855,12 @@
   ],
   [
     "Tecno",
+    "T1201-OP",
+    "TECNO-T1201",
+    "TECNO T1201"
+  ],
+  [
+    "Tecno",
     "TECNO",
     "TECNO-BF7",
     "TECNO BF7"
@@ -63145,6 +68053,72 @@
   ],
   [
     "Tecno",
+    "TECNO CAMON 40",
+    "TECNO-CM5",
+    "TECNO CM5"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 40 5G",
+    "TECNO-CM7",
+    "TECNO CM7"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 40 Premier 5G",
+    "TECNO-CM8",
+    "TECNO CM8"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 40 Pro",
+    "TECNO-CM6",
+    "TECNO CM6"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 40 Pro 5G",
+    "TECNO-CM7",
+    "TECNO CM7"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 50",
+    "TECNO-CN5",
+    "TECNO CN5"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 50 Pro",
+    "TECNO-CN5c",
+    "TECNO CN5c"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 50 Pro 5G",
+    "TECNO-CN7c",
+    "TECNO CN7c"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON 50 Ultra 5G",
+    "TECNO-CN7c",
+    "TECNO CN7c"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON Slim",
+    "TECNO-CN6c",
+    "TECNO CN6c"
+  ],
+  [
+    "Tecno",
+    "TECNO CAMON Slim/Air",
+    "TECNO-CN6c",
+    "TECNO CN6c"
+  ],
+  [
+    "Tecno",
     "TECNO CAMON iACE 2",
     "TECNO-KB2",
     "TECNO KB2"
@@ -63175,9 +68149,45 @@
   ],
   [
     "Tecno",
+    "TECNO MEGAPAD  SE",
+    "TECNO-T1102",
+    "TECNO T1102"
+  ],
+  [
+    "Tecno",
+    "TECNO MEGAPAD  SE",
+    "TECNO-T1102W",
+    "TECNO T1102W"
+  ],
+  [
+    "Tecno",
+    "TECNO MEGAPAD 2",
+    "TECNO-T1103",
+    "TECNO T1103"
+  ],
+  [
+    "Tecno",
+    "TECNO MEGAPAD SE 2",
+    "TECNO-T1002",
+    "TECNO T1002"
+  ],
+  [
+    "Tecno",
+    "TECNO MEGAPAD SE 2",
+    "TECNO-T1002W",
+    "TECNO T1002W"
+  ],
+  [
+    "Tecno",
     "TECNO MegaPad 11",
     "TECNO-T1101",
     "TECNO T1101"
+  ],
+  [
+    "Tecno",
+    "TECNO MegaPad Pro",
+    "TECNO-T1201",
+    "TECNO T1201"
   ],
   [
     "Tecno",
@@ -63235,15 +68245,33 @@
   ],
   [
     "Tecno",
-    "TECNO PHANTOM V2 Flip 5G",
-    "TECNO-AE11",
-    "TECNO AE11"
+    "TECNO POP 10",
+    "TECNO-KM4",
+    "TECNO KM4"
+  ],
+  [
+    "Tecno",
+    "TECNO POP 10",
+    "TECNO-KM4s",
+    "TECNO KM4s"
   ],
   [
     "Tecno",
     "TECNO POP 2 Air",
     "TECNO-SC7S",
     "TECNO SC7S"
+  ],
+  [
+    "Tecno",
+    "TECNO POP 20",
+    "TECNO-KN3",
+    "TECNO KN3"
+  ],
+  [
+    "Tecno",
+    "TECNO POP 20C",
+    "TECNO-KO2",
+    "TECNO KO2"
   ],
   [
     "Tecno",
@@ -63367,6 +68395,12 @@
   ],
   [
     "Tecno",
+    "TECNO POP X",
+    "TECNO-KN3",
+    "TECNO KN3"
+  ],
+  [
+    "Tecno",
     "TECNO POP X5",
     "TECNO-L6502S",
     "TECNO L6502S"
@@ -63421,6 +68455,12 @@
   ],
   [
     "Tecno",
+    "TECNO POVA 6 5G",
+    "TECNO-KJ8s",
+    "TECNO KJ8s"
+  ],
+  [
+    "Tecno",
     "TECNO POVA 6 Neo",
     "TECNO-LI6",
     "TECNO LI6"
@@ -63439,9 +68479,69 @@
   ],
   [
     "Tecno",
+    "TECNO POVA 7",
+    "TECNO-LJ6",
+    "TECNO LJ6"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 7 5G",
+    "TECNO-LJ7",
+    "TECNO LJ7"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 7 Neo",
+    "TECNO-LJ6",
+    "TECNO LJ6"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 7 Pro 5G",
+    "TECNO-LJ8",
+    "TECNO LJ8"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 7 Ultra 5G",
+    "TECNO-LJ9",
+    "TECNO LJ9"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 8 5G",
+    "TECNO-LK6",
+    "TECNO LK6"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA 8 Pro 5G",
+    "TECNO-LK7",
+    "TECNO LK7"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA Curve 2 5G",
+    "TECNO-LK7k",
+    "TECNO LK7k"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA Curve 5G",
+    "TECNO-LJ8k",
+    "TECNO LJ8k"
+  ],
+  [
+    "Tecno",
     "TECNO POVA Neo 3",
     "TECNO-LH6n",
     "TECNO LH6n"
+  ],
+  [
+    "Tecno",
+    "TECNO POVA Slim 5G",
+    "TECNO-KM9",
+    "TECNO KM9"
   ],
   [
     "Tecno",
@@ -63602,6 +68702,12 @@
   [
     "Tecno",
     "TECNO SPARK 30C",
+    "TECNO-KL5",
+    "TECNO KL5"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 30C",
     "TECNO-KL5n",
     "TECNO KL5n"
   ],
@@ -63655,6 +68761,54 @@
   ],
   [
     "Tecno",
+    "TECNO SPARK 40",
+    "TECNO-KM5",
+    "TECNO KM5"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40",
+    "TECNO-KM5n",
+    "TECNO KM5n"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40",
+    "TECNO-KM5s",
+    "TECNO KM5s"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40 5G",
+    "TECNO-KM8n",
+    "TECNO KM8n"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40 Pro",
+    "TECNO-KM6",
+    "TECNO KM6"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40 Pro+",
+    "TECNO-KM7",
+    "TECNO KM7"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40/SPARK 40 Plus",
+    "TECNO-KM5s",
+    "TECNO KM5s"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 40C",
+    "TECNO-KM4k",
+    "TECNO KM4k"
+  ],
+  [
+    "Tecno",
     "TECNO SPARK 5",
     "TECNO-KD7h",
     "TECNO KD7S"
@@ -63670,6 +68824,48 @@
     "TECNO SPARK 5 Pro",
     "TECNO-KD7",
     "TECNO KD7"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50",
+    "TECNO-KN4",
+    "TECNO KN4"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50",
+    "TECNO-KN4n",
+    "TECNO KN4n"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50 5G",
+    "TECNO-KN8",
+    "TECNO KN8"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50 Pro",
+    "TECNO-KO5",
+    "TECNO KO5"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50/50C",
+    "TECNO-KN3",
+    "TECNO KN3"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50/50S",
+    "TECNO-KN4",
+    "TECNO KN4"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK 50T",
+    "TECNO-KO5",
+    "TECNO KO5"
   ],
   [
     "Tecno",
@@ -63865,6 +69061,24 @@
   ],
   [
     "Tecno",
+    "TECNO SPARK Go 2",
+    "TECNO-KM4",
+    "TECNO KM4"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Go 2",
+    "TECNO-KM4s",
+    "TECNO KM4s"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Go 2/2S",
+    "TECNO-KM4",
+    "TECNO KM4"
+  ],
+  [
+    "Tecno",
     "TECNO SPARK Go 2022",
     "TECNO-KG5",
     "TECNO KG5"
@@ -63898,6 +69112,36 @@
     "TECNO SPARK Go 2024",
     "TECNO-BG6s",
     "TECNO BG6s"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Go 2025",
+    "TECNO-BG6m",
+    "TECNO BG6m"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Go 3",
+    "TECNO-KN3",
+    "TECNO KN3"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Go 5G",
+    "TECNO-KM8",
+    "TECNO KM8"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Slim",
+    "TECNO-KM7k",
+    "TECNO KM7k"
+  ],
+  [
+    "Tecno",
+    "TECNO SPARK Slim 5G",
+    "TECNO-KM9",
+    "TECNO KM9"
   ],
   [
     "Tecno",
@@ -64135,12 +69379,6 @@
   ],
   [
     "Vivo",
-    "\tV2040",
-    "2040",
-    "V2040"
-  ],
-  [
-    "Vivo",
     "1601",
     "1601",
     "vivo 1601"
@@ -64213,18 +69451,6 @@
   ],
   [
     "Vivo",
-    "I2219",
-    "I2219",
-    "I2219"
-  ],
-  [
-    "Vivo",
-    "I2306",
-    "I2306",
-    "I2306"
-  ],
-  [
-    "Vivo",
     "NEX A",
     "PD1806B",
     "vivo NEX A"
@@ -64279,6 +69505,12 @@
   ],
   [
     "Vivo",
+    "S17t",
+    "PD2282",
+    "V2282A"
+  ],
+  [
+    "Vivo",
     "S18 Pro",
     "PD2344",
     "V2344A"
@@ -64288,6 +69520,12 @@
     "S19 Pro",
     "PD2362",
     "V2362A"
+  ],
+  [
+    "Vivo",
+    "S20",
+    "PD2429",
+    "V2429A"
   ],
   [
     "Vivo",
@@ -64378,6 +69616,24 @@
     "T3 Ultra",
     "V2347",
     "V2426"
+  ],
+  [
+    "Vivo",
+    "T3x 5G",
+    "V2338",
+    "V2338"
+  ],
+  [
+    "Vivo",
+    "T4 Lite 5G",
+    "V2446",
+    "V2509"
+  ],
+  [
+    "Vivo",
+    "T4R 5G",
+    "V2428",
+    "V2518"
   ],
   [
     "Vivo",
@@ -65240,6 +70496,12 @@
   [
     "Vivo",
     "V2099A",
+    "PD2034",
+    "V2034A"
+  ],
+  [
+    "Vivo",
+    "V2099A",
     "PD2034D",
     "V2099A"
   ],
@@ -65725,24 +70987,6 @@
   ],
   [
     "Vivo",
-    "V2282A",
-    "PD2282",
-    "V2282A"
-  ],
-  [
-    "Vivo",
-    "V2314A",
-    "PD2314",
-    "V2314A"
-  ],
-  [
-    "Vivo",
-    "V2338",
-    "V2338",
-    "V2338"
-  ],
-  [
-    "Vivo",
     "V2353A",
     "PD2353",
     "V2353A"
@@ -65758,18 +71002,6 @@
     "V2417",
     "V2418",
     "V2417"
-  ],
-  [
-    "Vivo",
-    "V2417A",
-    "PD2417",
-    "V2417A"
-  ],
-  [
-    "Vivo",
-    "V2426A",
-    "PD2426",
-    "V2426A"
   ],
   [
     "Vivo",
@@ -66025,9 +71257,33 @@
   ],
   [
     "Vivo",
+    "V50",
+    "V2427",
+    "V2427"
+  ],
+  [
+    "Vivo",
+    "V50",
+    "V2427",
+    "V2448"
+  ],
+  [
+    "Vivo",
+    "V50",
+    "V2427",
+    "V2451"
+  ],
+  [
+    "Vivo",
     "V5Plus",
     "V5Plus",
     "vivo V5Plus"
+  ],
+  [
+    "Vivo",
+    "V80 Lite 5G",
+    "V2626",
+    "V2626"
   ],
   [
     "Vivo",
@@ -66127,15 +71383,27 @@
   ],
   [
     "Vivo",
-    "X200 Pro 卫星通信版",
+    "X200 Pro \u536b\u661f\u901a\u4fe1\u7248",
     "PD2405",
     "V2405A"
   ],
   [
     "Vivo",
-    "X200 Pro 卫星通信版",
+    "X200 Pro \u536b\u661f\u901a\u4fe1\u7248",
     "PD2405",
     "V2405DA"
+  ],
+  [
+    "Vivo",
+    "X200 Ultra",
+    "PD2454",
+    "V2454A"
+  ],
+  [
+    "Vivo",
+    "X200 Ultra",
+    "PD2454",
+    "V2454DA"
   ],
   [
     "Vivo",
@@ -66397,6 +71665,12 @@
   ],
   [
     "Vivo",
+    "Y04s",
+    "V2430",
+    "V2531"
+  ],
+  [
+    "Vivo",
     "Y100",
     "PD2313",
     "V2313A"
@@ -66544,6 +71818,48 @@
     "Y18t",
     "V2344",
     "V2408"
+  ],
+  [
+    "Vivo",
+    "Y19 5G",
+    "V2446",
+    "V2432"
+  ],
+  [
+    "Vivo",
+    "Y19s pro",
+    "V2419",
+    "V2419"
+  ],
+  [
+    "Vivo",
+    "Y19s pro",
+    "V2419",
+    "V2458"
+  ],
+  [
+    "Vivo",
+    "Y19s pro",
+    "V2419",
+    "V2507"
+  ],
+  [
+    "Vivo",
+    "Y19s pro",
+    "V2419",
+    "V2508"
+  ],
+  [
+    "Vivo",
+    "Y19s pro",
+    "V2419",
+    "V2519"
+  ],
+  [
+    "Vivo",
+    "Y19sGT 5G",
+    "V2446",
+    "V2526"
   ],
   [
     "Vivo",
@@ -66703,6 +72019,18 @@
   ],
   [
     "Vivo",
+    "Y29s 5G",
+    "V2446",
+    "V2446"
+  ],
+  [
+    "Vivo",
+    "Y29t 5G",
+    "V2446",
+    "V2527"
+  ],
+  [
+    "Vivo",
     "Y30 5G",
     "2160",
     "V2160"
@@ -66724,6 +72052,18 @@
     "Y300 Pro",
     "PD2410",
     "V2410A"
+  ],
+  [
+    "Vivo",
+    "Y300+",
+    "PD2445",
+    "V2445EA"
+  ],
+  [
+    "Vivo",
+    "Y300c",
+    "PD2435",
+    "V2435A"
   ],
   [
     "Vivo",
@@ -66871,6 +72211,12 @@
   ],
   [
     "Vivo",
+    "Y37c",
+    "PD2442",
+    "V2442A"
+  ],
+  [
+    "Vivo",
     "Y38 5G",
     "V2343",
     "V2343"
@@ -66961,6 +72307,12 @@
   ],
   [
     "Vivo",
+    "Y600",
+    "PD2607",
+    "V2607A"
+  ],
+  [
+    "Vivo",
     "Y66",
     "PD1621",
     "vivo Y66"
@@ -67033,13 +72385,13 @@
   ],
   [
     "Vivo",
-    "Y93标准版 64G",
+    "Y93\u6807\u51c6\u7248 64G",
     "PD1818B",
     "V1818BA"
   ],
   [
     "Vivo",
-    "Y93标准版 64G",
+    "Y93\u6807\u51c6\u7248 64G",
     "PD1818B",
     "V1818CA"
   ],
@@ -67159,9 +72511,21 @@
   ],
   [
     "Vivo",
+    "iQOO Neo 10R",
+    "I2221",
+    "I2221"
+  ],
+  [
+    "Vivo",
     "iQOO Neo10",
     "PD2425",
     "V2425A"
+  ],
+  [
+    "Vivo",
+    "iQOO Neo10 Pro",
+    "PD2426",
+    "V2426A"
   ],
   [
     "Vivo",
@@ -67207,13 +72571,13 @@
   ],
   [
     "Vivo",
-    "iQOO Neo7 竞速版",
+    "iQOO Neo7 \u7ade\u901f\u7248",
     "",
     "V2232A"
   ],
   [
     "Vivo",
-    "iQOO Neo7 竞速版",
+    "iQOO Neo7 \u7ade\u901f\u7248",
     "PD2232",
     "V2232A"
   ],
@@ -67282,6 +72646,36 @@
     "iQOO Pad2 Pro",
     "DPD2329",
     "iPA2475"
+  ],
+  [
+    "Vivo",
+    "iQOO Z10 5G",
+    "I2407",
+    "I2407"
+  ],
+  [
+    "Vivo",
+    "iQOO Z10 Turbo Pro",
+    "PD2453",
+    "V2453A"
+  ],
+  [
+    "Vivo",
+    "iQOO Z10R 5G",
+    "I2410",
+    "I2410"
+  ],
+  [
+    "Vivo",
+    "iQOO Z10x",
+    "PD2445",
+    "V2445A"
+  ],
+  [
+    "Vivo",
+    "iQOO Z10x 5G",
+    "I2404",
+    "I2404"
   ],
   [
     "Vivo",
@@ -67381,6 +72775,12 @@
   ],
   [
     "Vivo",
+    "iQOO Z8",
+    "PD2314",
+    "V2314A"
+  ],
+  [
+    "Vivo",
     "iQOO Z8x",
     "PD2312",
     "V2312A"
@@ -67411,6 +72811,18 @@
   ],
   [
     "Vivo",
+    "iQOO Z9 Turbo \u957f\u7eed\u822a\u7248",
+    "PD2352",
+    "V2352GA"
+  ],
+  [
+    "Vivo",
+    "iQOO Z9 Turbo+",
+    "PD2417",
+    "V2417A"
+  ],
+  [
+    "Vivo",
     "iQOO Z9s 5G",
     "I2403",
     "I2403"
@@ -67420,6 +72832,12 @@
     "iQOO Z9s Pro 5G",
     "I2305",
     "I2305"
+  ],
+  [
+    "Vivo",
+    "iQOO Z9x 5G",
+    "I2219",
+    "I2219"
   ],
   [
     "Vivo",
@@ -67849,6 +73267,12 @@
   ],
   [
     "Vivo",
+    "vivo Pad SE",
+    "DPD2424",
+    "PA2511"
+  ],
+  [
+    "Vivo",
     "vivo Pad2",
     "DPD2221",
     "PA2373"
@@ -67864,6 +73288,12 @@
     "vivo Pad3 Pro",
     "DPD2329",
     "PA2473"
+  ],
+  [
+    "Vivo",
+    "vivo Pad5 Pro",
+    "DPD2429",
+    "PA2573"
   ],
   [
     "Vivo",
@@ -67945,6 +73375,36 @@
   ],
   [
     "Vivo",
+    "vivo T4 5G",
+    "V2502",
+    "V2502"
+  ],
+  [
+    "Vivo",
+    "vivo T4x 5G",
+    "V2437",
+    "V2437"
+  ],
+  [
+    "Vivo",
+    "vivo V50 Lite",
+    "V2441",
+    "V2441"
+  ],
+  [
+    "Vivo",
+    "vivo V50 Lite",
+    "V2441",
+    "V2453"
+  ],
+  [
+    "Vivo",
+    "vivo V50e",
+    "V2428",
+    "V2428"
+  ],
+  [
+    "Vivo",
     "vivo X Fold",
     "PD2178",
     "V2178A"
@@ -67993,9 +73453,21 @@
   ],
   [
     "Vivo",
+    "vivo X200",
+    "V2415",
+    "V2415"
+  ],
+  [
+    "Vivo",
     "vivo X200 Pro mini",
     "PD2419",
     "V2419A"
+  ],
+  [
+    "Vivo",
+    "vivo X200s",
+    "PD2415",
+    "V2458A"
   ],
   [
     "Vivo",
@@ -68053,7 +73525,7 @@
   ],
   [
     "Vivo",
-    "vivo X80 Pro 天玑9000版",
+    "vivo X80 Pro \u5929\u73919000\u7248",
     "PD2186",
     "V2186A"
   ],
@@ -68113,7 +73585,31 @@
   ],
   [
     "Vivo",
-    "vivo Y100i长续航版",
+    "vivo Y04",
+    "V2430",
+    "V2430"
+  ],
+  [
+    "Vivo",
+    "vivo Y04",
+    "V2430",
+    "V2438"
+  ],
+  [
+    "Vivo",
+    "vivo Y04",
+    "V2430",
+    "V2531"
+  ],
+  [
+    "Vivo",
+    "vivo Y04",
+    "V2430",
+    "V2547"
+  ],
+  [
+    "Vivo",
+    "vivo Y100i\u957f\u7eed\u822a\u7248",
     "PD2312",
     "V2312BA"
   ],
@@ -68122,6 +73618,12 @@
     "vivo Y11",
     "Y11",
     "vivo Y11"
+  ],
+  [
+    "Vivo",
+    "vivo Y19e",
+    "V2430",
+    "V2431"
   ],
   [
     "Vivo",
@@ -68161,9 +73663,51 @@
   ],
   [
     "Vivo",
+    "vivo Y29",
+    "V2434",
+    "V2434"
+  ],
+  [
+    "Vivo",
+    "vivo Y29",
+    "V2434",
+    "V2435"
+  ],
+  [
+    "Vivo",
+    "vivo Y29",
+    "V2434L",
+    "V2434"
+  ],
+  [
+    "Vivo",
     "vivo Y29 5G",
     "V2420",
     "V2420"
+  ],
+  [
+    "Vivo",
+    "vivo Y300",
+    "PD2435",
+    "V2435A"
+  ],
+  [
+    "Vivo",
+    "vivo Y300 Pro+",
+    "PD2456",
+    "V2456A"
+  ],
+  [
+    "Vivo",
+    "vivo Y300i",
+    "PD2444",
+    "V2444A"
+  ],
+  [
+    "Vivo",
+    "vivo Y300t",
+    "PD2445",
+    "V2445EA"
   ],
   [
     "Vivo",
@@ -68182,6 +73726,24 @@
     "vivo Y37m",
     "PD2357",
     "V2357EA"
+  ],
+  [
+    "Vivo",
+    "vivo Y39 5G",
+    "V2436",
+    "V2436"
+  ],
+  [
+    "Vivo",
+    "vivo Y39 5G",
+    "V2436",
+    "V2443"
+  ],
+  [
+    "Vivo",
+    "vivo Y39 5G",
+    "V2436",
+    "V2447"
   ],
   [
     "Vivo",
@@ -68416,6 +73978,12 @@
     "K30 pro",
     "lmiin",
     "Redmi K30 Pro 5G"
+  ],
+  [
+    "Xiaomi",
+    "Leitzphone powered by Xiaomi",
+    "nezha",
+    "2512BPNDAG"
   ],
   [
     "Xiaomi",
@@ -69218,6 +74786,12 @@
   [
     "Xiaomi",
     "MiTV",
+    "furiosa",
+    "MiTV-AXFU1"
+  ],
+  [
+    "Xiaomi",
+    "MiTV",
     "hermano",
     "MiTV-MOSR0"
   ],
@@ -69260,6 +74834,12 @@
   [
     "Xiaomi",
     "MiTV",
+    "lalaland",
+    "MiTV-MOEU1"
+  ],
+  [
+    "Xiaomi",
+    "MiTV",
     "machuca",
     "MiTV-MSSP3"
   ],
@@ -69292,6 +74872,12 @@
     "MiTV",
     "river",
     "MiTV-MZTU0"
+  ],
+  [
+    "Xiaomi",
+    "MiTV",
+    "stepup",
+    "MiTV-MZTU1"
   ],
   [
     "Xiaomi",
@@ -69907,15 +75493,183 @@
   ],
   [
     "Xiaomi",
+    "Xiaomi 14T Pro",
+    "rothko",
+    "2407FPN8ER"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 14T Pro",
+    "rothko",
+    "A402XM"
+  ],
+  [
+    "Xiaomi",
     "Xiaomi 15",
     "dada",
     "24129PN74C"
   ],
   [
     "Xiaomi",
+    "Xiaomi 15",
+    "dada",
+    "24129PN74G"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15",
+    "dada",
+    "24129PN74I"
+  ],
+  [
+    "Xiaomi",
     "Xiaomi 15 Pro",
     "haotian",
     "2410DPN6CC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15 Ultra",
+    "xuanyuan",
+    "25010PN30C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15 Ultra",
+    "xuanyuan",
+    "25010PN30G"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15 Ultra",
+    "xuanyuan",
+    "25010PN30I"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15 Ultra",
+    "xuanyuan",
+    "25019PNF3C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15S Pro",
+    "dijun",
+    "25042PN24C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15T",
+    "goya",
+    "25069PTEBG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15T Pro",
+    "klimt",
+    "2506BPN68G"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 15T Pro",
+    "klimt",
+    "2506BPN68R"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17",
+    "pudding",
+    "25113PN0EC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17",
+    "pudding",
+    "25113PN0EG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17",
+    "pudding",
+    "25113PN0EI"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Max",
+    "byron",
+    "2605EPN8EC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Pro",
+    "pandora",
+    "25098PN5AC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Pro Max",
+    "popsicle",
+    "2509FPN0BC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Ultra",
+    "nezha",
+    "2512BPNDAC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Ultra",
+    "nezha",
+    "2512BPNDAG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17 Ultra",
+    "nezha",
+    "2512BPNDAI"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T",
+    "chagall",
+    "2602DPT53G"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T",
+    "chagall",
+    "2602DPT53I"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T",
+    "chagall",
+    "M531DA"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T Pro",
+    "warhol",
+    "2602EPTC0G"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T Pro",
+    "warhol",
+    "2602EPTC0R"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 17T Pro",
+    "warhol",
+    "M025EC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi 18 Fold",
+    "lhasa",
+    "2608BPX34C"
   ],
   [
     "Xiaomi",
@@ -69934,6 +75688,12 @@
     "Xiaomi Civi 4",
     "chenfeng",
     "24053PY09C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Civi 5 Pro",
+    "luming",
+    "25067PYE3C"
   ],
   [
     "Xiaomi",
@@ -70045,15 +75805,105 @@
   ],
   [
     "Xiaomi",
+    "Xiaomi Pad 7",
+    "uke",
+    "2410CRP4CG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 7",
+    "uke",
+    "2410CRP4CI"
+  ],
+  [
+    "Xiaomi",
     "Xiaomi Pad 7 Pro",
     "muyu",
     "24091RPADC"
   ],
   [
     "Xiaomi",
+    "Xiaomi Pad 7 Pro",
+    "muyu",
+    "24091RPADG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 7 Ultra",
+    "jinghu",
+    "25032RP42C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 7S Pro 12.5",
+    "violin",
+    "25053RP5CC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 8",
+    "yupei",
+    "25097RP43C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 8 Pro",
+    "piano",
+    "25091RP04C"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad 9 Pro Max",
+    "yingtian",
+    "M367FC"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Pad Mini",
+    "turner",
+    "25079RPDCG"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Smart Projector L1",
+    "tianshan",
+    "C025RGN"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi Smart Projector L1 Pro",
+    "tianshan",
+    "C045RGN"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi TV",
+    "arctictale",
+    "MiTV-AXFU0"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi TV Box S",
+    "twilight",
+    "MiTV-AFMU0"
+  ],
+  [
+    "Xiaomi",
     "Xiaomi TV Box S (2nd Gen)",
     "jaws",
     "MiTV-AFKR0"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi TV Stick",
+    "coco",
+    "MiTV-AXTU0"
+  ],
+  [
+    "Xiaomi",
+    "Xiaomi TV Stick 4K (2nd Gen)",
+    "twilight",
+    "MiTV-AFMU1"
   ],
   [
     "Xiaomi",
@@ -70081,6 +75931,12 @@
   ],
   [
     "Xiaomi",
+    "Xiaomi Watch 5",
+    "blenny",
+    "Xiaomi Watch 5"
+  ],
+  [
+    "Xiaomi",
     "Xiaomi civi 3",
     "yuechu",
     "23046PNC9C"
@@ -70105,7 +75961,7 @@
   ],
   [
     "Xiaomi",
-    "小米手表",
+    "\u5c0f\u7c73\u624b\u8868",
     "baiji",
     "Mi Watch"
   ],
@@ -71359,6 +77215,18 @@
   ],
   [
     "ZTE",
+    "5G UG Phone U26",
+    "P720F11UG",
+    "5G UG Phone U26"
+  ],
+  [
+    "ZTE",
+    "5G UG Tablet T26",
+    "P720T01",
+    "5G UG Tablet T26"
+  ],
+  [
+    "ZTE",
     "901ZT",
     "P450A01",
     "901ZT"
@@ -71488,6 +77356,36 @@
     "A404ZT",
     "Z8900S",
     "A404ZT"
+  ],
+  [
+    "ZTE",
+    "A404ZT",
+    "Z8900S",
+    "NX732J"
+  ],
+  [
+    "ZTE",
+    "A504ZT",
+    "Z6301S",
+    "A504ZT"
+  ],
+  [
+    "ZTE",
+    "A505ZT",
+    "Z8700S",
+    "A505ZT"
+  ],
+  [
+    "ZTE",
+    "A506ZT",
+    "Z6302S",
+    "A506ZT"
+  ],
+  [
+    "ZTE",
+    "A601ZT",
+    "P445F01",
+    "A601ZT"
   ],
   [
     "ZTE",
@@ -72487,6 +78385,12 @@
   ],
   [
     "ZTE",
+    "Blade A3 Plus",
+    "Z3102T",
+    "Blade A3 Plus"
+  ],
+  [
+    "ZTE",
     "Blade A3 SE",
     "Z3101T",
     "Blade A3 SE"
@@ -73483,6 +79387,12 @@
   ],
   [
     "ZTE",
+    "Cepter Nivo V2",
+    "P606F17",
+    "Z2458"
+  ],
+  [
+    "ZTE",
     "Chapel",
     "chapel",
     "Z831"
@@ -73528,6 +79438,12 @@
     "Cosmote Xplore",
     "Cosmote-Xplore",
     "Cosmote Xplore"
+  ],
+  [
+    "ZTE",
+    "DBZA55",
+    "P963F65",
+    "Z2450"
   ],
   [
     "ZTE",
@@ -74209,6 +80125,12 @@
   ],
   [
     "ZTE",
+    "METAVERTU 2",
+    "VTL-202301",
+    "VTL-202301"
+  ],
+  [
+    "ZTE",
     "MF97A",
     "MF97A",
     "MF97A"
@@ -74779,6 +80701,18 @@
   ],
   [
     "ZTE",
+    "NP05J",
+    "PQ84P01",
+    "NP05J"
+  ],
+  [
+    "ZTE",
+    "NT01",
+    "PQ83P02",
+    "NT01"
+  ],
+  [
+    "ZTE",
     "NX402",
     "NX40X",
     "NX402"
@@ -75301,6 +81235,18 @@
   ],
   [
     "ZTE",
+    "Optus X-Plus",
+    "Z3511O",
+    "P602"
+  ],
+  [
+    "ZTE",
+    "Optus X-Pro 2 5G",
+    "Z7306O",
+    "P9 Pro 5G"
+  ],
+  [
+    "ZTE",
     "Optus X-Total",
     "P963F65",
     "P656"
@@ -75397,6 +81343,12 @@
   ],
   [
     "ZTE",
+    "P505",
+    "Z3103O",
+    "P505"
+  ],
+  [
+    "ZTE",
     "P545",
     "P545",
     "P545"
@@ -75448,6 +81400,12 @@
     "P652 Pro",
     "Z6356O",
     "P652 Pro"
+  ],
+  [
+    "ZTE",
+    "P7 Pro 5G",
+    "Z7602O",
+    "P7 Pro 5G"
   ],
   [
     "ZTE",
@@ -76045,6 +82003,12 @@
   ],
   [
     "ZTE",
+    "Salt A45s",
+    "P606F21",
+    "Z2473"
+  ],
+  [
+    "ZTE",
     "Sapphire 3G",
     "sapphire",
     "N818S"
@@ -76471,9 +82435,21 @@
   ],
   [
     "ZTE",
+    "Telstra T-Elite 2 5G",
+    "Z7303T",
+    "Blade A9 Pro 5G"
+  ],
+  [
+    "ZTE",
     "Telstra T-Elite 5G",
     "P720F09",
     "A75 Pro 5G"
+  ],
+  [
+    "ZTE",
+    "Telstra T-Pro 2 5G",
+    "P780F03",
+    "Blade A76 5G"
   ],
   [
     "ZTE",
@@ -77713,6 +83689,12 @@
   ],
   [
     "ZTE",
+    "Z2339K",
+    "Z2339",
+    "Z2339K"
+  ],
+  [
+    "ZTE",
     "Z2351N",
     "P720F08",
     "Z2351N"
@@ -77749,6 +83731,72 @@
   ],
   [
     "ZTE",
+    "Z2465N",
+    "P820F05",
+    "Z2465N"
+  ],
+  [
+    "ZTE",
+    "Z2466",
+    "P963F66",
+    "Z2466"
+  ],
+  [
+    "ZTE",
+    "Z2472",
+    "P606F20",
+    "Z2472"
+  ],
+  [
+    "ZTE",
+    "Z2472",
+    "P606F20_A",
+    "Z2472"
+  ],
+  [
+    "ZTE",
+    "Z2570N",
+    "P688F02",
+    "Z2570N"
+  ],
+  [
+    "ZTE",
+    "Z2571N",
+    "P830F01",
+    "Z2571N"
+  ],
+  [
+    "ZTE",
+    "Z2575",
+    "P620F02",
+    "Z2575"
+  ],
+  [
+    "ZTE",
+    "Z2576",
+    "P620F01",
+    "Z2576"
+  ],
+  [
+    "ZTE",
+    "Z2577",
+    "P615F02",
+    "Z2577"
+  ],
+  [
+    "ZTE",
+    "Z2577",
+    "P615F02_A",
+    "Z2577"
+  ],
+  [
+    "ZTE",
+    "Z2581",
+    "P615F03",
+    "Z2581"
+  ],
+  [
+    "ZTE",
     "Z3153V",
     "Z3153",
     "Z3153V"
@@ -77779,7 +83827,7 @@
   ],
   [
     "ZTE",
-    "Z40 Pro",
+    "Z40\u2002Pro",
     "P898A11",
     "NX701J"
   ],
@@ -78775,6 +84823,12 @@
   ],
   [
     "ZTE",
+    "ZTE A55",
+    "P963F65",
+    "ZTE A55"
+  ],
+  [
+    "ZTE",
     "ZTE A606",
     "P639S10",
     "ZTE A606"
@@ -79429,6 +85483,24 @@
   ],
   [
     "ZTE",
+    "ZTE Blade A35e",
+    "P963F66",
+    "Z2466"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade A35s",
+    "P963F66",
+    "Z2466"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade A36e",
+    "P963F66",
+    "Z2466"
+  ],
+  [
+    "ZTE",
     "ZTE Blade A3v",
     "Z5157",
     "Z5157V"
@@ -79597,6 +85669,18 @@
   ],
   [
     "ZTE",
+    "ZTE Blade A56",
+    "P606F21",
+    "Z2473"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade A56 Pro",
+    "P615F01",
+    "Z2474"
+  ],
+  [
+    "ZTE",
     "ZTE Blade A7 2019",
     "P963F02",
     "ZTE Blade A7 2019"
@@ -79666,6 +85750,18 @@
     "ZTE Blade A75 5G S",
     "P720F09",
     "Z2357N"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade A76",
+    "P615F01",
+    "Z2474"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade A76 5G",
+    "P780F03",
+    "Z2469N"
   ],
   [
     "ZTE",
@@ -79879,6 +85975,12 @@
   ],
   [
     "ZTE",
+    "ZTE Blade V70 Vita",
+    "P606F17",
+    "Z2458"
+  ],
+  [
+    "ZTE",
     "ZTE Blade V770",
     "P852F52",
     "ZTE Blade V770"
@@ -79927,9 +86029,21 @@
   ],
   [
     "ZTE",
+    "ZTE Blade X1001",
+    "P606T07C",
+    "ZTE X1001"
+  ],
+  [
+    "ZTE",
     "ZTE Blade X10s",
     "P963T01C",
     "ZTE T1002"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade X1101",
+    "P616T04C",
+    "ZTE X1101"
   ],
   [
     "ZTE",
@@ -79954,6 +86068,12 @@
     "ZTE Blade X8 Pro",
     "P616T01C",
     "ZTE T0802"
+  ],
+  [
+    "ZTE",
+    "ZTE Blade X8701",
+    "P606T05C",
+    "ZTE X8701"
   ],
   [
     "ZTE",
@@ -80005,6 +86125,18 @@
   ],
   [
     "ZTE",
+    "ZTE Note 13 Pro",
+    "Z2470C",
+    "Z2470C"
+  ],
+  [
+    "ZTE",
+    "ZTE Note14 Pro+",
+    "Z2471C",
+    "Z2471C"
+  ],
+  [
+    "ZTE",
     "ZTE Overture 3",
     "jeff",
     "Z851"
@@ -80017,7 +86149,13 @@
   ],
   [
     "ZTE",
-    "ZTE T0801\t\t",
+    "ZTE Pad X1102N",
+    "P720T01",
+    "X1102N"
+  ],
+  [
+    "ZTE",
+    "ZTE T0801",
     "P876T01J",
     "ZTE T0801"
   ],
@@ -80113,6 +86251,12 @@
   ],
   [
     "ZTE",
+    "ZTE X1010",
+    "P310T10",
+    "ZTE X1010"
+  ],
+  [
+    "ZTE",
     "ZTE ZFive C LTE",
     "msm8909",
     "Z558VL"
@@ -80167,19 +86311,19 @@
   ],
   [
     "ZTE",
-    "ZTE Axon 30 5G",
+    "ZTE\u2002Axon\u200230 5G",
     "P875A02",
     "ZTE A2022"
   ],
   [
     "ZTE",
-    "ZTE Axon 30 5G",
+    "ZTE\u2002Axon\u200230 5G",
     "P875A02",
     "ZTE A2022H"
   ],
   [
     "ZTE",
-    "ZTE Grand X View 3",
+    "ZTE\u2002Grand\u2002X\u2002View\u20023",
     "K83CA",
     "K83CA"
   ],
@@ -80194,6 +86338,12 @@
     "ZTU31",
     "P852F52",
     "ZTU31"
+  ],
+  [
+    "ZTE",
+    "ZXV10_TCS500B",
+    "ZXV10_TCS500B",
+    "ZXV10_TCS500B"
   ],
   [
     "ZTE",
@@ -80269,9 +86419,51 @@
   ],
   [
     "ZTE",
+    "nubia A56",
+    "P606F21",
+    "Z2473"
+  ],
+  [
+    "ZTE",
     "nubia A75",
     "Z6255",
     "Z6255CA"
+  ],
+  [
+    "ZTE",
+    "nubia A76",
+    "P615F01",
+    "Z2474"
+  ],
+  [
+    "ZTE",
+    "nubia A76",
+    "Z6657",
+    "Z6657CA"
+  ],
+  [
+    "ZTE",
+    "nubia A76 5G",
+    "P780F03",
+    "Z2469N"
+  ],
+  [
+    "ZTE",
+    "nubia Air",
+    "P780F02",
+    "Z2468N"
+  ],
+  [
+    "ZTE",
+    "nubia Flip 2 5G",
+    "P678F01",
+    "NX732J"
+  ],
+  [
+    "ZTE",
+    "nubia Flip 2 5G",
+    "Z8900",
+    "Z8900CA"
   ],
   [
     "ZTE",
@@ -80293,9 +86485,33 @@
   ],
   [
     "ZTE",
+    "nubia Flip2",
+    "P678A01",
+    "NX732J"
+  ],
+  [
+    "ZTE",
+    "nubia Focus",
+    "P616F03",
+    "Z2455"
+  ],
+  [
+    "ZTE",
     "nubia Focus 2 5G",
     "P720F11",
     "Z2462N"
+  ],
+  [
+    "ZTE",
+    "nubia Focus 2 5G",
+    "Z7305O",
+    "nubia Focus 2 5G"
+  ],
+  [
+    "ZTE",
+    "nubia Focus 2 Ultra 5G",
+    "P720F12",
+    "Z2463N"
   ],
   [
     "ZTE",
@@ -80323,9 +86539,39 @@
   ],
   [
     "ZTE",
+    "nubia Music Pro",
+    "P606F18",
+    "Z2460"
+  ],
+  [
+    "ZTE",
     "nubia Neo 2 5G",
     "P820F03",
     "Z2352N"
+  ],
+  [
+    "ZTE",
+    "nubia Neo 3",
+    "P720F10",
+    "Z2461"
+  ],
+  [
+    "ZTE",
+    "nubia Neo 3 5G",
+    "P780F01",
+    "Z2464N"
+  ],
+  [
+    "ZTE",
+    "nubia Neo 3 GT 5G",
+    "Z7606O",
+    "Z2465N"
+  ],
+  [
+    "ZTE",
+    "nubia Neo 5 5G",
+    "P830F01",
+    "Z2571N"
   ],
   [
     "ZTE",
@@ -80347,9 +86593,33 @@
   ],
   [
     "ZTE",
+    "nubia Pad 5G",
+    "K99O",
+    "nubia Pad 5G"
+  ],
+  [
+    "ZTE",
+    "nubia Pad SE",
+    "K99J",
+    "K99J"
+  ],
+  [
+    "ZTE",
     "nubia Play",
     "NX651J",
     "NX651J"
+  ],
+  [
+    "ZTE",
+    "nubia S2R",
+    "Z6305R",
+    "Z6305R"
+  ],
+  [
+    "ZTE",
+    "nubia S2e",
+    "Z6302S",
+    "A507ZT"
   ],
   [
     "ZTE",
@@ -80374,6 +86644,12 @@
     "nubia V70 Design",
     "P606F17",
     "Z2458"
+  ],
+  [
+    "ZTE",
+    "nubia V70 Max",
+    "P606F19",
+    "Z2467"
   ],
   [
     "ZTE",
@@ -80419,6 +86695,30 @@
   ],
   [
     "ZTE",
+    "nubia Z70 Ultra",
+    "PQ84A01",
+    "NX736J"
+  ],
+  [
+    "ZTE",
+    "nubia Z70S Ultra",
+    "PQ84A02",
+    "NX733J"
+  ],
+  [
+    "ZTE",
+    "nubia Z70S Ultra",
+    "PQ84A02",
+    "NX737J"
+  ],
+  [
+    "ZTE",
+    "nubia Z80",
+    "PQ85A01",
+    "NX741J"
+  ],
+  [
+    "ZTE",
     "sapphire lte",
     "sapphire4g",
     "Z3001S"
@@ -80443,6 +86743,12 @@
   ],
   [
     "ZTE",
+    "uSmart Cloud Terminal",
+    "W210DS",
+    "W216DS"
+  ],
+  [
+    "ZTE",
     "zBOX 2",
     "YMA",
     "zBOX 2"
@@ -80455,21 +86761,39 @@
   ],
   [
     "ZTE",
-    "中兴Axon 50 Ultra 5G",
+    "\u4e2d\u5174Axon 50 Ultra 5G",
     "P898A25",
     "ZTE A2024H"
   ],
   [
     "ZTE",
-    "中兴畅行40",
+    "\u4e2d\u5174\u7545\u884c40",
     "P963S71",
     "ZTE 1020L"
   ],
   [
     "ZTE",
-    "中兴远航41",
+    "\u4e2d\u5174\u7545\u884c60 Ultra",
+    "P820S01",
+    "ZTE 7661N"
+  ],
+  [
+    "ZTE",
+    "\u4e2d\u5174\u8fdc\u822a41",
     "P720S11",
     "ZTE 7541N"
+  ],
+  [
+    "ZTE",
+    "\u7ea2\u9b5410 Pro",
+    "NX789J",
+    "NX789J"
+  ],
+  [
+    "ZTE",
+    "\u7ea2\u9b5411 Pro\u6e38\u620f\u624b\u673a",
+    "NX809J",
+    "NX809J"
   ],
   [
     "realme",
@@ -80557,6 +86881,36 @@
   ],
   [
     "realme",
+    "RMX3940",
+    "RE606B",
+    "RMX3940"
+  ],
+  [
+    "realme",
+    "RMX3943",
+    "RE6092",
+    "RMX3943"
+  ],
+  [
+    "realme",
+    "RMX3944",
+    "RE6083L1",
+    "RMX3944"
+  ],
+  [
+    "realme",
+    "RMX3945",
+    "RE6092",
+    "RMX3945"
+  ],
+  [
+    "realme",
+    "RMX3990",
+    "RE5CA3L1",
+    "RMX3990"
+  ],
+  [
+    "realme",
     "RMX3997",
     "RE5C9AL1",
     "RMX3997"
@@ -80566,6 +86920,102 @@
     "RMX3998",
     "RE5C94L1",
     "RMX3998"
+  ],
+  [
+    "realme",
+    "RMX5000",
+    "RE6066L1",
+    "RMX5000"
+  ],
+  [
+    "realme",
+    "RMX5061",
+    "RE60ADL1",
+    "RMX5061"
+  ],
+  [
+    "realme",
+    "RMX5107",
+    "RE646FL1",
+    "RMX5107"
+  ],
+  [
+    "realme",
+    "RMX5111",
+    "RE6444L1",
+    "RMX5111"
+  ],
+  [
+    "realme",
+    "RMX5200",
+    "RE6030L1",
+    "RMX5200"
+  ],
+  [
+    "realme",
+    "RMX5210",
+    "RE60C8L1",
+    "RMX5210"
+  ],
+  [
+    "realme",
+    "RMX5258",
+    "RE6478L1",
+    "RMX5258"
+  ],
+  [
+    "realme",
+    "RMX5261",
+    "RE6478L1",
+    "RMX5261"
+  ],
+  [
+    "realme",
+    "RMX5266",
+    "RE6491L1",
+    "RMX5266"
+  ],
+  [
+    "realme",
+    "RMX5303",
+    "RE60B8",
+    "RMX5303"
+  ],
+  [
+    "realme",
+    "RMX5313",
+    "RE60BA",
+    "RMX5313"
+  ],
+  [
+    "realme",
+    "RMX5366",
+    "RE6488",
+    "RMX5366"
+  ],
+  [
+    "realme",
+    "RMX5377",
+    "RE648B",
+    "RMX5377"
+  ],
+  [
+    "realme",
+    "RMX5388",
+    "RE60BA",
+    "RMX5388"
+  ],
+  [
+    "realme",
+    "RMX5555",
+    "RE6441L1",
+    "RMX5555"
+  ],
+  [
+    "realme",
+    "Smart TV",
+    "dangni",
+    "AI PONT"
   ],
   [
     "realme",
@@ -80797,12 +87247,6 @@
   ],
   [
     "realme",
-    "realme 13 Pro 5G",
-    "RE5CA3L1",
-    "RMX3990"
-  ],
-  [
-    "realme",
     "realme 13 Pro+ 5G",
     "RE5CA3L1",
     "RMX3921"
@@ -80815,15 +87259,117 @@
   ],
   [
     "realme",
-    "realme 13+ 5G\t",
-    "RE6066L1",
-    "RMX5000"
+    "realme 14 5G",
+    "RE608EL1",
+    "RMX5070"
+  ],
+  [
+    "realme",
+    "realme 14 Pro 5G",
+    "RE6081L1",
+    "RMX5056"
+  ],
+  [
+    "realme",
+    "realme 14 Pro 5G",
+    "RE6081L1",
+    "RMX5057"
+  ],
+  [
+    "realme",
+    "realme 14 Pro+ 5G",
+    "RE6079L1",
+    "RMX5051"
+  ],
+  [
+    "realme",
+    "realme 14 Pro+ 5G",
+    "RE6079L1",
+    "RMX5054"
+  ],
+  [
+    "realme",
+    "realme 14T 5G",
+    "RE60AFL1",
+    "RMX5074"
+  ],
+  [
+    "realme",
+    "realme 14T 5G",
+    "RE60AFL1",
+    "RMX5078"
   ],
   [
     "realme",
     "realme 14x 5G",
-    "RE606B",
-    "RMX3940"
+    "RE6092",
+    "RMX3943"
+  ],
+  [
+    "realme",
+    "realme 15 5G",
+    "RE60CCL1",
+    "RMX5106"
+  ],
+  [
+    "realme",
+    "realme 15 5G",
+    "RE60CDL1",
+    "RMX5106"
+  ],
+  [
+    "realme",
+    "realme 15 Pro 5G",
+    "RE60B4L1",
+    "RMX5101"
+  ],
+  [
+    "realme",
+    "realme 15T",
+    "RE6444L1",
+    "RMX5111"
+  ],
+  [
+    "realme",
+    "realme 15x 5G",
+    "RE644C",
+    "RMX5250"
+  ],
+  [
+    "realme",
+    "realme 16 5G",
+    "RE6474L1",
+    "RMX5171"
+  ],
+  [
+    "realme",
+    "realme 16 Pro 5G",
+    "RE645DL1",
+    "RMX5120"
+  ],
+  [
+    "realme",
+    "realme 16 Pro+ 5G",
+    "RE6458L1",
+    "RMX5131"
+  ],
+  [
+    "realme",
+    "realme 16T 5G",
+    "RE6491L1",
+    "RMX5268"
+  ],
+  [
+    "realme",
+    "realme 16x 5G",
+    "RE6491L1",
+    "RMX5270"
+  ],
+  [
+    "realme",
+    "realme 2K G Smart TV",
+    "umeda",
+    "realme 2K G Smart TV"
   ],
   [
     "realme",
@@ -80887,7 +87433,7 @@
   ],
   [
     "realme",
-    "realme 8 5G\t",
+    "realme 8 5G",
     "RE513CL1",
     "RMX3241"
   ],
@@ -80983,15 +87529,45 @@
   ],
   [
     "realme",
-    "realme 9i\t",
-    "RED8C1L1",
-    "RMX3493"
-  ],
-  [
-    "realme",
     "realme 9i 5G",
     "RE588DL1",
     "RMX3612"
+  ],
+  [
+    "realme",
+    "realme C100",
+    "RE646B",
+    "RMX5353"
+  ],
+  [
+    "realme",
+    "realme C100 5G",
+    "RE6478L1",
+    "RMX5258"
+  ],
+  [
+    "realme",
+    "realme C100d",
+    "RE6802",
+    "RMX5363"
+  ],
+  [
+    "realme",
+    "realme C100i",
+    "RE648B",
+    "RMX5377"
+  ],
+  [
+    "realme",
+    "realme C100i",
+    "RE67EF",
+    "RMX5399"
+  ],
+  [
+    "realme",
+    "realme C100x",
+    "RE6488",
+    "RMX5366"
   ],
   [
     "realme",
@@ -81211,19 +87787,61 @@
   ],
   [
     "realme",
+    "realme C71",
+    "RE60B8",
+    "RMX5303"
+  ],
+  [
+    "realme",
     "realme C75",
     "RE607CL1",
     "RMX3941"
   ],
   [
     "realme",
-    "realme GT 2\t",
+    "realme C75 5G",
+    "RE6092",
+    "RMX3943"
+  ],
+  [
+    "realme",
+    "realme C75 5G",
+    "RE6092",
+    "RMX3963"
+  ],
+  [
+    "realme",
+    "realme C75x",
+    "RE6089",
+    "RMX5020"
+  ],
+  [
+    "realme",
+    "realme C83 5G",
+    "RE6478L1",
+    "RMX5256"
+  ],
+  [
+    "realme",
+    "realme C85",
+    "RE645F",
+    "RMX5566"
+  ],
+  [
+    "realme",
+    "realme C85 5G",
+    "RE644C",
+    "RMX5253"
+  ],
+  [
+    "realme",
+    "realme GT 2",
     "RE58B2L1",
     "RMX3312"
   ],
   [
     "realme",
-    "realme GT 2 Pro\t",
+    "realme GT 2 Pro",
     "RED8ACL1",
     "RMX3301"
   ],
@@ -81253,13 +87871,19 @@
   ],
   [
     "realme",
+    "realme GT 7T",
+    "RE6090L1",
+    "RMX5085"
+  ],
+  [
+    "realme",
     "realme GT Master Edition",
     "RE507C",
     "RMX3361"
   ],
   [
     "realme",
-    "realme GT Master Edition\t",
+    "realme GT Master Edition",
     "RE54ABL1",
     "RMX3360"
   ],
@@ -81295,12 +87919,6 @@
   ],
   [
     "realme",
-    "realme GT Neo2 5G\t",
-    "RE879AL1",
-    "RMX3370"
-  ],
-  [
-    "realme",
     "realme GT3 240W",
     "REE2B2L1",
     "RMX3709"
@@ -81331,6 +87949,18 @@
   ],
   [
     "realme",
+    "realme NARZO 80 Pro 5G",
+    "RE60AEL1",
+    "RMX5033"
+  ],
+  [
+    "realme",
+    "realme NARZO 90x 5G",
+    "RE644C",
+    "RMX5264"
+  ],
+  [
+    "realme",
     "realme Narzo 30 Pro 5G",
     "RMX2117L1",
     "RMX2117"
@@ -81352,6 +87982,24 @@
     "realme Note 60x",
     "RE6095",
     "RMX3938"
+  ],
+  [
+    "realme",
+    "realme Note 70",
+    "RE60BA",
+    "RMX5313"
+  ],
+  [
+    "realme",
+    "realme Note 70T",
+    "RE60BA",
+    "RMX5313"
+  ],
+  [
+    "realme",
+    "realme Note 80",
+    "RE60BA",
+    "RMX5388"
   ],
   [
     "realme",
@@ -81379,6 +88027,90 @@
   ],
   [
     "realme",
+    "realme P3 5G",
+    "RE608EL1",
+    "RMX5070"
+  ],
+  [
+    "realme",
+    "realme P3 5G",
+    "RE608EL1",
+    "RMX5079"
+  ],
+  [
+    "realme",
+    "realme P3 Lite",
+    "RE60B8",
+    "RMX5300"
+  ],
+  [
+    "realme",
+    "realme P3 Pro 5G",
+    "RE6079L1",
+    "RMX5032"
+  ],
+  [
+    "realme",
+    "realme P3 Ultra 5G",
+    "RE60A4L1",
+    "RMX5030"
+  ],
+  [
+    "realme",
+    "realme P3 Ultra 5G",
+    "RE60A4L1",
+    "RMX5031"
+  ],
+  [
+    "realme",
+    "realme P4 5G",
+    "RE6440L1",
+    "RMX5110"
+  ],
+  [
+    "realme",
+    "realme P4 Lite",
+    "RE648B",
+    "RMX5378"
+  ],
+  [
+    "realme",
+    "realme P4 Power 5G",
+    "RE646FL1",
+    "RMX5107"
+  ],
+  [
+    "realme",
+    "realme P4 Pro 5G",
+    "RE644BL1",
+    "RMX5116"
+  ],
+  [
+    "realme",
+    "realme P4s 5G",
+    "RE6472L1",
+    "RMX5125"
+  ],
+  [
+    "realme",
+    "realme P4s Lite",
+    "RE6810",
+    "RMX5398"
+  ],
+  [
+    "realme",
+    "realme P4x",
+    "RE6488",
+    "RMX5367"
+  ],
+  [
+    "realme",
+    "realme P4x 5G",
+    "RE6450L1",
+    "RMX5108"
+  ],
+  [
+    "realme",
     "realme Pad 2",
     "RE5C6EL1",
     "RMP2204"
@@ -81394,6 +88126,18 @@
     "realme Pad 2 Lite",
     "RE6077L1",
     "RMP2402"
+  ],
+  [
+    "realme",
+    "realme Pad 3",
+    "RE6453L1",
+    "RMP2502"
+  ],
+  [
+    "realme",
+    "realme Pad 3 5G",
+    "RE6452L1",
+    "RMP2501"
   ],
   [
     "realme",
@@ -81445,7 +88189,7 @@
   ],
   [
     "realme",
-    "realme Q3s\t",
+    "realme Q3s",
     "RE548BL1",
     "RMX3461"
   ],
@@ -81565,7 +88309,7 @@
   ],
   [
     "realme",
-    "realme X7 5G",
+    "realme X7\u00a05G",
     "RMX2176CN",
     "RMX2176"
   ],
@@ -81667,7 +88411,7 @@
   ],
   [
     "realme",
-    "realme  X7 Pro ",
+    "realme \u00a0X7 Pro",
     "RMX2121CN",
     "RMX2121"
   ],
@@ -81685,206 +88429,1310 @@
   ],
   [
     "realme",
-    "真我 GT NEO  3  150W",
+    "realmeTechLife",
+    "chester",
+    "REC75P"
+  ],
+  [
+    "realme",
+    "\u771f\u6211 GT NEO  3  150W",
     "RE5489",
     "RMX3562"
   ],
   [
     "realme",
-    "真我 GT NEO 3",
+    "\u771f\u6211 GT NEO 3",
     "RE5489",
     "RMX3560"
   ],
   [
     "realme",
-    "真我 GT2 大师探索版",
+    "\u771f\u6211 GT2 \u5927\u5e08\u63a2\u7d22\u7248",
     "RE5465",
     "RMX3551"
   ],
   [
     "realme",
-    "真我 Q3 Pro 5G",
+    "\u771f\u6211 Q3 Pro 5G",
     "RMX2205CN",
     "RMX2205"
   ],
   [
     "realme",
-    "真我 V20",
+    "\u771f\u6211 V20",
     "RE584B",
     "RMX3610"
   ],
   [
     "realme",
-    "真我 V20",
+    "\u771f\u6211 V20",
     "RE584B",
     "RMX3611"
   ],
   [
     "realme",
-    "真我11 Pro",
+    "\u771f\u621111 Pro",
     "RE5869",
     "RMX3770"
   ],
   [
     "realme",
-    "真我12",
+    "\u771f\u621112",
     "RE5C3F",
     "RMX3992"
   ],
   [
     "realme",
-    "真我12 Pro",
+    "\u771f\u621112 Pro",
     "RE5C3C",
     "RMX3843"
   ],
   [
     "realme",
-    "真我12 Pro+",
+    "\u771f\u621112 Pro+",
     "RE5C3B",
     "RMX3841"
   ],
   [
     "realme",
-    "真我12x",
+    "\u771f\u621112x",
     "RE5C3F",
     "RMX3993"
   ],
   [
     "realme",
-    "真我13",
+    "\u771f\u621113",
     "RE5C44",
     "RMX3952"
   ],
   [
     "realme",
-    "真我13 Pro",
+    "\u771f\u621113 Pro",
     "RE601EL1",
     "RMX5002"
   ],
   [
     "realme",
-    "真我13 Pro+",
+    "\u771f\u621113 Pro+",
     "RE5C49L1",
     "RMX3920"
   ],
   [
     "realme",
-    "真我13 Pro至尊版",
+    "\u771f\u621113 Pro\u81f3\u5c0a\u7248",
     "RE5C49L1",
     "RMX3989"
   ],
   [
     "realme",
-    "真我GT 2\t",
+    "\u771f\u621114",
+    "RE6024L1",
+    "RMX5075"
+  ],
+  [
+    "realme",
+    "\u771f\u621114 Pro",
+    "RE6020L1",
+    "RMX5055"
+  ],
+  [
+    "realme",
+    "\u771f\u621114 Pro+",
+    "RE601FL1",
+    "RMX5050"
+  ],
+  [
+    "realme",
+    "\u771f\u621115",
+    "RE6032L1",
+    "RMX5105"
+  ],
+  [
+    "realme",
+    "\u771f\u621115 Pro",
+    "RE6031L1",
+    "RMX5100"
+  ],
+  [
+    "realme",
+    "\u771f\u621115T",
+    "RE6404L1",
+    "RMX5112"
+  ],
+  [
+    "realme",
+    "\u771f\u6211GT 2",
     "RE5471",
     "RMX3310"
   ],
   [
     "realme",
-    "真我GT 2\t",
+    "\u771f\u6211GT 2",
     "RE58B2L1",
     "RMX3311"
   ],
   [
     "realme",
-    "真我GT 2 Pro\t",
+    "\u771f\u6211GT 2 Pro",
     "RE547F",
     "RMX3300"
   ],
   [
     "realme",
-    "真我GT Neo",
+    "\u771f\u6211GT Neo",
     "RMX3031CN",
     "RMX3031"
   ],
   [
     "realme",
-    "真我GT Neo6",
+    "\u771f\u6211GT Neo6",
     "RE5C46L1",
     "RMX3852"
   ],
   [
     "realme",
-    "真我GT Neo6 SE",
+    "\u771f\u6211GT Neo6 SE",
     "RE5C39L1",
     "RMX3850"
   ],
   [
     "realme",
-    "真我GT6",
+    "\u771f\u6211GT6",
     "RE5C4FL1",
     "RMX3800"
   ],
   [
     "realme",
-    "真我GT7 Pro",
+    "\u771f\u6211GT7",
+    "RE602AL1",
+    "RMX6688"
+  ],
+  [
+    "realme",
+    "\u771f\u6211GT7 Pro",
     "RE6018L1",
     "RMX5010"
   ],
   [
     "realme",
-    "真我Neo7",
+    "\u771f\u6211GT7 Pro\u7ade\u901f\u7248",
+    "RE602CL1",
+    "RMX5090"
+  ],
+  [
+    "realme",
+    "\u771f\u6211GT8",
+    "RE6400L1",
+    "RMX6699"
+  ],
+  [
+    "realme",
+    "\u771f\u6211Neo7",
     "RE6022L1",
     "RMX5060"
   ],
   [
     "realme",
-    "真我Q3s\t",
+    "\u771f\u6211Neo7 SE",
+    "RE6025L1",
+    "RMX5080"
+  ],
+  [
+    "realme",
+    "\u771f\u6211Neo7 Turbo",
+    "RE602EL1",
+    "RMX5062"
+  ],
+  [
+    "realme",
+    "\u771f\u6211Neo7x",
+    "RE6024L1",
+    "RMX5071"
+  ],
+  [
+    "realme",
+    "\u771f\u6211Neo8",
+    "RE6402L1",
+    "RMX8899"
+  ],
+  [
+    "realme",
+    "\u771f\u6211Q3s",
     "RE548B",
     "RMX3461"
   ],
   [
     "realme",
-    "真我Q3s\t",
+    "\u771f\u6211Q3s",
     "RE548B",
     "RMX3462"
   ],
   [
     "realme",
-    "真我V13 5G",
+    "\u771f\u6211V13 5G",
     "RE5081",
     "RMX3041"
   ],
   [
     "realme",
-    "真我V13 5G",
+    "\u771f\u6211V13 5G",
     "RE5081",
     "RMX3042"
   ],
   [
     "realme",
-    "真我V13 5G",
+    "\u771f\u6211V13 5G",
     "RE5081",
     "RMX3043"
   ],
   [
     "realme",
-    "真我V50",
+    "\u771f\u6211V50",
     "RE5C34",
     "RMX3783"
   ],
   [
     "realme",
-    "真我V50s",
+    "\u771f\u6211V50s",
     "RE5C34",
     "RMX3781"
   ],
   [
     "realme",
-    "真我V60",
+    "\u771f\u6211V60",
     "RE5C44",
     "RMX3995"
   ],
   [
     "realme",
-    "真我V60 Pro",
+    "\u771f\u6211V60 Pro",
     "RE6019",
     "RMX3953"
   ],
   [
     "realme",
-    "真我V60s",
+    "\u771f\u6211V60s",
     "RE5C44",
     "RMX3996"
+  ],
+  [
+    "realme",
+    "\u771f\u6211V70",
+    "RE6027",
+    "RMX3946"
+  ],
+  [
+    "realme",
+    "\u771f\u6211V70s",
+    "RE6027",
+    "RMX3948"
+  ],
+  [
+    "vivo",
+    "G3",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "G5i",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "G5z",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "PA2535",
+    "DPD2345",
+    "PA2455"
+  ],
+  [
+    "vivo",
+    "PA2535",
+    "DPD2345",
+    "PA2535"
+  ],
+  [
+    "vivo",
+    "Pad5",
+    "DPD2437",
+    "PA2553"
+  ],
+  [
+    "vivo",
+    "Pad6 Pro",
+    "DPD2540",
+    "PA2671"
+  ],
+  [
+    "vivo",
+    "S2",
+    "V2576",
+    "V2576"
+  ],
+  [
+    "vivo",
+    "S30",
+    "PD2464",
+    "V2464A"
+  ],
+  [
+    "vivo",
+    "S30 Pro mini",
+    "PD2465",
+    "V2465A"
+  ],
+  [
+    "vivo",
+    "S50",
+    "PD2528",
+    "V2528A"
+  ],
+  [
+    "vivo",
+    "S50 Pro mini",
+    "PD2527",
+    "V2527A"
+  ],
+  [
+    "vivo",
+    "S50t",
+    "PD2528",
+    "V2528A"
+  ],
+  [
+    "vivo",
+    "S50t Series",
+    "PD2528",
+    "V2528A"
+  ],
+  [
+    "vivo",
+    "S60",
+    "PD2571",
+    "V2571A"
+  ],
+  [
+    "vivo",
+    "S60 \u5143\u6c14\u7248",
+    "PD2572",
+    "V2572A"
+  ],
+  [
+    "vivo",
+    "T4 Pro",
+    "V2511",
+    "V2510"
+  ],
+  [
+    "vivo",
+    "T4 Ultra",
+    "V2504",
+    "V2504"
+  ],
+  [
+    "vivo",
+    "T5",
+    "V2543",
+    "V2583"
+  ],
+  [
+    "vivo",
+    "T5 Lite 44W 5G",
+    "V2553",
+    "V2557"
+  ],
+  [
+    "vivo",
+    "T5 Pro",
+    "V2529",
+    "V2602"
+  ],
+  [
+    "vivo",
+    "T5 Pro 5G",
+    "V2568",
+    "V2568"
+  ],
+  [
+    "vivo",
+    "T5e",
+    "V2606",
+    "V2628"
+  ],
+  [
+    "vivo",
+    "T5x 5G",
+    "V2545",
+    "V2545"
+  ],
+  [
+    "vivo",
+    "V60",
+    "V2511",
+    "V2511"
+  ],
+  [
+    "vivo",
+    "V60",
+    "V2511",
+    "V2512"
+  ],
+  [
+    "vivo",
+    "V60 Lite",
+    "V2441",
+    "V2530"
+  ],
+  [
+    "vivo",
+    "V60 Lite",
+    "V2441U",
+    "V2549"
+  ],
+  [
+    "vivo",
+    "V60 Lite 5G",
+    "V2529",
+    "V2529"
+  ],
+  [
+    "vivo",
+    "V60e",
+    "V2513",
+    "V2513"
+  ],
+  [
+    "vivo",
+    "V70",
+    "V2538",
+    "V2538"
+  ],
+  [
+    "vivo",
+    "V70",
+    "V2538",
+    "V2539"
+  ],
+  [
+    "vivo",
+    "V70",
+    "V2538",
+    "V2540"
+  ],
+  [
+    "vivo",
+    "V70",
+    "V2538",
+    "V2588"
+  ],
+  [
+    "vivo",
+    "V70 Elite",
+    "V2548",
+    "V2548"
+  ],
+  [
+    "vivo",
+    "V70 FE",
+    "V2550",
+    "V2550"
+  ],
+  [
+    "vivo",
+    "V70 FE",
+    "V2550",
+    "V2551"
+  ],
+  [
+    "vivo",
+    "V70 FE",
+    "V2550",
+    "V2552"
+  ],
+  [
+    "vivo",
+    "V70 FE",
+    "V2550",
+    "V2558"
+  ],
+  [
+    "vivo",
+    "V70 Lite",
+    "V2570",
+    "V2584"
+  ],
+  [
+    "vivo",
+    "V70 Lite",
+    "V2570",
+    "V2604"
+  ],
+  [
+    "vivo",
+    "V70 Lite",
+    "V2570",
+    "V2627"
+  ],
+  [
+    "vivo",
+    "V70 Lite",
+    "V2570",
+    "V2634"
+  ],
+  [
+    "vivo",
+    "V70 Lite",
+    "V2570",
+    "V2635"
+  ],
+  [
+    "vivo",
+    "V70 Lite 5G",
+    "V2529",
+    "V2615"
+  ],
+  [
+    "vivo",
+    "V70 Lite 5G",
+    "V2529",
+    "V2637"
+  ],
+  [
+    "vivo",
+    "V80 Lite 5G",
+    "V2576",
+    "V2576"
+  ],
+  [
+    "vivo",
+    "V80 Lite 5G",
+    "V2576",
+    "V2643"
+  ],
+  [
+    "vivo",
+    "V80 Lite 5G",
+    "V2576",
+    "V2644"
+  ],
+  [
+    "vivo",
+    "V80 Lite 5G",
+    "V2626",
+    "V2626"
+  ],
+  [
+    "vivo",
+    "V80 Lite 5G",
+    "V2626",
+    "V2655"
+  ],
+  [
+    "vivo",
+    "X Fold5",
+    "PD2436",
+    "V2436A"
+  ],
+  [
+    "vivo",
+    "X Fold5",
+    "V2429",
+    "V2429"
+  ],
+  [
+    "vivo",
+    "X Fold6",
+    "PD2545",
+    "V2545A"
+  ],
+  [
+    "vivo",
+    "X200 FE",
+    "V2503",
+    "V2503"
+  ],
+  [
+    "vivo",
+    "X200 FE",
+    "V2503",
+    "V2505"
+  ],
+  [
+    "vivo",
+    "X200T",
+    "V2561",
+    "V2561"
+  ],
+  [
+    "vivo",
+    "X300",
+    "PD2509",
+    "V2509A"
+  ],
+  [
+    "vivo",
+    "X300",
+    "V2515",
+    "V2515"
+  ],
+  [
+    "vivo",
+    "X300 E",
+    "PD2612",
+    "V2612A"
+  ],
+  [
+    "vivo",
+    "X300 FE",
+    "V2537",
+    "V2537"
+  ],
+  [
+    "vivo",
+    "X300 FE",
+    "V2537",
+    "V2542"
+  ],
+  [
+    "vivo",
+    "X300 FE",
+    "V2537",
+    "V2633"
+  ],
+  [
+    "vivo",
+    "X300 Pro",
+    "PD2502",
+    "V2502A"
+  ],
+  [
+    "vivo",
+    "X300 Pro",
+    "V2514",
+    "V2514"
+  ],
+  [
+    "vivo",
+    "X300 Pro \u536b\u661f\u901a\u4fe1\u7248",
+    "PD2502",
+    "V2502DA"
+  ],
+  [
+    "vivo",
+    "X300 Ultra",
+    "PD2547",
+    "V2547A"
+  ],
+  [
+    "vivo",
+    "X300 Ultra",
+    "PD2547",
+    "V2547DA"
+  ],
+  [
+    "vivo",
+    "X300 Ultra",
+    "V2562",
+    "V2562"
+  ],
+  [
+    "vivo",
+    "X300 Ultra \u536b\u661f\u901a\u4fe1\u7248",
+    "PD2547",
+    "V2547DA"
+  ],
+  [
+    "vivo",
+    "X300s",
+    "PD2548",
+    "V2548A"
+  ],
+  [
+    "vivo",
+    "Y04e",
+    "V2430",
+    "V2532"
+  ],
+  [
+    "vivo",
+    "Y05",
+    "V2556",
+    "V2556"
+  ],
+  [
+    "vivo",
+    "Y05",
+    "V2556",
+    "V2565"
+  ],
+  [
+    "vivo",
+    "Y05e",
+    "V2606",
+    "V2606"
+  ],
+  [
+    "vivo",
+    "Y05i",
+    "V2556",
+    "V2556"
+  ],
+  [
+    "vivo",
+    "Y05i",
+    "V2556",
+    "V2650"
+  ],
+  [
+    "vivo",
+    "Y11 5G",
+    "V2553",
+    "V2575"
+  ],
+  [
+    "vivo",
+    "Y11d",
+    "V2556",
+    "V2555"
+  ],
+  [
+    "vivo",
+    "Y11d",
+    "V2556",
+    "V2578"
+  ],
+  [
+    "vivo",
+    "Y11d",
+    "V2556",
+    "V2580"
+  ],
+  [
+    "vivo",
+    "Y11d",
+    "V2556",
+    "V2646"
+  ],
+  [
+    "vivo",
+    "Y11e",
+    "V2556",
+    "V2577"
+  ],
+  [
+    "vivo",
+    "Y19s 5G",
+    "V2446",
+    "V2541"
+  ],
+  [
+    "vivo",
+    "Y21 5G",
+    "V2553",
+    "V2553"
+  ],
+  [
+    "vivo",
+    "Y21 5G",
+    "V2553",
+    "V2554"
+  ],
+  [
+    "vivo",
+    "Y21d",
+    "V2520",
+    "V2520"
+  ],
+  [
+    "vivo",
+    "Y21d",
+    "V2520",
+    "V2524"
+  ],
+  [
+    "vivo",
+    "Y21d",
+    "V2520",
+    "V2525"
+  ],
+  [
+    "vivo",
+    "Y21d",
+    "V2520",
+    "V2535"
+  ],
+  [
+    "vivo",
+    "Y21d",
+    "V2520",
+    "V2560"
+  ],
+  [
+    "vivo",
+    "Y21e",
+    "V2520",
+    "V2525"
+  ],
+  [
+    "vivo",
+    "Y300 GT",
+    "PD2452",
+    "V2452GA"
+  ],
+  [
+    "vivo",
+    "Y31 5G",
+    "V2521",
+    "V2521"
+  ],
+  [
+    "vivo",
+    "Y31 5G",
+    "V2521L",
+    "V2521"
+  ],
+  [
+    "vivo",
+    "Y31 Pro 5G",
+    "V2437",
+    "V2534"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543",
+    "V2543"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543",
+    "V2546"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543",
+    "V2582"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543",
+    "V2611"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543",
+    "V2636"
+  ],
+  [
+    "vivo",
+    "Y31d",
+    "V2543U",
+    "V2611"
+  ],
+  [
+    "vivo",
+    "Y31d Pro",
+    "V2543U",
+    "V2543"
+  ],
+  [
+    "vivo",
+    "Y31e 5G",
+    "V2521",
+    "V2533"
+  ],
+  [
+    "vivo",
+    "Y31s 5G",
+    "V2521",
+    "V2614"
+  ],
+  [
+    "vivo",
+    "Y31t 5G",
+    "V2571",
+    "V2571"
+  ],
+  [
+    "vivo",
+    "Y31t 5G",
+    "V2571",
+    "V2574"
+  ],
+  [
+    "vivo",
+    "Y37+",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y37t",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y400",
+    "V2455",
+    "V2455"
+  ],
+  [
+    "vivo",
+    "Y400 5G",
+    "V2506",
+    "V2506"
+  ],
+  [
+    "vivo",
+    "Y400 Pro 5G",
+    "V2439",
+    "V2439"
+  ],
+  [
+    "vivo",
+    "Y50 5G",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50 AI\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50 \u79fb\u52a8\u5b9a\u5236\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "PD2506",
+    "V2506A"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "V2570",
+    "V2570"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "V2570",
+    "V2584"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "V2570",
+    "V2627"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "V2570",
+    "V2634"
+  ],
+  [
+    "vivo",
+    "Y500",
+    "V2570",
+    "V2635"
+  ],
+  [
+    "vivo",
+    "Y500 Pro",
+    "PD2516",
+    "V2516A"
+  ],
+  [
+    "vivo",
+    "Y500i",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y500i AI\u7248",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y500i m\u7248",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y500s",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y500s AI\u7248",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y50c",
+    "PD2443",
+    "V2443BA"
+  ],
+  [
+    "vivo",
+    "Y50e 5G",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50e AI\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50i",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50i 12+256\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50i 8+256\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50i \u79fb\u52a8\u5b9a\u5236\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50m 5G",
+    "PD2443",
+    "V2443BA"
+  ],
+  [
+    "vivo",
+    "Y50s 5G",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y50s AI\u7248",
+    "PD2443",
+    "V2443A"
+  ],
+  [
+    "vivo",
+    "Y51 Pro 5G",
+    "V2545L",
+    "V2544"
+  ],
+  [
+    "vivo",
+    "Y51 Pro 5G",
+    "V2545L",
+    "V2613"
+  ],
+  [
+    "vivo",
+    "Y6",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y60",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y60 AI\u7248",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y600 AI",
+    "PD2607",
+    "V2607A"
+  ],
+  [
+    "vivo",
+    "Y600 Pro",
+    "PD2561",
+    "V2561A"
+  ],
+  [
+    "vivo",
+    "Y600 Pro AI\u7248",
+    "PD2561",
+    "V2561A"
+  ],
+  [
+    "vivo",
+    "Y600 Turbo",
+    "PD2553",
+    "V2553A"
+  ],
+  [
+    "vivo",
+    "Y600i",
+    "PD2617",
+    "V2617A"
+  ],
+  [
+    "vivo",
+    "Y600i AI\u7248",
+    "PD2617",
+    "V2617A"
+  ],
+  [
+    "vivo",
+    "Y600i m\u7248",
+    "PD2617",
+    "V2617A"
+  ],
+  [
+    "vivo",
+    "Y60c",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60e",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60e AI\u7248",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60e m\u7248",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60i",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60i AI\u7248",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60i m\u7248",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y60m",
+    "PD2559",
+    "V2559BA"
+  ],
+  [
+    "vivo",
+    "Y60s",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y60s AI\u7248",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y60s m\u7248",
+    "PD2559",
+    "V2559BA"
+  ],
+  [
+    "vivo",
+    "Y6a",
+    "PD2531",
+    "V2531A"
+  ],
+  [
+    "vivo",
+    "Y6e",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y6k",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "Y6m",
+    "PD2532",
+    "V2532BA"
+  ],
+  [
+    "vivo",
+    "Y6t",
+    "PD2559",
+    "V2559A"
+  ],
+  [
+    "vivo",
+    "Y6t m\u7248",
+    "PD2542",
+    "V2542A"
+  ],
+  [
+    "vivo",
+    "vivo V50 Lite 5G",
+    "V2440",
+    "V2440"
+  ],
+  [
+    "vivo",
+    "vivo V50 Lite 5G",
+    "V2440",
+    "V2450"
   ]
 ]
